@@ -1,0 +1,2449 @@
+genre	artist_name	track_name	track_id	popularity
+Dance	Ariana Grande	7 rings	14msK75pk3pA33pzPVNtBF	100
+Dance	Halsey	Without Me	5p7ujcrUXASCNwRaWNHR1C	97
+Dance	Ariana Grande	needy	1TEL6MlSSVLSdhOSddidlJ	92
+Dance	Ariana Grande	NASA	4uTvPEr01pjTbZgl7jcKBD	91
+Dance	Ariana Grande	bloodline	2hloaUoRonYssMuqLCBLTX	91
+Dance	Ariana Grande	bad idea	5Il6Oe7lr5XM7A0cWbVQtr	91
+Dance	benny blanco	Eastside (with Halsey & Khalid)	0d2iYfpKoM0QCKvcLCkBao	91
+Dance	Ariana Grande	fake smile	3wFLWP0FcIqHK1wb1CPthQ	90
+Dance	Lauv	i'm so tired...	7COXchtUOMd6uIT6HvmRaI	93
+Dance	Ava Max	Sweet but Psycho	25sgk305KZfyuqVBQIahim	97
+Dance	Ariana Grande	imagine	39LmTF9RgyakzSYX8txrow	90
+Dance	Alec Benjamin	Let Me Down Slowly	2qxmye6gAegTMjLKEBoR3d	92
+Dance	Lady Gaga	Shallow	2VxeLyX666F8uXCJ0dZF8B	95
+Dance	Ariana Grande	in my head	4T652DlATVHe0jdLKaN3Bw	88
+Dance	Jonas Brothers	Sucker	4y3OI86AEP6PQoDE6olYhO	91
+Dance	Lady Gaga	Shallow - Radio Edit	6QfS2wq5sSC1xAJCQsTSlj	90
+Dance	Ariana Grande	make up	27356GVuMPFWiJSZCragoM	87
+Dance	The Chainsmokers	Who Do You Love (with 5 Seconds of Summer)	11cDEev79fPKi6uJCjUhu8	91
+Dance	Bazzi	Beautiful (feat. Camila Cabello)	4VUwkH455At9kENOfzTqmF	89
+Dance	Ariana Grande	no tears left to cry	2qT1uLXPVPzGgFOx4jtEuo	90
+Dance	The Chainsmokers	This Feeling	4NBTZtAt1F13VvlSKe6KTl	88
+Dance	Mark Ronson	Nothing Breaks Like a Heart (feat. Miley Cyrus)	27rdGxbavYJeBphck5MZAF	92
+Dance	Ariana Grande	breathin	4OafepJy2teCjYJbvFE60J	87
+Dance	benny blanco	Roses (with Juice WRLD feat. Brendon Urie)	5YAP8zpqj1eIX88makBjDe	83
+Dance	Bazzi	Mine	7uzmGiiJyRfuViKKK3lVmR	86
+Dance	Lauv	I Like Me Better	1wjzFQodRWrPcQ0AnYnvQ9	87
+Dance	Bebe Rexha	Meant to Be (feat. Florida Georgia Line)	7iDa6hUg2VgEL1o1HjmfBn	85
+Dance	Ariana Grande	God is a woman	5OCJzvD7sykQEKHH7qAC3C	87
+Dance	King Princess	1950	0CZ8lquoTX2Dkg7Ak2inwA	84
+Dance	The Chainsmokers	Hope	4BiiOzZCrXEzHRLYcYFiD5	88
+Dance	Ellie Goulding	Close To Me (with Diplo) (feat. Swae Lee)	5JEx7HbmvHQQswJCsoo9rA	92
+Dance	Bebe Rexha	I'm a Mess	04ZTP5KsCypmtCmQg5tH9R	86
+Dance	Calvin Harris	Giant (with Rag'n'Bone Man)	5itOtNx0WxtJmi1TQ3RuRd	94
+Dance	The Chainsmokers	Closer	7BKLCZ1jbUBVqRi2FVlTVw	86
+Dance	Bebe Rexha	Last Hurrah	0i0wnv9UoFdZ5MfuFGQzMy	85
+Dance	5 Seconds of Summer	Youngblood	2iUXsYOEPhVqEBwsqP70rE	87
+Dance	Lady Gaga	Always Remember Us This Way	2rbDhOo9Fh61Bbu23T2qCk	87
+Dance	Kehlani	Nights Like This (feat. Ty Dolla $ign)	6ZRuF2n1CQxyxxAAWsKJOy	83
+Dance	Lauv	There's No Way (feat. Julia Michaels)	2hnxrRNzF74mdDzpQZQukQ	85
+Dance	Bruno Mars	That's What I Like	0KKkJNfGyhkQ5aFogxQAPU	85
+Dance	Selena Gomez	Wolves	0tBbt8CrmxbjRP0pueQkyU	86
+Dance	Camila Cabello	Havana	1rfofaqEpACxVEHIZBJe6W	88
+Dance	Miley Cyrus	Party In The U.S.A.	5Q0Nhxo0l2bP3pNjpGJwV1	76
+Dance	Halsey	Bad At Love	7y9iMe8SOB6z3NoHE2OfXl	81
+Dance	Bruno Mars	Finesse (Remix) [feat. Cardi B]	3Vo4wInECJQuz9BIBMOu8i	83
+Dance	Zedd	The Middle	09IStsImFySgyp0pIQdqAc	87
+Dance	Why Don't We	Big Plans	6Yx181fZzA0YE2EkUsYruq	85
+Dance	5 Seconds of Summer	Lie To Me (feat. Julia Michaels)	6GzApXoBQiiAjak3tOQfV3	85
+Dance	Shawn Mendes	In My Blood	2QZ7WLBE8h2y1Y5Fb8RYbH	87
+Dance	Ariana Grande	Into You	2meEiZKWkiN28gITzFwQo5	84
+Dance	Selena Gomez	Back To You - From 13 Reasons Why � Season 2 Soundtrack	4hQ6UGyWQIGJmHSo0J88JW	84
+Dance	Chris Brown	Undecided	7uiBocndm12aKbsdnQ3Scx	86
+Dance	Ariana Grande	One Last Time	7xoUc6faLbCqZO6fQEYprd	84
+Dance	Julia Michaels	What A Time (feat. Niall Horan)	5WtfUKzXircvW8l5aaVZWT	84
+Dance	David Guetta	Better When You're Gone	4Tvw0lweq9l2JPQKFbpbBQ	85
+Dance	Hailee Steinfeld	Starving	4Ce37cRWvM1vIGGynKcs22	82
+Dance	Madison Beer	Hurts Like Hell (feat. Offset)	3WefHNGtjexZvi66ZEx9u4	82
+Dance	Dua Lipa	Swan Song (From the Motion Picture Alita: Battle Angel)	5600nq7TiBraBX2jobyJ3l	87
+Dance	Demi Lovato	Sorry Not Sorry	3Du2K5dLzmduCNp6uwuaL0	82
+Dance	Ariana Grande	Side To Side	1pKeFVVUOPjFsOABub0OaV	84
+Dance	Halsey	Without Me (with Juice WRLD)	6Zc5f20q7sOe1IC1c1jQvZ	80
+Dance	Mabel	Don't Call Me Up	5WHTFyqSii0lmT9R21abT8	90
+Dance	P!nk	Walk Me Home	7DHApOHsIFo7EyfieArYGE	84
+Dance	Shawn Mendes	Lost In Japan	79esEXlqqmq0GPz0xQSZTV	84
+Dance	Galantis	Bones (feat. OneRepublic)	1pfgsjmxVZhoZpeDx6POKv	85
+Dance	Bruno Mars	Just the Way You Are	7BqBn9nzAq8spo5e7cZ0dJ	80
+Dance	Dua Lipa	IDGAF	76cy1WJvNGJTj78UqeA5zr	86
+Dance	Bazzi	3:15	6pmZMP2ET1OJi5rKfLO8jD	77
+Dance	Lennon Stella	La Di Da	2YyvWje3cEYyqgYhNUIaBJ	81
+Dance	Zedd	365	2XWjPtKdi5sucFYtVav07d	88
+Dance	Whitney Houston	I Wanna Dance with Somebody (Who Loves Me)	2tUBqZG2AbRi7Q0BIrVrEj	82
+Dance	Taylor Swift	Delicate	6NFyWDv5CjfwuzoCkw47Xf	80
+Dance	Ariana Grande	sweetener	70khXICDeTTxgYtw3EysKH	79
+Dance	Miguel	Sky Walker (feat. Travis Scott)	5WoaF1B5XIEnWfmb5NZikf	77
+Dance	Zara Larsson	Ruin My Life	5tAa8Uaqr4VvA3693mbIhU	88
+Dance	Mark Ronson	Uptown Funk	32OlwWuMpZ6b0aN2RZOeMS	82
+Dance	Bazzi	Why	7lozLnUfzcgEpMMVQI7yhA	78
+Dance	Julia Michaels	Issues	7vu0JkJh0ldukEYbTVcqd0	76
+Dance	NOTD	So Close	7FjZU7XFs7P9jHI9Z0yRhK	86
+Dance	Ariana Grande	R.E.M	1xWH8zYtDeS9mW1JJG23VZ	77
+Dance	Ariana Grande	Dangerous Woman	7l94dyN2hX9c6wWcZQuOGJ	81
+Dance	Calvin Harris	One Kiss (with Dua Lipa)	7ef4DlsgrMEH11cDZd32M6	89
+Dance	Zedd	Happy Now	4keoy2fqgwGnbWlm3ZVZFa	85
+Dance	Shawn Mendes	Treat You Better	3QGsuHI8jO1Rx4JWLUh9jd	85
+Dance	Luis Fonsi	Despacito - Remix	6rPO02ozF3bM7NnOV4h6s2	82
+Dance	Lady Gaga	Million Reasons	7dZ1Odmx9jWIweQSatnRqo	83
+Dance	Dua Lipa	New Rules	2ekn2ttSfGqwhhate0LSR0	86
+Dance	Ti�sto	Jackie Chan	4kWO6O1BUXcZmaxitpVUwp	86
+Dance	Bazzi	Beautiful	5TVirkSwFEXF1nLJEebe2I	78
+Dance	Why Don't We	8 Letters	4zRZAmBQP8vhNPf9i9opXt	81
+Dance	Sabrina Carpenter	Sue Me	3WVhkjB7Y4xFruqoCAajBb	80
+Dance	Bruno Mars	24K Magic	6b8Be6ljOzmkOmFslEb23P	80
+Dance	Bazzi	Honest	11Tfh16o0SW8KdiQdeESEX	77
+Dance	Hailee Steinfeld	Most Girls	10GJQkjRJcZhGTLagFOC62	79
+Dance	Shawn Mendes	There's Nothing Holdin' Me Back	7JJmb5XwzOO8jgpou264Ml	84
+Dance	Anne-Marie	2002	2BgEsaKNfHUdlh97KmvFyo	86
+Dance	Backstreet Boys	I Want It That Way	6e40mgJiCid5HRAGrbpGA6	79
+Dance	Jeremy Zucker	all the kids are depressed	75ls0gurX68lUmMjE7QcsE	76
+Dance	Julia Michaels	Anxiety (with Selena Gomez)	1XJ93XskwJf7PCyIVLbNBt	83
+Dance	Calvin Harris	Promises (with Sam Smith)	5N5k9nd479b1xpDZ4usjrg	90
+Dance	Shawn Mendes	Lost In Japan - Remix	575NJxNUVDqwJGdzBrlLbv	83
+Dance	The Chainsmokers	Something Just Like This	6RUKPb4LETWmmr3iAEQktW	83
+Dance	Alec Benjamin	If We Have Each Other	7pT6WSg4PCt4mr5ZFyUfsF	77
+Dance	Liam Payne	Strip That Down	4Ro98RCK90oHqqSZUnTFq5	81
+Dance	Charlie Puth	Attention	5cF0dROlMOK5uNZtivgu50	83
+Dance	Macklemore & Ryan Lewis	Can't Hold Us - feat. Ray Dalton	3bidbhpOYeV4knp8AIu8Xn	82
+Dance	Dua Lipa	Kiss and Make Up	7jr3iPu4O4bTCVwLMbdU2i	87
+Dance	Shakira	Hips Don't Lie	3ZFTkvIE7kyPt6Nu3PEa7V	82
+Dance	Rita Ora	Let You Love Me	6xtcFXSo8H9BZN637BMVKS	86
+Dance	Calvin Harris	Slide (feat. Frank Ocean & Migos)	6gpcs5eMhJwax4mIfKDYQk	76
+Dance	Christina Perri	A Thousand Years	6lanRgr6wXibZr8KgzXxBl	81
+Dance	Robin Schulz	Speechless (feat. Erika Sirola)	1rCcsYnmqbMYdkG7kS9GC5	88
+Dance	DJ Khaled	No Brainer	5WvAo7DNuPRmk4APhdPzi8	84
+Dance	Ariana Grande	everytime	0WdR2AyLW1Drd3OUdwezM0	77
+Dance	ITZY	???? DALLA DALLA	6G7DuXoSGeAf6BZivJdEjF	82
+Dance	Beyonc�	Halo	4JehYebiI9JE8sR8MisGVb	79
+Dance	Shawn Mendes	Mercy	0AS63m1wHv9n4VVRizK6Hc	82
+Dance	The Chainsmokers	Don't Let Me Down	1i1fxkWeaMmKEB4T7zqbzK	81
+Dance	Camila Cabello	Never Be the Same	4eWQlBRaTjPPUlzacqEeoQ	81
+Dance	Jonas Blue	Rise	3u1S1OmAUhx5DRlLrXqyp3	86
+Dance	Train	Drops of Jupiter	2hKdd3qO7cWr2Jo0Bcs0MA	78
+Dance	Ariana Grande	goodnight n go	14kYOiFVPb7E7NfFbqhdln	76
+Dance	DNCE	Cake By The Ocean	76hfruVvmfQbw0eYn1nmeC	81
+Dance	Avicii	Wake Me Up	4h8VwCb1MTGoLKueQ1WgbD	84
+Dance	Madison Beer	Home with You	0iwsQWgtjSq2kUXuZwTDAL	79
+Dance	Maggie Lindemann	Pretty Girl - Cheat Codes X CADE Remix	1NDxZ7cFAo481dtYWdrUnR	78
+Dance	Miley Cyrus	We Can't Stop	2y4lAQpi5VTNLu2ldeTdUH	79
+Dance	Ariana Grande	Love Me Harder	5J4ZkQpzMUFojo1CtAZYpn	78
+Dance	Hailee Steinfeld	Love Myself	36phXHOKx8rO7CMp2vNX4x	77
+Dance	Steve Aoki	Waste It On Me (feat. BTS)	2r1T6xGTVaNAqBoPH4lZEE	81
+Dance	TLC	No Scrubs	1KGi9sZVMeszgZOWivFpxs	81
+Dance	Spice Girls	Wannabe	1Je1IMUlBXcx1Fz0WE7oPT	81
+Dance	Julia Michaels	Jump (with Trippie Redd)	2OvV4NjEBRE9v8Oo7QeUCq	77
+Dance	Luis Fonsi	Imposible	3ao3OVxHlb3C08vAaApUlm	88
+Dance	Noah Cyrus	Again	2S2od3hT7ceytw7d1pTRuE	76
+Dance	Niall Horan	Slow Hands	2cOUlop2ZakjOKe4WinesN	79
+Dance	a-ha	Take on Me	2WfaOiMkCvy7F5fcp2zZ8L	84
+Dance	Ansel Elgort	Supernova	2ZIZXWnU52s0C75sPYiwvh	77
+Dance	Mario	Let Me Love You	3ibKnFDaa3GhpPGlOUj7ff	80
+Dance	Normani	Waves (feat. 6LACK)	2qHk6Nz5glNQrjW8Rhd5kv	76
+Dance	Lauv	Superhero	1Fo4OvzP9PThFKMeMIAEYu	79
+Dance	Rihanna	Umbrella	49FYlytm3dAAraYgpoJZux	82
+Dance	ZAYN	There You Are	155EsNGoXo7XSVF84oTPam	78
+Dance	Zedd	Stay (with Alessia Cara)	6uBhi9gBXWjanegOb2Phh0	82
+Dance	James Arthur	Rewrite The Stars (with James Arthur & Anne-Marie)	78nplE9X2ZGvQh3TKgvldE	83
+Dance	Gym Class Heroes	Stereo Hearts (feat. Adam Levine)	0qOnSQQF0yzuPWsXrQ9paz	77
+Dance	Halsey	Gasoline	2IO7yf562c1zLzpanal1DT	76
+Dance	Demi Lovato	Stone Cold	56twMOlq9DJc3EgpVUVIrW	79
+Dance	Hailee Steinfeld	Capital Letters	6l0Ky2PycJV1Bz88kFeVGL	81
+Dance	Halsey	Now Or Never	7i2DJ88J7jQ8K7zqFX2fW8	76
+Dance	benny blanco	I Found You (with Calvin Harris)	5sdb5pMhcK44SSLsj1moUh	82
+Dance	Julia Michaels	Heaven	1T575AhHueYinKSDflEsGK	79
+Dance	ZAYN	PILLOWTALK	0PDUDa38GO8lMxLCRc4lL1	78
+Dance	Gryffin	Tie Me Down (with Elley Duh�)	4QVS8YCpK71R4FsxSMCjhP	76
+Dance	Ne-Yo	So Sick	6brl7bwOHmGFkNw3MBqssT	78
+Dance	Rihanna	Take A Bow	3goSVuTt3fDYDP6kRnFwuL	79
+Dance	T-Pain	Buy U a Drank (Shawty Snappin')	2aIdVb8v9KTpEZnftkz2mD	77
+Dance	Lady Gaga	Music To My Eyes	5IXk9TVBuxG87sFrwclBJw	78
+Dance	Bruno Mars	Versace On The Floor	0kN8xEmgMW9mh7UmDYHlJP	78
+Dance	Meghan Trainor	Like I'm Gonna Lose You	2YlZnw2ikdb837oKMKjBkW	79
+Dance	Selena Gomez	Bad Liar	2fZQIJew3nkNe99s2PKzul	76
+Dance	Usher	Yeah! (feat. Lil Jon & Ludacris)	5rb9QrpfcKFHM1EUbSIurX	80
+Dance	Shawn Mendes	Fallin' All In You	5EYBryPOgIEPB7r5QIy6eG	79
+Dance	Shawn Mendes	Youth (feat. Khalid)	1h0yImRPIVAjhhHeNVlTuC	80
+Dance	Camila Cabello	Real Friends	5vnpANH92iEajvGwE2oQ6r	79
+Dance	Demi Lovato	Tell Me You Love Me	3hYvGiw2Q8QE2YWdIJLBz0	76
+Dance	P!nk	What About Us	0Qh38w01QRXK6KHIv0e3hb	78
+Dance	Justin Timberlake	Cry Me a River	7Lf7oSEVdzZqTA0kEDSlS5	77
+Dance	Lady Gaga	Look What I Found	6Id5RM56PFn2hB4I0ox0WA	77
+Dance	Sia	The Greatest	7xHWNBFm6ObGEQPaUxHuKO	77
+Dance	Lauv	Enemies	3JJYIoJ5FyY9E0DGjr7SXF	77
+Dance	Kesha	Praying	0jdny0dhgjUwoIp5GkqEaA	76
+Dance	The Chainsmokers	Paris	15vzANxN8G9wWfwAJLLMCg	78
+Dance	Clean Bandit	Solo (feat. Demi Lovato)	6kPJZM97LwdG9QIsT7khp6	87
+Dance	DJ Snake	Let Me Love You	0lYBSQXN6rCTvUZvg9S0lU	82
+Dance	Bruno Mars	Locked Out Of Heaven	3w3y8KPTfNeOKPiqUTakBh	79
+Dance	Destiny's Child	Say My Name	7H6ev70Weq6DdpZyyTmUXk	78
+Dance	Justin Timberlake	Mirrors	4rHZZAmHpZrA3iH5zx8frV	77
+Dance	Jonas Blue	Polaroid	1wsLHgXJ4SKIfd5ePSX1hD	84
+Dance	Jack & Jack	No One Compares To You	4cZ3UsiKd1kUQIaq4BFIj2	78
+Dance	Beyonc�	Crazy In Love	5IVuqXILoxVWvWEPm82Jxr	78
+Dance	Ruel	Younger	2qXicQG06oT0ijKBznpgQv	78
+Dance	Ariana Grande	Break Free	12KUFSHFgT0XCoiSlvdQi4	77
+Dance	Calvin Harris	This Is What You Came For	0azC730Exh71aQlOt9Zj3y	81
+Dance	Lizzo	Juice	0onslUNmSLDkuYaideYWir	78
+Dance	James Arthur	Can I Be Him	0VhgEqMTNZwYL1ARDLLNCX	79
+Dance	Troye Sivan	Dance To This (feat. Ariana Grande)	2NjO87HyT80fsgejd3PLYW	78
+Dance	One Direction	Story of My Life	4nVBt6MZDDP6tRVdQTgxJg	79
+Dance	Justin Bieber	Sorry	09CtPGIpYB4BrO8qb1RGsF	81
+Dance	Ariana Grande	Everyday	6yL2kTsdVwYnGwPkKGtMd5	76
+Dance	Ariana Grande	Problem	7vS3Y0IKjde7Xg85LWIEdP	77
+Dance	Harry Styles	Sign of the Times	5Ohxk2dO5COHF1krpoPigN	79
+Dance	Sean Paul	Temperature	0k2GOhqsrxDTAbFFSdNJjT	76
+Dance	Rihanna	Bitch Better Have My Money	0NTMtAO2BV4tnGvw9EgBVq	77
+Dance	Ciara	One, Two Step	7uKcScNXuO3MWw6LowBjW1	1
+Dance	Fifth Harmony	Work from Home (feat. Ty Dolla $ign)	4tCtwWceOPWzenK2HAIJSb	80
+Dance	Tears For Fears	Everybody Wants To Rule The World	4RvWPyQ5RL0ao9LPZeSouE	81
+Dance	Clean Bandit	I Miss You (feat. Julia Michaels)	0Ult84lvFuqNvbyXwyRQ58	83
+Dance	Alec Benjamin	Let Me Down Slowly (feat. Alessia Cara)	1roCmBlcpV7LzsmB7pmCyt	77
+Dance	Why Don't We	Hooked	2N2s2s2w0jmSIPNZcm8Jnr	77
+Dance	Ruel	Dazed & Confused	2pyjbGTpJCPjMYwCbdymiF	76
+Dance	Usher	My Boo	68vgtRHr7iZHpzGpon6Jlo	77
+Dance	The Chainsmokers	Beach House	2bQhVQbV7VBzSOPo8mbkUR	76
+Dance	ZAYN	Good Years	1V1NpX9DlBb9koXof9nIBF	78
+Dance	Axwell /\ Ingrosso	More Than You Know	6h5PAsRni4IRlxWr6uDPTP	83
+Dance	Seeb	Grip	3gicyfiEVMGONgzygpWjNT	81
+Dance	Avril Lavigne	Complicated	5xEM5hIgJ1jjgcEBfpkt2F	77
+Dance	Avicii	Without You (feat. Sandro Cavazza)	6Pgkp4qUoTmJIPn7ReaGxL	83
+Dance	NOTD	I Wanna Know (feat. Bea Miller)	18W92Zm1KjLCbUIszOhpkD	79
+Dance	Flo Rida	Low (feat. T-Pain)	0CAfXk7DXMnon4gLudAp7J	80
+Dance	Katy Perry	Dark Horse	5jrdCoLpJSvHHorevXBATy	77
+Dance	MGMT	Electric Feel	3FtYbEfBqAlGO46NUDQSAt	76
+Dance	Taylor Swift	Look What You Made Me Do	1JbR9RDP3ogVNEWFgNXAjh	77
+Dance	MKTO	Classic	6FE2iI43OZnszFLuLtvvmg	77
+Dance	Shawn Mendes	Where Were You In The Morning?	376Gg7Oxo5C5jUWDWpVXeI	78
+Dance	Nelly	Dilemma	0ARK753YaiJbpLUk7z5yIM	78
+Dance	James Arthur	Empty Space	1uru26I2JKd2mQZt0MDCUe	82
+Dance	Lorde	Royals	2dLLR6qlu5UJ5gk0dKz0h3	77
+Dance	David Guetta	Like I Do	6RnkFd8Fqqgk1Uni8RgqCQ	80
+Dance	Little Mix	Woman Like Me (feat. Nicki Minaj)	6rrTr2HEAzlpC4KWZxF3S1	84
+Dance	Jess Glynne	I'll Be There	083Qf6hn6sFL6xiOHlZUyn	81
+Dance	James Arthur	Naked	7krbSH3rd8lhIZvuzTV3Bl	82
+Dance	Eurythmics	Sweet Dreams (Are Made of This) - Remastered	1TfqLAPs4K3s2rJMoCokcS	82
+Dance	Charlie Puth	The Way I Am	6qNALlmZa1ESnCxJmXE1K9	76
+Dance	Zara Larsson	Never Forget You	6hmhG1b4LEyNuashVvuIAo	79
+Dance	Charlie Puth	How Long	6wmAHw1szh5RCKSRjiXhPe	79
+Dance	Beyonc�	Love On Top	1z6WtY7X4HQJvzxC4UgkSf	76
+Dance	The Clash	Should I Stay or Should I Go - Remastered	39shmbIHICJ2Wxnk1fPSdz	79
+Dance	Pitbull	Time of Our Lives	2bJvI42r8EF3wxjOuDav4r	77
+Dance	OneRepublic	Connection	3T4UodGkfZObJ43RtA5KFU	78
+Dance	The Chainsmokers	Sick Boy	58kZ9spgxmlEznXGu6FPdQ	78
+Dance	Katy Perry	Roar	6F5c58TMEs1byxUstkzVeM	77
+Dance	DJ Snake	Middle	0g5EKLgdKvNlln7TNqBByK	78
+Dance	Sean Kingston	Beautiful Girls	1hGy2eLcmC8eKx7qr1tOqx	77
+Dance	Little Mix	Shout Out to My Ex	1pwo8l3Ko7idwaz4LVUEC4	80
+Dance	Prince Royce	Adicto	4Xqpt53kWML7eTObGxQ43i	78
+Dance	Flo Rida	My House	6Knv6wdA0luoMUuuoYi2i1	77
+Dance	Soulja Boy	Kiss Me Thru The Phone	2q4rjDy9WhaN3o9MvDbO21	76
+Dance	Kesha	TiK ToK	0HPD5WQqrq7wPWR7P7Dw1i	76
+Dance	Jessie J	Bang Bang	0puf9yIluy9W0vpMEUoAnN	79
+Dance	James TW	When You Love Someone	1o6YK7phnXgsljfWSQQfWc	80
+Dance	Bruno Mars	Treasure	55h7vJchibLdUkxdlX3fK7	76
+Dance	Charlie Puth	Done for Me (feat. Kehlani)	1lsBTdE6MGsKeZCD6llNu7	76
+Dance	Alesso	REMEDY	6jreFSOTUAViWjKyzOC4Kg	83
+Dance	Nicki Minaj	Chun-Li	1e4rwBPVI32vZtTJu7mJ4J	76
+Dance	Beyonc�	Run the World (Girls)	1uXbwHHfgsXcUKfSZw5ZJ0	76
+Dance	Jeremih	Impatient	3WjyiSbfR74pjWXQ3IaFKJ	76
+Dance	Mariah Carey	All I Want for Christmas Is You	0bYg9bo50gSsH3LtXe2SQn	76
+Dance	Blackstreet	No Diggity	6MdqqkQ8sSC0WB4i8PyRuQ	78
+Dance	Sigala	Just Got Paid	0v3BMLcwUmAwyqJaf5997o	81
+Dance	Miley Cyrus	Malibu	1UZOjK1BwmwWU14Erba9CZ	79
+Dance	Clean Bandit	Symphony (feat. Zara Larsson)	1x5sYLZiu9r5E43kMlt9f8	81
+Dance	The Chainsmokers	Side Effects	0bGLvHd0ApdT4t0shCfpzG	77
+Dance	Selena Gomez	Back To You	514rhnksEwHUh6LxXsQ4Y9	76
+Dance	Soulja Boy	Crank That (Soulja Boy)	66TRwr5uJwPt15mfFkzhbi	77
+Dance	ZAYN	Entertainer	6kjKRa91zikS6ZOL2Rt1QF	76
+Dance	Jason Derulo	Swalla (feat. Nicki Minaj & Ty Dolla $ign)	6kex4EBAj0WHXDKZMEJaaF	80
+Dance	Justin Bieber	What Do You Mean?	4B0JvthVoAAuygILe3n4Bs	78
+Dance	Wisin	Esc�pate Conmigo (feat. Ozuna)	1KSqYYJFyfTecXFk9M0prc	79
+Dance	James TW	You & Me	5g45gvxgaYVuhkDACPnvfh	79
+Dance	Leona Lewis	Bleeding Love	7wZUrN8oemZfsEd1CGkbXE	80
+Dance	Trey Songz	Chi Chi (feat. Chris Brown)	0UvBmQOhu4DVXJtdzGc5eV	76
+Dance	Avicii	Hey Brother	4RXpgGM7A4Hg7cFBoH5KyF	78
+Dance	Charli XCX	1999	05mAIVLkIWc2d1UBYZBCp8	83
+Dance	Niall Horan	Too Much To Ask	39jXnbACjiaiTwwhsr5sY5	78
+Dance	Luis Fonsi	�chame La Culpa	2hl6q70unbviGo3g1R7uFx	78
+Dance	Britney Spears	Oops!...I Did It Again	6naxalmIoLFWR0siv8dnQQ	77
+Dance	P!nk	A Million Dreams	0oagwWkGlBoACUuKvTmqZV	77
+Dance	Avicii	The Nights	0ct6r3EGTcMLPtrXHDvVjc	79
+Dance	Wham!	Wake Me up Before You Go-Go	0ikz6tENMONtK6qGkOrU3c	79
+Dance	Nicki Minaj	Bed (feat. Ariana Grande)	3L4GsGLgxpHieVQH86H8bv	77
+Dance	Rihanna	Pon de Replay	4TsmezEQVSZNNPv5RJ65Ov	76
+Dance	David Guetta	Flames	33IOhptvC2Qoy2UhjiHXLV	83
+Dance	Avicii	Waiting For Love	2P4OICZRVAQcYAV2JReRfj	80
+Dance	Dua Lipa	Want To	5fK0Q3j2iUcQtiRDXlPW0K	77
+Dance	David Guetta	Don't Leave Me Alone (feat. Anne-Marie)	2lYTJK94hb0fd1LQtb6Dhk	79
+Dance	Natasha Bedingfield	Unwritten	1D1nixOVWOxvNfWi0UD7VX	77
+Dance	Rita Ora	Only Want You	2CTN6UuO2dNEVZXR0DJVk2	78
+Dance	Shawn Mendes	Nervous	5wxurz8J6YlyQRNnGN8zXS	76
+Dance	XO Cupid	True Colors (feat. Maya Avedis)	4AMY0oGSt7vZwgxDnHCJBr	79
+Dance	Louis Tomlinson	Back to You (feat. Bebe Rexha & Digital Farm Animals)	7F9vK8hNFMml4GtHsaXui6	76
+Dance	Shakira	Chantaje (feat. Maluma)	6mICuAdrwEjh6Y6lroV2Kg	78
+Dance	Rihanna	Don't Stop The Music	0ByMNEPAPpOR5H69DVrTNy	78
+Dance	Avicii	Lonely Together (feat. Rita Ora)	75NhhYjHO43mvZgYtnXgti	79
+Dance	Shakira	Clandestino	7DrluKkTviBwCc8AV3VGmf	81
+Dance	JoJo	Too Little, Too Late - Radio Version	7oUMJhQp5Bqu6HqxSZs02v	1
+Dance	Capital Cities	Safe And Sound	6Z8R6UsFuGXGtiIxiD8ISb	76
+Dance	Calvin Harris	Summer	6YUTL4dYpB9xZO5qExPf05	78
+Dance	Camila Cabello	Crying in the Club	1SJtlNRJDeYHioymcvsqev	76
+Dance	Britney Spears	Toxic	6I9VzXrHxO9rA9A5euc8Ak	79
+Dance	Clean Bandit	Rockabye (feat. Sean Paul & Anne-Marie)	5knuzwU65gJK7IF5yJsuaW	81
+Dance	MGMT	Kids	1jJci4qxiYcOHhQR247rEU	76
+Dance	Sara Bareilles	Love Song	4E6cwWJWZw2zWf7VFbH7wf	76
+Dance	The Vamps	All Night	0dXNQ8dckG4eYfEtq9zcva	77
+Dance	Cher	Believe	2goLsvvODILDzeeiT4dAoR	76
+Dance	James TW	Say Love	6r3JPmyGO3Gbpyx1FD5txL	78
+Dance	Pitbull	Give Me Everything	4QNpBfC0zvjKqPJcyqBy9W	76
+Dance	Ciara	Level Up	5ubwXXOsH9bUhZsQ0Cybha	76
+Dance	Justin Bieber	Friends (with BloodPop�)	7iNIg7XDEaYECfWD5dJ9Va	78
+Dance	Luis Fonsi	Sola	0BOm90PDLRJpTSqqd6z52E	79
+Dance	Nightcall	Let You Go	6JflMse23AqmddXJnGiEVJ	76
+Dance	Nick Jonas	Right Now	43wzy7JxMEfvCh8ZFeZKYk	79
+Dance	Anne-Marie	Perfect To Me	0DC7Zs2qvAbNK1owWQ4mlL	80
+Dance	Calvin Harris	How Deep Is Your Love	22mek4IiqubGD9ctzxc69s	78
+Dance	Usher	DJ Got Us Fallin' In Love (feat. Pitbull)	4356Typ82hUiFAynbLYbPn	76
+Dance	JP Cooper	September Song	0zbzrhfVS9S2TszW3wLQZ7	77
+Dance	Little Mix	Black Magic	5y6pj7OeBFF0CVgZKhRbOG	77
+Dance	Jason Derulo	Goodbye (feat. Nicki Minaj & Willy William)	5Xn4IyTtW6FUGIUyWjbUHG	82
+Dance	Shawn Mendes	Use Somebody - Recorded at Spotify Studios NYC	5My4LtZW8JQJoKFDWodqIt	76
+Dance	Zara Larsson	Lush Life	1rIKgCH4H52lrvDcz50hS8	80
+Dance	Liam Payne	Familiar	0Y4hwUppbGc8aIBmiTz30A	78
+Dance	Calvin Harris	My Way	1vvNmPOiUuyCbgWmtc6yfm	78
+Dance	Britney Spears	...Baby One More Time	3MjUtNVVq3C8Fn0MP3zhXa	77
+Dance	Prince Royce	El Clavo - Remix	6bI00brFpeprqCDqKouEJS	76
+Dance	Flo Rida	Wild Ones (feat. Sia)	1NpW5kyvO4XrNJ3rnfcNy3	77
+Dance	Thal�a	No Me Acuerdo	1G586ld1gbaECg4Bc6w40O	81
+Dance	Robin Schulz	Sugar (feat. Francesco Yates)	5tf1VVWniHgryyumXyJM7w	78
+Dance	Years & Years	If You're Over Me	01k24g94i1JvkFLQmVEdCd	77
+Dance	Jess Glynne	All I Am	6X6SdJzxyw7GzxwP2fr9WV	77
+Dance	Fifth Harmony	Worth It	41Fflg7qHiVOD6dEPvsCzO	76
+Dance	Swedish House Mafia	Don't You Worry Child - Radio Edit	2V65y3PX4DkRhy1djlxd9p	78
+Dance	David Guetta	Your Love	0tgbSxoFjZ20MjfoKwWevV	77
+Dance	Carlos Vives	Robarte un Beso	0JcNysfWVWaMS7R6vzGB2k	79
+Dance	Rita Ora	Your Song	4c2W3VKsOFoIg2SFaO6DY5	78
+Dance	Jason Derulo	Want to Want Me	7oGZAicScQt96OAW4AruYy	76
+Dance	Jax Jones	Play	29R1IMTTbDDA3VNlk6UEW5	82
+Dance	James Arthur	Impossible	5yVIlYEHZxQVLyInCdldoS	76
+Dance	Clean Bandit	Mama (feat. Ellie Goulding)	3WDIhWoRWVcaHdRwMEHkkS	78
+Dance	Sigala	Lullaby	5xzCzOAOfRi4DOttSzvznR	77
+Dance	Katy Perry	Swish Swish	3OtMnyUaiipcAT23A8liyi	76
+Dance	Little Mix	Secret Love Song	4JIo8RztBbELr2gWJ5OGK6	77
+Dance	Enrique Iglesias	SUBEME LA RADIO	7nKBxz47S9SD79N086fuhn	76
+Dance	Jason Derulo	Tip Toe (feat. French Montana)	2z4pcBLQXF2BXKFvd0BuB6	76
+Dance	Luis Fonsi	Calypso	4178A5NkEjcsGc64jpBO6d	78
+Dance	Clean Bandit	Baby (feat. MARINA & Luis Fonsi)	1fLhGF1JfGQYj6EZLndD86	80
+Dance	Sean Paul	No Lie	48QmG1dfvMuYLxMPt7KSRA	77
+Dance	Mike Perry	The Ocean (feat. Shy Martin)	2CPqh63wRVscbceKcPxwvv	76
+Dance	Westlife	Hello My Love	4EtIza2cKMmR2XP7idebXG	77
+Dance	Jonas Blue	Perfect Strangers	3nhmni2lW0t0eVBXEQAAyF	76
+Dance	Juanes	La Plata (feat. Lalo Ebratt)	7Eso5mURNFprb5PmhOXDlf	78
+Dance	Simple Minds	Don't You (Forget About Me) - Remastered	0A4PZuepTcIQVvA5m7R0M1	76
+Dance	Blur	Song 2 - 2012 Remastered Version	1FTSo4v6BOZH9QxKc3MbVM	76
+Dance	Rita Ora	Anywhere	7EI6Iki24tBHAMxtb4xQN2	80
+Dance	Little Mix	Think About Us (feat. Ty Dolla $ign)	18n2GdCpsHYzkbMKPavE7Y	78
+Dance	Jax Jones	Breathe	0KsB4TwgATg88aXCMBoO3Y	77
+Dance	Lorde	Homemade Dynamite (Feat. Khalid, Post Malone & SZA) - REMIX	7rdUtXasA973gmrr2Xxh3E	1
+Dance	Jason Derulo	Colors - Coca-Cola� Anthem, 2018 FIFA World CupTM	7wD6iRghe6SnKHkvHqpnC5	1
+Dance	Shakira	Ciega, Sordomuda	7jxHeJLVpnP7S08JFF4GBi	1
+Dance	Felix Jaehn	Jennie (feat. R. City, Bori)	7uM7YZwNZqdDMG0NfGhmux	1
+Dance	Albert Hammond, Jr.	Set to Attack	7sI80PK0P3tDCvULKszqzL	1
+Dance	Train	Save Me, San Francisco	7gA5OQWsvAY7HhazroFuwI	1
+Dance	Justin Timberlake	TKO (feat. J. Cole, A$AP Rocky & Pusha T) - Black Friday Remix	7AzunAhx3JfoHxYS5N6KVx	1
+Dance	RuPaul	American (feat. The Cast of RuPaul's Drag Race, Season 10)	7mnOn0ILHnsRExROQZUL6M	1
+Dance	Jazmine Sullivan	Lions, Tigers & Bears	7zqM7Wm2xJLZ50qAnTLoHD	1
+Dance	Charli XCX	I Got It (feat. Brooke Candy, CupcakKe and Pabllo Vittar)	7tjQl5EC72HBJRAKxP3Bvm	1
+Dance	DJ Khaled	On Everything (feat. Travis Scott, Rick Ross & Big Sean)	7lxZbmtC6SkUc2yXBgDOdO	1
+Dance	Shaggy	Luv Me, Luv Me	7a3y3gJtRWXugcxgi8TPNW	1
+Electronic	DJ Snake	Let Me Love You	0lYBSQXN6rCTvUZvg9S0lU	82
+Electronic	DJ Snake	Middle	0g5EKLgdKvNlln7TNqBByK	78
+Electronic	Daft Punk	Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit	2Foc5Q5nqNiosCNqttzHof	76
+Electronic	Tropkillaz	Bola Rebola	1OUPXna2MCgAt3VNmXJBtg	84
+Electronic	Blur	Song 2 - 2012 Remastered Version	1FTSo4v6BOZH9QxKc3MbVM	76
+Electronic	Gaullin	Moonlight	0A5gdlrpAuQqZ2iFgnqBFW	79
+Electronic	Liquid Stranger	Hydroplane Feat. Warrior Queen, HARD KNOCK	7wmhkaBzznowCnFkEOlmoY	1
+Electronic	Flying Lotus	Coronus, the Terminator	79gyBvPc2zj3oIrhI50Eag	1
+Electronic	LSD	Thunderclouds (feat. Sia, Diplo & Labrinth)	7nLK5rjEy6LPZNPG1BXxu7	1
+Electronic	Jean-Michel Jarre	Oxygene, Pt. 1	75c7B7CF7n06YFSgnoxVMm	1
+Electronic	m�m	Don't Be Afraid, You Have Just Got Your Eyes Closed	7m13gQr9gfM9RupjVQCFu9	1
+Electronic	Trentem�ller	Silver Surfer, Ghost Rider Go!!!	78EJbPOuzOtEdeZ7zxCAGR	1
+Electronic	Fatboy Slim	Build It Up, Tear It Down	7xUbjr8i2r2AQ4qPktJJbx	1
+Hip-Hop	J. Cole	MIDDLE CHILD	2JvzF1RMd7lE3KmFlsyZD8	96
+Hip-Hop	Meek Mill	Going Bad (feat. Drake)	2IRZnDFmlqMuOrYOLnZZyc	95
+Hip-Hop	21 Savage	a lot	2t8yVaLvJ0RenpXUIAC52d	93
+Hip-Hop	Rich The Kid	Splashin	79OEIr4J4FHV0O3KrhaXRb	88
+Hip-Hop	Sheck Wes	Mo Bamba	1xzBco0xcoJEDXktl7Jxrr	92
+Hip-Hop	Lil Baby	Drip Too Hard (Lil Baby & Gunna)	78QR3Wp35dqAhFEc2qAGjE	92
+Hip-Hop	XXXTENTACION	SAD!	3ee8Jmje8o58CHK66QrVC2	92
+Hip-Hop	Mustard	Pure Water (with Migos)	63cd4JkwGgYJrbOizbfmsp	91
+Hip-Hop	Kodak Black	ZEZE (feat. Travis Scott & Offset)	0FZ4Dmg8jJJAPJnvBIzD9z	93
+Hip-Hop	Flipp Dinero	Leave Me Alone	14mHfNsSHN0FbLftyjrV9g	90
+Hip-Hop	XXXTENTACION	Moonlight	0JP9xo3adEtGSdUEISiszL	91
+Hip-Hop	Gucci Mane	Wake Up in the Sky	0QIjsbm2fh1cJ45XO9eGqq	89
+Hip-Hop	XXXTENTACION	Jocelyn Flores	7m9OqQk4RVRkw9JJdeAw96	90
+Hip-Hop	Logic	Keanu Reeves	25F6MWrnFBCXVnpN4n76EK	87
+Hip-Hop	Metro Boomin	Space Cadet (feat. Gunna)	1fewSx2d5KIZ04wsooEBOz	87
+Hip-Hop	Tyga	Taste (feat. Offset)	5IaHrVsrferBYDm0bDyABy	90
+Hip-Hop	XXXTENTACION	Fuck Love (feat. Trippie Redd)	7AQim7LbvFVZJE3O8TYgf2	87
+Hip-Hop	Drake	God's Plan	6DCZcSspjsKoFjzjrWoCdn	89
+Hip-Hop	Ski Mask The Slump God	Nuketown (feat. Juice WRLD)	74lnM5V6ecvoTPV0fvptx9	85
+Hip-Hop	Ski Mask The Slump God	Faucet Failure	1ThmUihH9dF8EV08ku5AXN	85
+Hip-Hop	Future	Fine China	5274I4mUMnYczyeXkGDWZN	85
+Hip-Hop	Lil Baby	Pure Cocaine	577YBGuskWkVDCxZrLRB4v	86
+Hip-Hop	XXXTENTACION	Arms Around You (feat. Maluma & Swae Lee)	2LskIZrCeLxRvCiGP8gxlh	90
+Hip-Hop	J. Cole	No Role Modelz	62vpWI1CHwFy7tMIcSStl8	84
+Hip-Hop	Drake	In My Feelings	2G7V7zsVDxg1yRsu7Ew9RJ	88
+Hip-Hop	Metro Boomin	10 Freaky Girls (with 21 Savage)	0AluA5RNsa4Cx6XRhf2hWZ	85
+Hip-Hop	BlocBoy JB	Look Alive (feat. Drake)	4qKcDkK6siZ7Jp1Jb4m0aL	87
+Hip-Hop	French Montana	No Stylist	04MLEeAMuV9IlHEsD8vF6A	88
+Hip-Hop	Drake	Nice For What	3CA9pLiwRIGtUBiMjbZmRw	86
+Hip-Hop	XXXTENTACION	Everybody Dies In Their Nightmares	3GVkPk8mqxz0itaAriG1L7	86
+Hip-Hop	Kodak Black	Calling My Spirit	2MShy1GSSgbmGUxADNIao5	85
+Hip-Hop	Lil Baby	Yes Indeed	6vN77lE9LK6HP2DewaN6HZ	85
+Hip-Hop	Lil Peep	Falling Down - Bonus Track	4jvjzW7Hm0yK4LvvE0Paz9	87
+Hip-Hop	Tory Lanez	TAlk tO Me (with Rich The Kid feat. Lil Wayne) - Remix	51w9Jbat1pLeWINGCpnQUR	84
+Hip-Hop	Future	First Off (feat. Travis Scott)	3WRIaWsws011vHMd9uzPjG	85
+Hip-Hop	XXXTENTACION	Sauce!	3jq1RpStaB1YGyN3rRZGca	84
+Hip-Hop	Daddy Yankee	Con Calma	5w9c2J52mkdntKOmRLeM2m	98
+Hip-Hop	Rich The Kid	Plug Walk	1ZAyjvIk9YiD76yYy0TEG6	84
+Hip-Hop	Eminem	Lucky You (feat. Joyner Lucas)	60SdxE8apGAxMiRrpbmLY0	86
+Hip-Hop	Offset	Ric Flair Drip (& Metro Boomin)	7sO5G9EABYOXQKNPNiE9NR	86
+Hip-Hop	Offset	Legacy (feat. Travis Scott & 21 Savage)	7pMRoGLEJuFM2wl5pt0R99	85
+Hip-Hop	A$AP Rocky	Praise The Lord (Da Shine) (feat. Skepta)	7ycWLEP1GsNjVvcjawXz3z	86
+Hip-Hop	Future	Crushed Up	7wcyO1rrH3Ru4t659IjG41	84
+Hip-Hop	Amin�	REEL IT IN	5qHirGR7M9tdm6C17DlzSY	83
+Hip-Hop	Offset	Red Room	2MJdgSby3DtSS7bUJx2cly	85
+Hip-Hop	2 Chainz	Whip (feat. Travis Scott)	6Z4rmc0uujCpl8yXe3yjgI	80
+Hip-Hop	Playboi Carti	Shoota (feat. Lil Uzi Vert)	2BJSMvOGABRxokHKB0OI8i	80
+Hip-Hop	21 Savage	Bank Account	2fQrGHiQOvpL9UgPvtYy6G	84
+Hip-Hop	XXXTENTACION	Hope	2ZRo7axmMPeSVUvDbGkJah	83
+Hip-Hop	NF	Let You Down	52okn5MNA47tk87PeZJLEL	84
+Hip-Hop	XXXTENTACION	BAD!	4CH66Rxcjcj3VBHwmIBj4T	83
+Hip-Hop	Kendrick Lamar	HUMBLE.	7KXjTSCq5nL1LoYtL7XAwS	86
+Hip-Hop	Comethazine	Walk	21kOVEG3bDCVphKhXL8XmQ	82
+Hip-Hop	Logic	1-800-273-8255	5tz69p7tJuGPeMGwNTxYuV	84
+Hip-Hop	21 Savage	monster	2FUNBaa5DwItJtYEBgAblU	85
+Hip-Hop	Metro Boomin	Don't Come Out The House (with 21 Savage)	2Grb4G6t9VIqo6moKUloom	81
+Hip-Hop	2 Chainz	Rule The World (feat. Ariana Grande)	1R6VwZ8TuHRzxZUxe88n4I	80
+Hip-Hop	Russ	Missin You Crazy	4ve2uzqdwnHr20G5YgMMqr	82
+Hip-Hop	Lil Pump	Butterfly Doors	4NdXQlDTzxbOMkzJGWFtz3	83
+Hip-Hop	J. Cole	KOD	7yotKA30dwTKNEGomV9ZsI	81
+Hip-Hop	Tory Lanez	FeRRis WhEEL (feat. Trippie Redd)	6j97zG4DDrh3oUa6rZbFOs	79
+Hip-Hop	Eminem	'Till I Collapse	4xkOaSrkexMciUUogZKVTS	85
+Hip-Hop	J. Cole	Wet Dreamz	6Ius4TC0L3cN74HT7ENE6e	81
+Hip-Hop	Lil Peep	I've Been Waiting (w/ ILoveMakonnen & Fall Out Boy)	2v5JTeM6hSmi5wWy7jiwrI	84
+Hip-Hop	Nio Garcia	Te Bot� - Remix	3V8UKqhEK5zBkBb6d6ub8i	87
+Hip-Hop	Logic	Everyday	4EAV2cKiqKP5UPZmY6dejk	84
+Hip-Hop	Famous Dex	JAPAN	5PTG6rrL6EPFD9E2QMI2pl	81
+Hip-Hop	6LACK	Pretty Little Fears (feat. J. Cole)	4at3d5QWnlibMVN75ECDrp	82
+Hip-Hop	Eminem	Killshot	1jo3TwNGCXfNdB5uba3ZVv	82
+Hip-Hop	Ski Mask The Slump God	Foot Fungus	3EikYy40GMSp8l5mDV6IQo	81
+Hip-Hop	Russ	Losin Control	4cxMGhkinTocPSVVKWIw0d	79
+Hip-Hop	A$AP Ferg	Plain Jane	4dVpf9jZjcORqGTLUaeYj9	81
+Hip-Hop	Lil Baby	Close Friends (Lil Baby & Gunna)	5nzhL67GpF9szXWg5y509A	82
+Hip-Hop	J. Cole	Kevin�s Heart	6tZ3b7ik1QDXFAZlXib0YZ	79
+Hip-Hop	2 Chainz	Momma I Hit A Lick (feat. Kendrick Lamar)	7jKUnzzOGhAlPjr7LkIUlE	76
+Hip-Hop	Takeoff	Casper	1B4gJRq61xTs6r1O0Uq2iY	79
+Hip-Hop	Kendrick Lamar	LOVE. FEAT. ZACARI.	6PGoSes0D9eUDeeAafB2As	81
+Hip-Hop	Yo Gotti	Put a Date On It (feat. Lil Baby)	6PRh0ilIMEP1xlUHqalnkD	79
+Hip-Hop	Childish Gambino	This Is America	0b9oOr2ZgvyQu88wzixux9	81
+Hip-Hop	XXXTENTACION	Look At Me!	7floNISpH8VF4z4459Qo18	83
+Hip-Hop	DJ Khaled	No Brainer	5WvAo7DNuPRmk4APhdPzi8	84
+Hip-Hop	Kendrick Lamar	All The Stars (with SZA)	3GCdLUSnKSMJhs4Tj6CV3s	84
+Hip-Hop	Kendrick Lamar	DNA.	6HZILIRieu8S0iqY8kIKhj	82
+Hip-Hop	French Montana	Unforgettable	3B54sVLJ402zGa6Xm4YGNe	85
+Hip-Hop	Drake	Mob Ties	7rC5Pl8rQSX4myONQHYPBK	80
+Hip-Hop	Young Thug	Chanel (Go Get It) [feat. Gunna & Lil Baby]	0kCBorRrKZkSztd9m0QI3r	79
+Hip-Hop	Mac Miller	Self Care	5bJ1DrEM4hNCafcDd1oxHx	81
+Hip-Hop	Drake	Passionfruit	5mCPDVBb16L4XQwDdbRUpz	82
+Hip-Hop	Tyga	Girls Have Fun (feat. G-Eazy & Rich The Kid)	1NHlyKgtR4roNylOhidKSv	83
+Hip-Hop	Lil Wayne	Uproar	3wScL5W8H40zzCKN0atfBk	81
+Hip-Hop	Eminem	Lose Yourself - From 8 Mile Soundtrack	5Z01UMMf7V1o0MzF86s6WJ	81
+Hip-Hop	Lil Yachty	Yacht Club (feat. Juice WRLD)	5R2rsbwCDXORX2tLfprRmM	79
+Hip-Hop	Rae Sremmurd	Powerglide (feat. Juicy J) - From SR3MM	1BuZAIO8WZpavWVbbq3Lci	81
+Hip-Hop	Drake	I'm Upset	3qN5qMTKyEEmiTZD38BNTT	79
+Hip-Hop	Migos	Walk It Talk It	6n4U3TlzUGhdSFbUUhTvLP	84
+Hip-Hop	NF	Lie	07FkzikE6FuHIa8Ma7zJGc	79
+Hip-Hop	Kodak Black	Roll In Peace (feat. XXXTENTACION)	40oKW22ZNNkEdZLJTScaQI	82
+Hip-Hop	Big Sean	Bounce Back	0SGkqnVQo9KPytSri1H6cF	79
+Hip-Hop	Gunna	Speed It Up	3BXXkwyhsHM0EPApHMhQC5	80
+Hip-Hop	Playboi Carti	Magnolia	1e1JKLEDKP7hEQzJfNAgPl	77
+Hip-Hop	Playboi Carti	wokeuplikethis*	59J5nzL1KniFHnU120dQzt	76
+Hip-Hop	Gucci Mane	I Get The Bag (feat. Migos)	1XRgIKC5TPwo7nWGyKqgG0	79
+Hip-Hop	Bryson Tiller	Exchange	43PuMrRfbyyuz4QpZ3oAwN	81
+Hip-Hop	Amin�	Caroline	5hTpBe8h35rJ67eAWHQsJx	78
+Hip-Hop	Drake	Don�t Matter To Me (with Michael Jackson)	6G8kHiVZ1jW7vHMPVRNZU0	82
+Hip-Hop	Rich The Kid	4 Phones	5qu3j7Ou6LyQFSU9N7Sb5x	76
+Hip-Hop	NAV	Champion (feat. Travis Scott)	6nO3tr47nr2P7f3hXb8JIo	80
+Hip-Hop	Gunna	Sold Out Dates (feat. Lil Baby)	72LlwJM24dWKpFLVB3PWWQ	79
+Hip-Hop	Wiz Khalifa	Hopeless Romantic (feat. Swae Lee)	7IBSffWIu7P2MC7kMwy2FM	79
+Hip-Hop	J. Cole	G.O.M.D.	16qYlQ6koFxYVbiJbGHblz	78
+Hip-Hop	Eminem	Venom - Music From The Motion Picture	2SL6oP2YAEQbqsrkOzRGO4	82
+Hip-Hop	Bas	Tribe (with J. Cole)	0YAQnYt2oB8OdoaeqnHyTI	78
+Hip-Hop	Famous Dex	PICK IT UP (feat. A$AP Rocky)	3ncgNpxLoBQ65ABk4djDyd	79
+Hip-Hop	Eminem	The Ringer	2jt2WxXMCD4zjACthkJQVE	81
+Hip-Hop	Logic	44 More	3e7Y6sfFlIdBMJhX7wpqVO	78
+Hip-Hop	21 Savage	all my friends	4paAidoE8VAemwU4jgCc6l	80
+Hip-Hop	Kodak Black	MoshPit (feat. Juice WRLD)	4KX8vXbouybtUptEyYxtIk	79
+Hip-Hop	Migos	Stir Fry	2UVbBKQOdFAekPTRsnkzcf	81
+Hip-Hop	Lil Baby	Freestyle	5BbdKBZO0TH0GhfxUfyhL9	79
+Hip-Hop	21 Savage	can't leave without it	0hPLZrnDgtKxrym1BHjDhd	80
+Hip-Hop	Amin�	REEL IT IN (feat. Gucci Mane) - Remix	4yVEpUXxYgBwfSOKGTFxv5	77
+Hip-Hop	Lil Peep	Save That Shit	0S0vWvyZ6Rc79TXkWxT9QA	81
+Hip-Hop	JID	Off Deez (with J. Cole)	3JAeYOjyJodI4PRs44lx2l	77
+Hip-Hop	Paulo Londra	Adan y Eva	6FyRXC8tJUh863JCkyWqtk	95
+Hip-Hop	2 Chainz	It's A Vibe	6H0AwSQ20mo62jGlPGB8S6	77
+Hip-Hop	Migos	MotorSport	4wFjTWCunQFKtukqrNijEt	82
+Hip-Hop	Tyler, The Creator	See You Again	7KA4W4McWYRpgf0fWsJZWB	1
+Hip-Hop	Joyner Lucas	I Love	30z4LVkScpeNhwHFIB8Ewa	78
+Hip-Hop	KYLE	Playinwitme (feat. Kehlani)	4F1yvJfQ7gJkrcgFJQDjOr	80
+Hip-Hop	Ski Mask The Slump God	Take A Step Back	2gQYziDV5cSTRSqr6akzi5	79
+Hip-Hop	Tyga	Dip (feat. Nicki Minaj)	4hXDobvUaXyDFLnmecoY0z	81
+Hip-Hop	Daddy Yankee	Adictiva	6MJUCumnQsQEKbCy28tbCP	91
+Hip-Hop	MadeinTYO	Ned Flanders (feat. A$AP Ferg)	2EUNZfjPToKZIahK0WMLKd	76
+Hip-Hop	KIDS SEE GHOSTS	Reborn	4RVbK6cV0VqWdpCDcx3hiT	77
+Hip-Hop	2 Chainz	Bigger Than You (feat. Drake & Quavo)	5S1IUPueD0xE0vj4zU3nSf	77
+Hip-Hop	Offset	How Did I Get Here (feat. J. Cole)	32iPykTXUNZ9oGyACGUybq	80
+Hip-Hop	J. Cole	ATM	2UciqgwVDwro0fev3MFbxJ	77
+Hip-Hop	SZA	Love Galore (feat. Travis Scott)	0q75NwOoFiARAVp4EXU4Bs	80
+Hip-Hop	Future	Jumpin on a Jet	1I3ZAmPmbFV78oNKnibOiW	78
+Hip-Hop	Oliver Tree	Alien Boy	1gGhqfs2pDTOI30AEXMXrn	76
+Hip-Hop	Gunna	Outstanding	76PwajqH3ej4hnk9tgaJpp	79
+Hip-Hop	Future	Mask Off	0VgkVdmE4gld66l8iyGjgx	82
+Hip-Hop	J. Cole	Neighbors	0utlOiJy2weVl9WTkcEWHy	76
+Hip-Hop	Young Thug	Sin (feat. Jaden Smith)	1Jl21sidRpEdlVBvYbssLx	77
+Hip-Hop	Lil Baby	Life Goes On	2bSk87AVkCIIC3Bcligq1z	78
+Hip-Hop	Tyga	SWISH	55GiOwtxNajXVbpjjIzMnD	83
+Hip-Hop	Quavo	WORKIN ME	33tNYw9oMtSkGe27NpgS64	78
+Hip-Hop	Bryson Tiller	Don't	3pXF1nA74528Edde4of9CC	79
+Hip-Hop	Childish Gambino	Redbone	0wXuerDYiBnERgIpbb3JBR	78
+Hip-Hop	ScHoolboy Q	X (with 2 Chainz & Saudi)	4LmAnpjlhWTahvRkYR8xJa	77
+Hip-Hop	Lil Wayne	Mona Lisa (feat. Kendrick Lamar)	0dbTQYW3Ad1FTzIA9t90E8	78
+Hip-Hop	Frank Ocean	Nights	7eqoqGkKwgOaWNNHx90uEZ	78
+Hip-Hop	Drake	One Dance	1zi7xx7UVEFkmKfv06H8x0	83
+Hip-Hop	Ski Mask The Slump God	Catch Me Outside	4rgwri7LajWVZvdj2N81SS	78
+Hip-Hop	Oliver Tree	Hurt	1Xls3QHvOQ7YLB54R6BvgG	76
+Hip-Hop	Rich The Kid	New Freezer (feat. Kendrick Lamar)	2EgB4n6XyBsuNUbuarr4eG	76
+Hip-Hop	Eminem	Love The Way You Lie	15JINEqzVMv3SvJTAXAKED	82
+Hip-Hop	Gunna	One Call	2IoZOYOZDrWCOLoZoYedxQ	78
+Hip-Hop	Mac Miller	Weekend (feat. Miguel)	6GnhWMhgJb7uyiiPEiEkDA	77
+Hip-Hop	Future	Hard Work Pays Off	6gzIcEUuswJQGfJNPYMjjv	77
+Hip-Hop	Eminem	Without Me	7lQ8MOhq6IN2w8EYcFNSUk	82
+Hip-Hop	Rob $tone	Chill Bill	5uDASfU19gDxSjW8cnCaBp	79
+Hip-Hop	NF	If You Want Love	3i5qVV8azKqGFK4Gzdt5YS	77
+Hip-Hop	Drake	Jumpman	27GmP9AWRs744SzKcpJsTZ	77
+Hip-Hop	Smokepurpp	Nephew (feat. Lil Pump)	0ibOcbkp2XG46Do8jcy0bL	76
+Hip-Hop	XXXTENTACION	I don�t let go	4axYWgXASdsCBHuwInAubT	77
+Hip-Hop	The Notorious B.I.G.	Juicy	5ByAIlEEnxYdvpnezg7HTX	78
+Hip-Hop	XXXTENTACION	Guardian angel	7uqcLJFlSYjVPLUz1vPxkY	77
+Hip-Hop	XXXTENTACION	YuNg BrAtZ	2ooF4088y5L72c4YTEJQoB	77
+Hip-Hop	T-Pain	Buy U a Drank (Shawty Snappin')	2aIdVb8v9KTpEZnftkz2mD	78
+Hip-Hop	Migos	Narcos	0wbnC9AUenxp613TYaJsGK	80
+Hip-Hop	Lil Yachty	Get Dripped (feat. Playboi Carti)	3m2aDCqn8eT5ElXDUiboGU	76
+Hip-Hop	G-Eazy	Him & I (with Halsey)	5k38wzpLb15YgncyWdTZE4	82
+Hip-Hop	Eminem	River (feat. Ed Sheeran)	1cS0TgbR263ey9jn0MwD2s	82
+Hip-Hop	Gunna	Same Yung Nigga (feat. Playboi Carti)	1q9jq5X5vwmewjOa2mHtQ1	77
+Hip-Hop	XXXTENTACION	Depression & Obsession	2H3wWrnO758y0fPH7Ilerg	78
+Hip-Hop	Young Thug	Relationship (feat. Future)	25oOaleife6E2MIKmFkPvg	76
+Hip-Hop	Ski Mask The Slump God	BabyWipe	6eKWSrZfzd25TYYxkscWgg	77
+Hip-Hop	Eminem	Not Alike (feat. Royce Da 5'9)	28FGV3ORH14MYORd7s5dlU	78
+Hip-Hop	Lil Pump	Be Like Me (feat. Lil Wayne)	6flur5o18COKeafnjLHRiJ	81
+Hip-Hop	Offset	Lick	4W9XGjEUVG9junR70FOLii	79
+Hip-Hop	A$AP Rocky	Sundress	2aPTvyE09vUCRwVvj0I8WK	77
+Hip-Hop	Big Sean	I Don't Fuck With You	7FYH5AW3bVfZHJIQpq3UOA	76
+Hip-Hop	Eminem	The Real Slim Shady	3yfqSUWxFvZELEM4PmlwIR	80
+Hip-Hop	Drake	Portland	2bjwRfXMk4uRgOD9IBYl9h	76
+Hip-Hop	Lil Wayne	Scared of the Dark (feat. XXXTENTACION)	3vWzyGTu6Ovo1GdrcJqH6e	79
+Hip-Hop	G-Eazy	West Coast	2O8gSQ9z52tZSLJnuzjkcG	76
+Hip-Hop	Eminem	Rap God	6or1bKJiZ06IlK0vFvY75k	79
+Hip-Hop	TLC	No Scrubs	1KGi9sZVMeszgZOWivFpxs	81
+Hip-Hop	YBN Cordae	Kung Fu	3i01Zk9c0FQ5HA1WJjflXI	79
+Hip-Hop	Eminem	Fall	58QhkbaAkLFnn7JwAnAato	79
+Hip-Hop	Mac Miller	Ladders	39NDBdU5Xkm5pCFGa5kZtI	77
+Hip-Hop	Gorillaz	Feel Good Inc	0d28khcov6AiegSCpG5TuT	81
+Hip-Hop	Lil Pump	Racks on Racks	0SfG57HqtBNqKN9O27fo1s	80
+Hip-Hop	Amin�	Invincible	6VS7wKwtvL2FvTupYSWZ9e	76
+Hip-Hop	Migos	Bad and Boujee (feat. Lil Uzi Vert)	4Km5HrUvYTaSUfiSGPJeQR	79
+Hip-Hop	KYLE	iSpy (feat. Lil Yachty)	2EEeOnHehOozLq4aS0n6SL	78
+Hip-Hop	OutKast	Ms. Jackson	0I3q5fE6wg7LIfHGngUTnV	78
+Hip-Hop	Rae Sremmurd	Come Get Her	1Ser4X0TKttOvo8bgdytTP	76
+Hip-Hop	Frank Ocean	Pink + White	3xKsf9qdS1CyvXSMEid6g8	77
+Hip-Hop	Meek Mill	On Me (feat. Cardi B)	3DnZfpfe8wLeJgzc00gKeW	76
+Hip-Hop	Tory Lanez	TAlk tO Me (with Rich The Kid)	2cRgo1TiPm7SnPvYzvbOLf	76
+Hip-Hop	Drake	Fake Love	343YBumqHu19cGoGARUTsd	76
+Hip-Hop	Migos	Slippery (feat. Gucci Mane)	6p8NuHm8uCGnn2Dtbtf7zE	78
+Hip-Hop	Boogie	Rainy Days (feat. Eminem)	015jLlgBeSkl3CApWJhlv7	76
+Hip-Hop	Quavo	FLIP THE SWITCH (feat. Drake)	1rlIrbWboTRGeKfHhgbJRZ	78
+Hip-Hop	Kodak Black	Codeine Dreaming (feat. Lil Wayne)	4DTpngLjoHj5gFxEZFeD3J	77
+Hip-Hop	Mac Miller	Hurt Feelings	5p7GiBZNL1afJJDUrOA6C8	76
+Hip-Hop	21 Savage	1.5	2wOXxtHZgRkkrkEbKLzzqs	77
+Hip-Hop	Gunna	3 Headed Snake (feat. Young Thug)	2OaKHGvIxoOzIYjyMsxcT8	76
+Hip-Hop	Childish Gambino	Feels Like Summer	7p4vHnYXkxlzvfePJVpcTr	76
+Hip-Hop	Offset	Clout (feat. Cardi B)	59ywHNwwchG4nZJMLyxSzd	77
+Hip-Hop	Jaden Smith	Icon	22nyEAEM29tcBRhukR089b	78
+Hip-Hop	Future	Low Life	7EiZI6JVHllARrX9PUvAdX	76
+Hip-Hop	Eminem	Greatest	2XTquzYQAdT1Hk78bOUwsv	77
+Hip-Hop	Ty Dolla $ign	Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix	7t2bFihaDvhIrd2gn2CWJO	1
+Hip-Hop	6LACK	PRBLMS	4AtZRwSR8BOTTQg5ihSggt	76
+Hip-Hop	The Notorious B.I.G.	Hypnotize - 2014 Remastered Version	7KwZNVEaqikRSBSpyhXK2j	77
+Hip-Hop	Gucci Mane	BiPolar (feat. Quavo)	4fGT0JiaqoHShrg6uSsKfB	76
+Hip-Hop	Eminem	Not Afraid	7Ie9W94M7OjPoZVV216Xus	79
+Hip-Hop	Offset	Wild Wild West (feat. Gunna)	0SQ8yalm13UIJuebuZkQlH	77
+Hip-Hop	Frank Ocean	Chanel	6Nle9hKrkL1wQpwNfEkxjh	76
+Hip-Hop	Metro Boomin	Overdue (with Travis Scott)	6LyAwkJsHlW7RQ8S1cYAtM	76
+Hip-Hop	Rae Sremmurd	Swang	6mapJIPnQ23RTAevUoE0DL	77
+Hip-Hop	Jeremih	oui	0PJIbOdMs3bd5AT8liULMQ	76
+Hip-Hop	Tay-K	The Race	3wGXyJGsCf1myH5MooQIqE	76
+Hip-Hop	Rae Sremmurd	Black Beatles	6fujklziTHa8uoM5OQSfIo	78
+Hip-Hop	OutKast	Hey Ya! - Radio Mix / Club Mix	2PpruBYCo4H7WOBJ7Q2EwM	78
+Hip-Hop	G-Eazy	No Limit	2Xqd0wUttjueBfdcltADOv	78
+Hip-Hop	Kodak Black	Tunnel Vision	4Q3N4Ct4zCuIHuZ65E3BD4	76
+Hip-Hop	Lil Xan	Betrayed	6NWl2m8asvH83xjuXVNsuG	76
+Hip-Hop	Wiz Khalifa	See You Again (feat. Charlie Puth)	2JzZzZUQj3Qff7wapcbKjc	81
+Hip-Hop	Rae Sremmurd	Guatemala - From Swaecation	0TCnOEVeLQMXOUrpPlM7uY	79
+Hip-Hop	A$AP Rocky	L$D	4S7YHmlWwfwArgd8LfSPud	76
+Hip-Hop	Eminem	Kamikaze	2gsNpSn7VvvJuSrIDfRoYy	77
+Hip-Hop	Frank Ocean	Ivy	2ZWlPOoWh0626oTaHrnl2a	77
+Hip-Hop	21 Savage	ball w/o you	50a8bKqlwDEqeiEknrzkTO	76
+Hip-Hop	Wiz Khalifa	Fr Fr (feat. Lil Skies)	1RagpNpkD3KcjXMLGMe99V	76
+Hip-Hop	21 Savage	X (feat. Future)	6fwdbPMwP1zVStm8FybmkO	77
+Hip-Hop	Lil Wayne	Don't Cry (feat. XXXTENTACION)	5BQrp63SHCVf4bzCzJePne	76
+Hip-Hop	SZA	The Weekend	6gU9OKjOE7ghfEd55oRO57	76
+Hip-Hop	Lil Peep	Beamer Boy	7hf89cT5FEmLV5E9fjrjG7	76
+Hip-Hop	Drake	Hotline Bling	0wwPcA6wtMf6HUMpIRdeP7	78
+Hip-Hop	Nelly	Dilemma	0ARK753YaiJbpLUk7z5yIM	78
+Hip-Hop	G-Eazy	1942	794QVQtFNy7hvtjQP1keQd	76
+Hip-Hop	$uicideBoy$	Kill Yourself (Part III)	5XAPpyIoYF3QXP34Hv8Pvx	78
+Hip-Hop	Lil Peep	Life is Beautiful	5rYpwP1dHWGVMrSZbTmt3e	77
+Hip-Hop	Fetty Wap	679 (feat. Remy Boyz)	5NQbUaeTEOGdD6hHcre0dZ	76
+Hip-Hop	Migos	Notice Me	3OnOomd79OjqSYHchCQ6ht	76
+Hip-Hop	Kendrick Lamar	LOYALTY. FEAT. RIHANNA.	6SwRhMLwNqEi6alNPVG00n	76
+Hip-Hop	Lil Pump	Gucci Gang	43ZyHQITOjhciSUUNPVRHc	78
+Hip-Hop	Nicky Jam	X	39N9RPD9MRb5WmoLzNzPeA	84
+Hip-Hop	Jaden Smith	Way Up	7cFFhb9Wz2ZXLSpEk2VDKd	76
+Hip-Hop	Machine Gun Kelly	Bad Things (with Camila Cabello)	1PSBzsahR2AKwLJgx8ehBj	76
+Hip-Hop	Lil Peep	Awful Things	7Hr2XoaGpIMKbNXCZDZ3le	76
+Hip-Hop	Soulja Boy	Kiss Me Thru The Phone	2q4rjDy9WhaN3o9MvDbO21	76
+Hip-Hop	Quavo	LOSE IT (feat. Lil Baby)	69PkhA9q3xCWU2CzoZnLAu	76
+Hip-Hop	Lil Pump	Esskeetit	44KKhCyI0BGS6LvVyDqJtH	78
+Hip-Hop	Ciara	One, Two Step	7uKcScNXuO3MWw6LowBjW1	1
+Hip-Hop	Jeremih	Impatient	3WjyiSbfR74pjWXQ3IaFKJ	76
+Hip-Hop	21 Savage	Ghostface Killers	5u6vkDnOyaf8LsteDAj2ub	76
+Hip-Hop	Soulja Boy	Crank That (Soulja Boy)	66TRwr5uJwPt15mfFkzhbi	77
+Hip-Hop	Usher	Yeah! (feat. Lil Jon & Ludacris)	5rb9QrpfcKFHM1EUbSIurX	81
+Hip-Hop	SZA	The Weekend - Funk Wav Remix	0P6AWOA4LG1XOctzaVu5tt	76
+Hip-Hop	Kendrick Lamar	King Kunta	0N3W5peJUQtI4eyR6GJT5O	76
+Hip-Hop	Wisin & Yandel	Aullando	7BuHdm4lQqcyG3qTwdkxus	84
+Hip-Hop	Rae Sremmurd	No Type	4scpF6J5uMBvoh6sFB7EL1	76
+Hip-Hop	Jacquees	You	01jIO8SJFnpSiNLH1JaBZ5	77
+Hip-Hop	Lil Peep	Benz Truck (?????)	3kBD2xHIqKWXjLAGidDTSz	76
+Hip-Hop	Drake	Too Good	3BtuIIrQlkujKPuWF2B85z	76
+Hip-Hop	Eminem	Stan	3UmaczJpikHgJFyBTAJVoz	76
+Hip-Hop	50 Cent	Candy Shop	5D2mYZuzcgjpchVY1pmTPh	78
+Hip-Hop	$uicideBoy$	Paris	4irYeuAi87yyGHcI4h9s0x	76
+Hip-Hop	2Pac	Ambitionz Az A Ridah	3ssX20QT5c3nA9wk78V1LQ	79
+Hip-Hop	Nicky Jam	X - Remix	6JjPBQfI2Y8nIjnm65X6Pw	79
+Hip-Hop	Kodak Black	If I'm Lyin, I'm Flyin	7HdNB8nvJOBwHa8hIkzvxp	1
+Hip-Hop	Usher	My Boo	68vgtRHr7iZHpzGpon6Jlo	77
+Hip-Hop	Eminem	The Monster	48RrDBpOSSl1aLVCalGl5C	76
+Hip-Hop	Khea	Loca Remix	2CRbiMK0W14l71SpDKqKZM	77
+Hip-Hop	Flo Rida	Low (feat. T-Pain)	0CAfXk7DXMnon4gLudAp7J	80
+Hip-Hop	Dr. Dre	Still D.R.E.	503OTo2dSqe7qk76rgsbep	77
+Hip-Hop	Daddy Yankee	Dura	6KuqAtoeVzxAYOaMveLNpH	81
+Hip-Hop	Pitbull	Time of Our Lives	2bJvI42r8EF3wxjOuDav4r	77
+Hip-Hop	Danny Ocean	Me Reh�so	6De0lHrwBfPfrhorm9q1Xl	84
+Hip-Hop	Sean Kingston	Beautiful Girls	1hGy2eLcmC8eKx7qr1tOqx	77
+Hip-Hop	Flo Rida	My House	6Knv6wdA0luoMUuuoYi2i1	77
+Hip-Hop	Rvssian	Ponle	28O1p0bQXH2F6Qn8jBZZR4	82
+Hip-Hop	Cosculluela	Madura (feat. Bad Bunny)	0r9d60ZYPAlFHq8qnUtkXN	78
+Hip-Hop	Wisin & Yandel	Callao	3gu0fRSgFuc4FmrtIv0DnC	81
+Hip-Hop	Daddy Yankee	Gasolina	6jEZLz3YpnEBRpVkv35AmP	78
+Hip-Hop	Daddy Yankee	Dura - Remix	6U2NuJILEOEpW2tVCuqKHb	78
+Hip-Hop	Coolio	Gangsta's Paradise	7lQWRAjyhTpCWFC0jmclT4	80
+Hip-Hop	Pitbull	Timber	3cHyrEgdyYRjgJKSOiOtcS	76
+Hip-Hop	Jason Derulo	Swalla (feat. Nicki Minaj & Ty Dolla $ign)	6kex4EBAj0WHXDKZMEJaaF	81
+Hip-Hop	Wisin	Esc�pate Conmigo (feat. Ozuna)	1KSqYYJFyfTecXFk9M0prc	80
+Hip-Hop	Ramz	Barking	2U5cq89GCnsR1yixKkC8d5	80
+Hip-Hop	Chris Jeday	Bipolar	4WzsycqZkpkS48H9AAAGux	77
+Hip-Hop	Ciara	Level Up	5ubwXXOsH9bUhZsQ0Cybha	76
+Hip-Hop	Trey Songz	Chi Chi (feat. Chris Brown)	0UvBmQOhu4DVXJtdzGc5eV	76
+Hip-Hop	Shoreline Mafia	Moving Work (feat. Fenix Flexin, Rob Vicious & OhGeesy)	7iocPVdWe7uLfwOELdf0BR	1
+Hip-Hop	2Pac	All Eyez On Me	2xTft6GEZeTyWNpdX94rkf	77
+Hip-Hop	ChocQuibTown	Pa Olvidarte (feat. Manuel Turizo) - Remix	2ktoFujjJtantyMoVdBJlX	86
+Hip-Hop	Nicky Jam	El Perd�n	7qCAVkHWZkF44OzOUKf8Cr	77
+Hip-Hop	Darell	Caliente	4pN7yDeBmmAud5lBtuCsVs	79
+Hip-Hop	Usher	U Remind Me	2QsZVnbWVSjKMXK6K3uRBL	76
+Hip-Hop	Zion & Lennox	La Player (Bandolera)	0VKkyBKCXyR99navhVRqcP	83
+Hip-Hop	Rage Against The Machine	Killing In The Name	59WN2psjkt1tyaxjspN8fp	78
+Hip-Hop	Chris Jeday	Ahora Dice	5LVoGJTyG6fLJgoGkY2QAZ	76
+Hip-Hop	Wisin & Yandel	Reggaet�n en lo Oscuro	7LLXLd0pisbEAdIVK502VM	82
+Hip-Hop	Kevin Roldan	PPP	1DcxnVNFAyVl2sDQ646pXS	85
+Hip-Hop	Pitbull	Give Me Everything	4QNpBfC0zvjKqPJcyqBy9W	76
+Hip-Hop	Lalo Ebratt	Mocca - Remix	1usoXi4f0BnMART4uActEA	79
+Hip-Hop	Usher	DJ Got Us Fallin' In Love (feat. Pitbull)	4356Typ82hUiFAynbLYbPn	76
+Hip-Hop	Jason Derulo	Goodbye (feat. Nicki Minaj & Willy William)	5Xn4IyTtW6FUGIUyWjbUHG	82
+Hip-Hop	Danny Ocean	Epa Wei	2QmsKag0YaqhAbpR9Nwmpn	80
+Hip-Hop	Zion & Lennox	Hola	2dYJKHEqAUTCk2U9zntaS1	77
+Hip-Hop	Flo Rida	Wild Ones (feat. Sia)	1NpW5kyvO4XrNJ3rnfcNy3	77
+Hip-Hop	Jason Derulo	Want to Want Me	7oGZAicScQt96OAW4AruYy	76
+Hip-Hop	Paulo Londra	Forever Alone	5NPzbTzFxIQPaheZuPhn4f	84
+Hip-Hop	Zion & Lennox	Otra Vez (feat. J Balvin)	3QwBODjSEzelZyVjxPOHdq	76
+Hip-Hop	Kevin Roldan	Nadie Como Yo	6XGfoK5edwViiZlmv7kQcE	77
+Hip-Hop	Kendrick Lamar	Bitch, Don�t Kill My Vibe - Remix	7ALEBJ8LOQqXVJ2tqnXtoH	1
+Hip-Hop	Paulo Londra	Nena Maldici�n (feat. Lenny Tav�rez)	2aMVyJSuDFFL1sTjJnvk7X	79
+Hip-Hop	Jason Derulo	Tip Toe (feat. French Montana)	2z4pcBLQXF2BXKFvd0BuB6	76
+Hip-Hop	Danny Ocean	Swing	5zUGr7GcNo7UNjvkNYkjiH	77
+Hip-Hop	Danny Ocean	Dembow	2EzRdhuoPyNJDlep7lnNf2	79
+Hip-Hop	Reykon	Domingo (feat. Cosculluela)	6ayCEojiJIe5d8DwXVlGU4	79
+Hip-Hop	Dem Franchize Boyz	Lean Wit It, Rock Wit It	7cVmKBwzPsh4Fmb6SplfEm	1
+Hip-Hop	Paulo Londra	Chica Paranormal	7zAGi1cps7yYhAajGXlFTH	80
+Hip-Hop	Kevin Roldan	PPP - Remix	3jOn1ZdPldABfKQY4JBhov	80
+Hip-Hop	Tyler, The Creator	Domo23	75kiQfmmuQwgquZ9RLSvuA	1
+Hip-Hop	Duki	Sin Culpa (feat. DrefQuila)	3dLiBBKbeUIhzGNeuo5JGS	82
+Hip-Hop	Aleman	Ruc�n	6TDtGJSk3MDTnM6nTDu5Zu	76
+Rap	Post Malone	Wow.	6MWtB6iiXyIwun0YzU6DFP	99
+Rap	J. Cole	MIDDLE CHILD	2JvzF1RMd7lE3KmFlsyZD8	96
+Rap	Post Malone	Sunflower - Spider-Man: Into the Spider-Verse	3KkXRkHbMCARz0aVfEt68P	97
+Rap	Travis Scott	SICKO MODE	2xLMifQCjDGFmkHkpNLD9h	94
+Rap	Meek Mill	Going Bad (feat. Drake)	2IRZnDFmlqMuOrYOLnZZyc	95
+Rap	Blueface	Thotiana	3oh6SCCeLuXhFpEyepla6G	93
+Rap	21 Savage	a lot	2t8yVaLvJ0RenpXUIAC52d	93
+Rap	Lil Baby	Drip Too Hard (Lil Baby & Gunna)	78QR3Wp35dqAhFEc2qAGjE	92
+Rap	Cardi B	Money	2GGMabyHXnJmjY6CXhhB2e	89
+Rap	Juice WRLD	Robbery	44ShclXTOOnYtt5CnCDeGV	91
+Rap	Kodak Black	ZEZE (feat. Travis Scott & Offset)	0FZ4Dmg8jJJAPJnvBIzD9z	93
+Rap	A Boogie Wit da Hoodie	Swervin (feat. 6ix9ine)	1wJRveJZLSb1rjhnUHQiv6	91
+Rap	Juice WRLD	Lucid Dreams	285pBltuF7vW8TeWk8hdRR	92
+Rap	Juice WRLD	Armed And Dangerous	5wujBwqG7INdStqGd4tRMX	89
+Rap	Post Malone	Better Now	7dt6x5M1jzdTEt8oCbisTK	93
+Rap	Mustard	Pure Water (with Migos)	63cd4JkwGgYJrbOizbfmsp	91
+Rap	Sheck Wes	Mo Bamba	1xzBco0xcoJEDXktl7Jxrr	92
+Rap	Cardi B	Please Me	0PG9fbaaHFHfre2gUVo7AN	91
+Rap	A Boogie Wit da Hoodie	Look Back At It	3Ol2xnObFdKV9pmRD2t9x8	91
+Rap	XXXTENTACION	SAD!	3ee8Jmje8o58CHK66QrVC2	92
+Rap	Travis Scott	YOSEMITE	7lAK3oHbfEnvUQWosrMMpR	87
+Rap	Calboy	Envy Me	05t7JMip6JrLuSrMV5yYjX	85
+Rap	Post Malone	rockstar (feat. 21 Savage)	0e7ipj03S05BNilyu5bRzt	91
+Rap	XXXTENTACION	Moonlight	0JP9xo3adEtGSdUEISiszL	91
+Rap	Logic	Keanu Reeves	25F6MWrnFBCXVnpN4n76EK	87
+Rap	Lil Mosey	Noticed	6JQvHMSaR8flFsN53ypOfP	87
+Rap	Gucci Mane	Wake Up in the Sky	0QIjsbm2fh1cJ45XO9eGqq	89
+Rap	Post Malone	I Fall Apart	75ZvA4QfFiZvzhj2xkaWAh	88
+Rap	Cardi B	I Like It	58q2HKrzhC3ozto2nDdN4z	90
+Rap	Juice WRLD	All Girls Are The Same	4VXIryQMWpIdGgYR4TrjT1	86
+Rap	Post Malone	Psycho (feat. Ty Dolla $ign)	3swc6WTsr7rl9DqQKQA55C	89
+Rap	Lil Baby	Pure Cocaine	577YBGuskWkVDCxZrLRB4v	86
+Rap	Juice WRLD	Hear Me Calling	5UYK9MervBCROg8AHNeEIy	82
+Rap	XXXTENTACION	Jocelyn Flores	7m9OqQk4RVRkw9JJdeAw96	90
+Rap	Kodak Black	Calling My Spirit	2MShy1GSSgbmGUxADNIao5	85
+Rap	Lil Baby	Yes Indeed	6vN77lE9LK6HP2DewaN6HZ	85
+Rap	Metro Boomin	Space Cadet (feat. Gunna)	1fewSx2d5KIZ04wsooEBOz	87
+Rap	Lil Uzi Vert	XO TOUR Llif3	7GX5flRQZVHRAGd6B4TmDO	86
+Rap	XXXTENTACION	changes	7AFASza1mXqntmGtbxXprO	88
+Rap	Blueface	Bleed It	67fNrBUMc7iWMofdCaoJV9	83
+Rap	Travis Scott	goosebumps	6gBFPUFcJLzWGx4lenP6h2	86
+Rap	6ix9ine	KIKA (feat. Tory Lanez)	6Gy7rXB6Ku5vIWC7WGWsl3	88
+Rap	Juice WRLD	Lean Wit Me	3oDkdAySo1VQQG0ptV7uwa	84
+Rap	Offset	Ric Flair Drip (& Metro Boomin)	7sO5G9EABYOXQKNPNiE9NR	86
+Rap	Rich The Kid	Splashin	79OEIr4J4FHV0O3KrhaXRb	88
+Rap	A Boogie Wit da Hoodie	Startender (feat. Offset and Tyga)	6uSSupG4TMu3vW8QgynAB6	85
+Rap	Tyga	Taste (feat. Offset)	5IaHrVsrferBYDm0bDyABy	90
+Rap	Post Malone	Congratulations	3a1lNhkSLSkpJE4MSHpDu9	87
+Rap	XXXTENTACION	Fuck Love (feat. Trippie Redd)	7AQim7LbvFVZJE3O8TYgf2	87
+Rap	Offset	Legacy (feat. Travis Scott & 21 Savage)	7pMRoGLEJuFM2wl5pt0R99	85
+Rap	Juice WRLD	Fast	6MjNilJCVKJq0LfFvo5jWJ	79
+Rap	Drake	God's Plan	6DCZcSspjsKoFjzjrWoCdn	89
+Rap	Juice WRLD	Empty	41MCdlvXOl62B7Kv86Bb1v	76
+Rap	Offset	Red Room	2MJdgSby3DtSS7bUJx2cly	85
+Rap	Kanye West	I Love It (& Lil Pump)	4S8d14HvHb70ImctNgVzQQ	87
+Rap	Travis Scott	STARGAZING	7wBJfHzpfI3032CSD7CE2m	84
+Rap	Lil Uzi Vert	New Patek	0Fpen1PTuEnCmOJtUU9Iud	81
+Rap	Ski Mask The Slump God	Nuketown (feat. Juice WRLD)	74lnM5V6ecvoTPV0fvptx9	85
+Rap	Lil Mosey	Kamikaze	1iPBD72u3nAyFEeardYuBV	83
+Rap	21 Savage	monster	2FUNBaa5DwItJtYEBgAblU	85
+Rap	Ski Mask The Slump God	Faucet Failure	1ThmUihH9dF8EV08ku5AXN	85
+Rap	Future	Fine China	5274I4mUMnYczyeXkGDWZN	85
+Rap	Trippie Redd	Topanga	5aXgz1oKK8Q9z9xvTmSnrO	83
+Rap	Juice WRLD	Hide (feat. Seezyn)	6rz0dTA0PdhXImFV5EjM0w	83
+Rap	A Boogie Wit da Hoodie	Demons and Angels (feat. Juice WRLD)	3L19besdNQzd342qL78xqm	83
+Rap	Trippie Redd	1400 / 999 Freestyle	75lcPkAkUsKWHGBlGM476R	83
+Rap	XXXTENTACION	Arms Around You (feat. Maluma & Swae Lee)	2LskIZrCeLxRvCiGP8gxlh	90
+Rap	Travis Scott	BUTTERFLY EFFECT	2cYqizR4lgvp4Qu6IQ3qGN	84
+Rap	J. Cole	No Role Modelz	62vpWI1CHwFy7tMIcSStl8	84
+Rap	Juice WRLD	Wasted (feat. Lil Uzi Vert)	1a7WZZZH7LzyvorhpOJFTe	82
+Rap	Drake	In My Feelings	2G7V7zsVDxg1yRsu7Ew9RJ	88
+Rap	Metro Boomin	10 Freaky Girls (with 21 Savage)	0AluA5RNsa4Cx6XRhf2hWZ	85
+Rap	BlocBoy JB	Look Alive (feat. Drake)	4qKcDkK6siZ7Jp1Jb4m0aL	87
+Rap	French Montana	No Stylist	04MLEeAMuV9IlHEsD8vF6A	88
+Rap	Post Malone	Candy Paint	32lItqlMi4LBhb4k0BaSaC	84
+Rap	Drake	Nice For What	3CA9pLiwRIGtUBiMjbZmRw	86
+Rap	XXXTENTACION	Everybody Dies In Their Nightmares	3GVkPk8mqxz0itaAriG1L7	86
+Rap	Lil Peep	Falling Down - Bonus Track	4jvjzW7Hm0yK4LvvE0Paz9	87
+Rap	Future	First Off (feat. Travis Scott)	3WRIaWsws011vHMd9uzPjG	85
+Rap	Kendrick Lamar	HUMBLE.	7KXjTSCq5nL1LoYtL7XAwS	86
+Rap	Travis Scott	CAN'T SAY	27a1mYSG5tYg7dmEjWBcmL	82
+Rap	Juice WRLD	Black & White	1fCeXjoRExPP2qwSBh2aST	82
+Rap	Lil Uzi Vert	The Way Life Goes (feat. Oh Wonder)	2eAZfqOm4EnOF9VvN50Tyc	80
+Rap	XXXTENTACION	Sauce!	3jq1RpStaB1YGyN3rRZGca	84
+Rap	Juice WRLD	Legends	1Knctxx9vGZxpZfF66BIEa	82
+Rap	Lil Wayne	Uproar	3wScL5W8H40zzCKN0atfBk	81
+Rap	XXXTENTACION	the remedy for a broken heart (why am I so in love)	4UKCKdYiLN6IMA5ZESUTL7	83
+Rap	Logic	1-800-273-8255	5tz69p7tJuGPeMGwNTxYuV	84
+Rap	Lil Baby	Close Friends (Lil Baby & Gunna)	5nzhL67GpF9szXWg5y509A	82
+Rap	Cardi B	Bodak Yellow	6KBYefIoo7KydImq1uUQlL	81
+Rap	Mac Miller	Self Care	5bJ1DrEM4hNCafcDd1oxHx	81
+Rap	Future	Crushed Up	7wcyO1rrH3Ru4t659IjG41	84
+Rap	Amin�	REEL IT IN	5qHirGR7M9tdm6C17DlzSY	83
+Rap	21 Savage	Bank Account	2fQrGHiQOvpL9UgPvtYy6G	84
+Rap	Lil Dicky	Freaky Friday (feat. Chris Brown)	10Igtw8bSDyyFs7KIsKngZ	82
+Rap	XXXTENTACION	Hope	2ZRo7axmMPeSVUvDbGkJah	83
+Rap	Post Malone	White Iverson	6eT7xZZlB2mwyzJ2sUKG6w	83
+Rap	Tory Lanez	TAlk tO Me (with Rich The Kid feat. Lil Wayne) - Remix	51w9Jbat1pLeWINGCpnQUR	84
+Rap	NF	Let You Down	52okn5MNA47tk87PeZJLEL	84
+Rap	XXXTENTACION	BAD!	4CH66Rxcjcj3VBHwmIBj4T	83
+Rap	Post Malone	Stay	4H7WNRErSbONkM06blBoGc	82
+Rap	Bryce Vine	Drew Barrymore	0OgGn1ofaj55l2PcihQQGV	78
+Rap	Logic	Everyday	4EAV2cKiqKP5UPZmY6dejk	84
+Rap	Post Malone	Go Flex	5yuShbu70mtHXY0yLzCQLQ	83
+Rap	Migos	Walk It Talk It	6n4U3TlzUGhdSFbUUhTvLP	84
+Rap	Rich The Kid	Plug Walk	1ZAyjvIk9YiD76yYy0TEG6	84
+Rap	Kodak Black	Roll In Peace (feat. XXXTENTACION)	40oKW22ZNNkEdZLJTScaQI	82
+Rap	A Boogie Wit da Hoodie	Drowning (feat. Kodak Black)	1f5cbQtDrykjarZVrShaDI	81
+Rap	Metro Boomin	Don't Come Out The House (with 21 Savage)	2Grb4G6t9VIqo6moKUloom	81
+Rap	Lil Uzi Vert	Money Longer	0B8QzDH7YWih85V5SEMnyJ	78
+Rap	Pardison Fontaine	Backin' It Up (feat. Cardi B)	0PpfPNtQOOvbMNVJijTQj0	79
+Rap	Gunna	Speed It Up	3BXXkwyhsHM0EPApHMhQC5	80
+Rap	Post Malone	Ball For Me (feat. Nicki Minaj)	6IaieqiCVvsNvEt6Y7yOFa	81
+Rap	Bryson Tiller	Exchange	43PuMrRfbyyuz4QpZ3oAwN	81
+Rap	Kendrick Lamar	LOVE. FEAT. ZACARI.	6PGoSes0D9eUDeeAafB2As	81
+Rap	Russ	Missin You Crazy	4ve2uzqdwnHr20G5YgMMqr	82
+Rap	Gunna	Sold Out Dates (feat. Lil Baby)	72LlwJM24dWKpFLVB3PWWQ	79
+Rap	Kendrick Lamar	All The Stars (with SZA)	3GCdLUSnKSMJhs4Tj6CV3s	84
+Rap	Kendrick Lamar	DNA.	6HZILIRieu8S0iqY8kIKhj	82
+Rap	J. Cole	KOD	7yotKA30dwTKNEGomV9ZsI	81
+Rap	6ix9ine	WAKA (feat. A Boogie Wit da Hoodie)	6o79O9qBP3OAkWOXajAQIS	80
+Rap	Trippie Redd	Taking A Walk	4mHgYpuGHu99Mw69E83CP2	80
+Rap	A$AP Rocky	Praise The Lord (Da Shine) (feat. Skepta)	7ycWLEP1GsNjVvcjawXz3z	86
+Rap	Lil Wayne	Mona Lisa (feat. Kendrick Lamar)	0dbTQYW3Ad1FTzIA9t90E8	78
+Rap	21 Savage	all my friends	4paAidoE8VAemwU4jgCc6l	80
+Rap	Kodak Black	MoshPit (feat. Juice WRLD)	4KX8vXbouybtUptEyYxtIk	79
+Rap	Migos	Stir Fry	2UVbBKQOdFAekPTRsnkzcf	81
+Rap	Yo Gotti	Put a Date On It (feat. Lil Baby)	6PRh0ilIMEP1xlUHqalnkD	79
+Rap	2 Chainz	Whip (feat. Travis Scott)	6Z4rmc0uujCpl8yXe3yjgI	80
+Rap	Lil Baby	Freestyle	5BbdKBZO0TH0GhfxUfyhL9	79
+Rap	J. Cole	Wet Dreamz	6Ius4TC0L3cN74HT7ENE6e	81
+Rap	21 Savage	can't leave without it	0hPLZrnDgtKxrym1BHjDhd	80
+Rap	Kanye West	Gold Digger	1PS1QMdUqOal0ai3Gt7sDQ	80
+Rap	Lil Peep	I've Been Waiting (w/ ILoveMakonnen & Fall Out Boy)	2v5JTeM6hSmi5wWy7jiwrI	84
+Rap	Post Malone	Rich & Sad	2VdT56BGpdqNHUgOe1j5vc	80
+Rap	XXXTENTACION	I Don't Wanna Do This Anymore	5de9Ho64dovuQI8Uhn5gPD	80
+Rap	Migos	MotorSport	4wFjTWCunQFKtukqrNijEt	82
+Rap	Famous Dex	JAPAN	5PTG6rrL6EPFD9E2QMI2pl	81
+Rap	6LACK	Pretty Little Fears (feat. J. Cole)	4at3d5QWnlibMVN75ECDrp	82
+Rap	Kehlani	Nights Like This (feat. Ty Dolla $ign)	6ZRuF2n1CQxyxxAAWsKJOy	85
+Rap	Trippie Redd	Shake It Up	6yz0Jndhv0QjKdpcEMbOjz	79
+Rap	Chris Brown	Undecided	7uiBocndm12aKbsdnQ3Scx	86
+Rap	Eminem	Lucky You (feat. Joyner Lucas)	60SdxE8apGAxMiRrpbmLY0	86
+Rap	YBN Cordae	Kung Fu	3i01Zk9c0FQ5HA1WJjflXI	79
+Rap	Ski Mask The Slump God	Foot Fungus	3EikYy40GMSp8l5mDV6IQo	81
+Rap	G-Eazy	Him & I (with Halsey)	5k38wzpLb15YgncyWdTZE4	82
+Rap	Kanye West	All Mine	3U21A07gAloCc4P7J8rxcn	78
+Rap	Travis Scott	NO BYSTANDERS	6OaVWaGfhXn70ZJfdVcabn	78
+Rap	Russ	Losin Control	4cxMGhkinTocPSVVKWIw0d	79
+Rap	Juice WRLD	Rich And Blind	6QNFQJKlZUKr0xlGZ74CZJ	78
+Rap	KYLE	Playinwitme (feat. Kehlani)	4F1yvJfQ7gJkrcgFJQDjOr	80
+Rap	XXXTENTACION	Carry On	2yZax79pOrYuyIFVW2cZY2	80
+Rap	Offset	How Did I Get Here (feat. J. Cole)	32iPykTXUNZ9oGyACGUybq	80
+Rap	Post Malone	Paranoid	3fpVWegR6YOS1Yk5HSMYIq	80
+Rap	J. Cole	Kevin�s Heart	6tZ3b7ik1QDXFAZlXib0YZ	79
+Rap	Mac Miller	Weekend (feat. Miguel)	6GnhWMhgJb7uyiiPEiEkDA	77
+Rap	XXXTENTACION	NUMB	01TnVDiet1DFTsyWKUKovl	80
+Rap	SZA	Love Galore (feat. Travis Scott)	0q75NwOoFiARAVp4EXU4Bs	80
+Rap	Cardi B	Bartier Cardi (feat. 21 Savage)	0dIoGTQXDh1wVnhIiSyYEa	78
+Rap	Gunna	Outstanding	76PwajqH3ej4hnk9tgaJpp	79
+Rap	Tyler, The Creator	See You Again	7KA4W4McWYRpgf0fWsJZWB	1
+Rap	Cardi B	Ring (feat. Kehlani)	5DfWF0jqMgZDCiu9zJENTA	78
+Rap	Travis Scott	SICKO MODE - Skrillex Remix	0u695M7KyzXaPIjpEbxOkB	80
+Rap	Lil Uzi Vert	Dark Queen	2ZdCrBA52bb4pIG3tOOZiQ	76
+Rap	Wiz Khalifa	Hopeless Romantic (feat. Swae Lee)	7IBSffWIu7P2MC7kMwy2FM	79
+Rap	Lil Baby	Life Goes On	2bSk87AVkCIIC3Bcligq1z	78
+Rap	blackbear	do re mi	3Q3myFA7q4Op95DOpHplaY	80
+Rap	Playboi Carti	Shoota (feat. Lil Uzi Vert)	2BJSMvOGABRxokHKB0OI8i	80
+Rap	Lil Wayne	Scared of the Dark (feat. XXXTENTACION)	3vWzyGTu6Ovo1GdrcJqH6e	79
+Rap	2 Chainz	Rule The World (feat. Ariana Grande)	1R6VwZ8TuHRzxZUxe88n4I	80
+Rap	Quavo	WORKIN ME	33tNYw9oMtSkGe27NpgS64	78
+Rap	Childish Gambino	This Is America	0b9oOr2ZgvyQu88wzixux9	81
+Rap	G-Eazy	West Coast	2O8gSQ9z52tZSLJnuzjkcG	76
+Rap	Bryson Tiller	Don't	3pXF1nA74528Edde4of9CC	79
+Rap	XXXTENTACION	Look At Me!	7floNISpH8VF4z4459Qo18	83
+Rap	6ix9ine	TIC TOC (feat. Lil Baby)	4m5Cd9kAbIxg6t9sMrQWtk	81
+Rap	Cardi B	Be Careful	2Yl4OmDby9iitgNWZPwxkd	78
+Rap	Kanye West	Heartless	4EWCNWgDS8707fNSZ1oaA5	77
+Rap	French Montana	Unforgettable	3B54sVLJ402zGa6Xm4YGNe	85
+Rap	Drake	Mob Ties	7rC5Pl8rQSX4myONQHYPBK	80
+Rap	Tory Lanez	FeRRis WhEEL (feat. Trippie Redd)	6j97zG4DDrh3oUa6rZbFOs	79
+Rap	Kanye West	POWER	2gZUPNdnz5Y45eiGxpHGSc	79
+Rap	Gunna	One Call	2IoZOYOZDrWCOLoZoYedxQ	78
+Rap	Logic	44 More	3e7Y6sfFlIdBMJhX7wpqVO	78
+Rap	Young Thug	Chanel (Go Get It) [feat. Gunna & Lil Baby]	0kCBorRrKZkSztd9m0QI3r	79
+Rap	Trippie Redd	Love Scars 3	0AcicReEGm1qcENjqzh1Tg	77
+Rap	Drake	Passionfruit	5mCPDVBb16L4XQwDdbRUpz	82
+Rap	Miguel	Sky Walker (feat. Travis Scott)	5WoaF1B5XIEnWfmb5NZikf	78
+Rap	Tyga	Girls Have Fun (feat. G-Eazy & Rich The Kid)	1NHlyKgtR4roNylOhidKSv	83
+Rap	Migos	Narcos	0wbnC9AUenxp613TYaJsGK	80
+Rap	Social House	Magic In The Hamptons (feat. Lil Yachty)	2Yer0p7uB2lVBUAtANuuQp	77
+Rap	Post Malone	92 Explorer	1D2L6MefbXon28PzIk9I3r	79
+Rap	Mac Miller	Ladders	39NDBdU5Xkm5pCFGa5kZtI	77
+Rap	Post Malone	Spoil My Night (feat. Swae Lee)	5VuxWXbt7XENQCtE9TzpTv	79
+Rap	XXXTENTACION	Revenge	5TXDeTFVRVY7Cvt0Dw4vWW	80
+Rap	Lil Yachty	Yacht Club (feat. Juice WRLD)	5R2rsbwCDXORX2tLfprRmM	79
+Rap	Rae Sremmurd	Powerglide (feat. Juicy J) - From SR3MM	1BuZAIO8WZpavWVbbq3Lci	81
+Rap	Drake	I'm Upset	3qN5qMTKyEEmiTZD38BNTT	79
+Rap	Lil Tjay	Brothers	3OKjDHmSJVKOn6V4hCR8bq	76
+Rap	NF	Lie	07FkzikE6FuHIa8Ma7zJGc	79
+Rap	blackbear	Idfc	6y6jbcPG4Yn3Du4moXaenr	80
+Rap	Gunna	Same Yung Nigga (feat. Playboi Carti)	1q9jq5X5vwmewjOa2mHtQ1	77
+Rap	A Boogie Wit da Hoodie	Love Drugs and Sex	1Gno5IBUHh6vUKp4nxu2Yd	77
+Rap	6ix9ine	STOOPID (feat. Bobby Shmurda)	6k2iq1yULhXILe0i8xQqPF	79
+Rap	Polo G	Pop Out (feat. Lil TJay)	5AjINjwKyRvQJhSe2zpPHi	76
+Rap	Post Malone	Over Now	09IOPhEh1OMe0HD9b36FJk	79
+Rap	A$AP Ferg	Plain Jane	4dVpf9jZjcORqGTLUaeYj9	81
+Rap	6ix9ine	BEBE (feat. Anuel Aa)	4KkUjFkcQvGvWekl8RATDn	88
+Rap	Juice WRLD	Candles	1wa6QQsdSE3X2GbRljGpFk	76
+Rap	A Boogie Wit da Hoodie	Come Closer (feat. Queen Naija)	3UhRsQVrELOATEiY7E9X2T	78
+Rap	Offset	Lick	4W9XGjEUVG9junR70FOLii	79
+Rap	2 Chainz	Momma I Hit A Lick (feat. Kendrick Lamar)	7jKUnzzOGhAlPjr7LkIUlE	76
+Rap	Travis Scott	Antidote	1wHZx0LgzFHyeIZkUydNXq	77
+Rap	Gucci Mane	I Get The Bag (feat. Migos)	1XRgIKC5TPwo7nWGyKqgG0	79
+Rap	Mac Miller	Hurt Feelings	5p7GiBZNL1afJJDUrOA6C8	76
+Rap	Amin�	Caroline	5hTpBe8h35rJ67eAWHQsJx	78
+Rap	G-Eazy	No Limit	2Xqd0wUttjueBfdcltADOv	78
+Rap	Drake	Don�t Matter To Me (with Michael Jackson)	6G8kHiVZ1jW7vHMPVRNZU0	82
+Rap	Takeoff	Casper	1B4gJRq61xTs6r1O0Uq2iY	79
+Rap	Travis Scott	WAKE UP	20MuVazoNMv6xjKPnRFOxG	77
+Rap	NAV	Champion (feat. Travis Scott)	6nO3tr47nr2P7f3hXb8JIo	80
+Rap	J. Cole	G.O.M.D.	16qYlQ6koFxYVbiJbGHblz	78
+Rap	Migos	Bad and Boujee (feat. Lil Uzi Vert)	4Km5HrUvYTaSUfiSGPJeQR	79
+Rap	Famous Dex	PICK IT UP (feat. A$AP Rocky)	3ncgNpxLoBQ65ABk4djDyd	79
+Rap	Eminem	'Till I Collapse	4xkOaSrkexMciUUogZKVTS	85
+Rap	Trippie Redd	Love Scars	0AICBlLzFCTpUqmAbtzB2z	77
+Rap	Lil Wayne	Don't Cry (feat. XXXTENTACION)	5BQrp63SHCVf4bzCzJePne	76
+Rap	6ix9ine	MALA (feat. Anuel Aa)	0LQ1J0BCzA2qnAgp9MkkNE	87
+Rap	Migos	Slippery (feat. Gucci Mane)	6p8NuHm8uCGnn2Dtbtf7zE	78
+Rap	DJ Khaled	No Brainer	5WvAo7DNuPRmk4APhdPzi8	84
+Rap	Quavo	FLIP THE SWITCH (feat. Drake)	1rlIrbWboTRGeKfHhgbJRZ	78
+Rap	Amin�	REEL IT IN (feat. Gucci Mane) - Remix	4yVEpUXxYgBwfSOKGTFxv5	77
+Rap	Lil Peep	Save That Shit	0S0vWvyZ6Rc79TXkWxT9QA	81
+Rap	Juice WRLD	Scared Of Love	49QVOdWgGagzLrThkIqtK6	76
+Rap	Lil Mosey	Pull Up	6dww8y59MiIREzWonqzGOy	76
+Rap	Kodak Black	Codeine Dreaming (feat. Lil Wayne)	4DTpngLjoHj5gFxEZFeD3J	77
+Rap	KYLE	iSpy (feat. Lil Yachty)	2EEeOnHehOozLq4aS0n6SL	78
+Rap	G-Eazy	1942	794QVQtFNy7hvtjQP1keQd	76
+Rap	Travis Scott	HOUSTONFORNICATION	58TaFP5j5i9swOf584yon2	76
+Rap	Joyner Lucas	I Love	30z4LVkScpeNhwHFIB8Ewa	78
+Rap	21 Savage	1.5	2wOXxtHZgRkkrkEbKLzzqs	77
+Rap	Gunna	3 Headed Snake (feat. Young Thug)	2OaKHGvIxoOzIYjyMsxcT8	76
+Rap	Roddy Ricch	Every Season	7uDmtMSHiwHt4SXqxbYqIr	76
+Rap	Ski Mask The Slump God	Take A Step Back	2gQYziDV5cSTRSqr6akzi5	79
+Rap	Offset	Clout (feat. Cardi B)	59ywHNwwchG4nZJMLyxSzd	77
+Rap	Ty Dolla $ign	Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix	7t2bFihaDvhIrd2gn2CWJO	1
+Rap	Tyga	Dip (feat. Nicki Minaj)	4hXDobvUaXyDFLnmecoY0z	81
+Rap	Post Malone	No Option	6M0IsaUX4GNyto4niSegfI	77
+Rap	A Boogie Wit da Hoodie	Just Like Me (feat. Young Thug)	0uH6JssU7mWkTT9mqeqEvL	77
+Rap	KIDS SEE GHOSTS	Reborn	4RVbK6cV0VqWdpCDcx3hiT	77
+Rap	Eminem	Killshot	1jo3TwNGCXfNdB5uba3ZVv	82
+Rap	The Weeknd	Starboy	7MXVkk9YMctZqd1Srtv4MB	85
+Rap	A Boogie Wit da Hoodie	Skeezers	2A4vCndSkZ3jd5nfh3a8gc	76
+Rap	Offset	Wild Wild West (feat. Gunna)	0SQ8yalm13UIJuebuZkQlH	77
+Rap	Tay-K	The Race	3wGXyJGsCf1myH5MooQIqE	76
+Rap	Post Malone	Same Bitches (feat. G-Eazy & YG)	688QpQAwqsLdBR6lr13wK1	77
+Rap	J. Cole	ATM	2UciqgwVDwro0fev3MFbxJ	77
+Rap	Future	Jumpin on a Jet	1I3ZAmPmbFV78oNKnibOiW	78
+Rap	Kodak Black	Tunnel Vision	4Q3N4Ct4zCuIHuZ65E3BD4	76
+Rap	6ix9ine	TATI (feat. DJ SpinKing)	6wJrqTE6c4NtfDqAcSRcBf	78
+Rap	Big Sean	Bounce Back	0SGkqnVQo9KPytSri1H6cF	79
+Rap	Future	Mask Off	0VgkVdmE4gld66l8iyGjgx	82
+Rap	gianni & kyle	do u even miss me at all?	6pZrMNlxjDl216OcdBGpfJ	76
+Rap	2Pac	Ambitionz Az A Ridah	3ssX20QT5c3nA9wk78V1LQ	79
+Rap	J. Cole	Neighbors	0utlOiJy2weVl9WTkcEWHy	76
+Rap	Young Thug	Sin (feat. Jaden Smith)	1Jl21sidRpEdlVBvYbssLx	77
+Rap	Post Malone	Zack And Codeine	5lZZmityu9TAjNvSY6GLhR	77
+Rap	Travis Scott	STOP TRYING TO BE GOD	1xYpVRspgaLxdJLOTQkTjg	76
+Rap	Tyga	SWISH	55GiOwtxNajXVbpjjIzMnD	83
+Rap	Macklemore	Glorious (feat. Skylar Grey)	0CokSRCu5hZgPxcZBaEzVE	80
+Rap	Roddy Ricch	Die Young	1lWK70HfYRFZtWJUwUrY48	77
+Rap	6ix9ine	BILLY	5KhFaq45chTw8RGfWo8T8J	79
+Rap	Rich The Kid	4 Phones	5qu3j7Ou6LyQFSU9N7Sb5x	76
+Rap	21 Savage	ball w/o you	50a8bKqlwDEqeiEknrzkTO	76
+Rap	Childish Gambino	Redbone	0wXuerDYiBnERgIpbb3JBR	78
+Rap	Post Malone	Takin' Shots	5ffntNJnJOeFv7b7DCd0Bw	77
+Rap	ScHoolboy Q	X (with 2 Chainz & Saudi)	4LmAnpjlhWTahvRkYR8xJa	77
+Rap	21 Savage	X (feat. Future)	6fwdbPMwP1zVStm8FybmkO	77
+Rap	Post Malone	Deja Vu	0H8XeaJunhvpBdBFIYi6Sh	77
+Rap	SZA	The Weekend	6gU9OKjOE7ghfEd55oRO57	76
+Rap	Meek Mill	On Me (feat. Cardi B)	3DnZfpfe8wLeJgzc00gKeW	76
+Rap	Bas	Tribe (with J. Cole)	0YAQnYt2oB8OdoaeqnHyTI	78
+Rap	Frank Ocean	Nights	7eqoqGkKwgOaWNNHx90uEZ	78
+Rap	Mario	Let Me Love You	3ibKnFDaa3GhpPGlOUj7ff	80
+Rap	Drake	One Dance	1zi7xx7UVEFkmKfv06H8x0	83
+Rap	Yung Gravy	1 Thot 2 Thot Red Thot Blue Thot	7LptQZjp5wgdYDQZPjOV9O	76
+Rap	Ski Mask The Slump God	Catch Me Outside	4rgwri7LajWVZvdj2N81SS	78
+Rap	Future	Hard Work Pays Off	6gzIcEUuswJQGfJNPYMjjv	77
+Rap	NF	If You Want Love	3i5qVV8azKqGFK4Gzdt5YS	77
+Rap	Rob $tone	Chill Bill	5uDASfU19gDxSjW8cnCaBp	79
+Rap	Migos	Notice Me	3OnOomd79OjqSYHchCQ6ht	76
+Rap	Fort Minor	Remember The Name (feat. Styles Of Beyond)	6ndmKwWqMozN2tcZqzCX4K	77
+Rap	Drake	Jumpman	27GmP9AWRs744SzKcpJsTZ	77
+Rap	XXXTENTACION	I don�t let go	4axYWgXASdsCBHuwInAubT	77
+Rap	XXXTENTACION	Guardian angel	7uqcLJFlSYjVPLUz1vPxkY	77
+Rap	The Notorious B.I.G.	Juicy	5ByAIlEEnxYdvpnezg7HTX	78
+Rap	JID	Off Deez (with J. Cole)	3JAeYOjyJodI4PRs44lx2l	77
+Rap	XXXTENTACION	YuNg BrAtZ	2ooF4088y5L72c4YTEJQoB	77
+Rap	T-Pain	Buy U a Drank (Shawty Snappin')	2aIdVb8v9KTpEZnftkz2mD	78
+Rap	blackbear	1 SIDED LOVE	13TMuxC8tdSfthXpHG9D26	76
+Rap	Eminem	Lose Yourself - From 8 Mile Soundtrack	5Z01UMMf7V1o0MzF86s6WJ	81
+Rap	Kanye West	Black Skinhead	722tgOgdIbNe3BEyLnejw4	76
+Rap	Lil Yachty	Get Dripped (feat. Playboi Carti)	3m2aDCqn8eT5ElXDUiboGU	76
+Rap	2 Chainz	It's A Vibe	6H0AwSQ20mo62jGlPGB8S6	77
+Rap	Jeremih	oui	0PJIbOdMs3bd5AT8liULMQ	76
+Rap	Playboi Carti	Magnolia	1e1JKLEDKP7hEQzJfNAgPl	77
+Rap	Playboi Carti	wokeuplikethis*	59J5nzL1KniFHnU120dQzt	76
+Rap	Post Malone	Otherside	4qWCFTuNnmGNdY4egtb4ZY	76
+Rap	Post Malone	Too Young	4SYUUlkScpNR1QvPscXf8t	76
+Rap	Quavo	LOSE IT (feat. Lil Baby)	69PkhA9q3xCWU2CzoZnLAu	76
+Rap	XXXTENTACION	Depression & Obsession	2H3wWrnO758y0fPH7Ilerg	78
+Rap	MadeinTYO	Ned Flanders (feat. A$AP Ferg)	2EUNZfjPToKZIahK0WMLKd	76
+Rap	The Weeknd	The Hills	7fBv7CLKzipRk6EC6TWHOB	82
+Rap	2 Chainz	Bigger Than You (feat. Drake & Quavo)	5S1IUPueD0xE0vj4zU3nSf	77
+Rap	Young Thug	Relationship (feat. Future)	25oOaleife6E2MIKmFkPvg	76
+Rap	Post Malone	Sugar Wraith	0MrRAUcB8AZiB9ue2VOBYe	76
+Rap	Ski Mask The Slump God	BabyWipe	6eKWSrZfzd25TYYxkscWgg	77
+Rap	Dr. Dre	Still D.R.E.	503OTo2dSqe7qk76rgsbep	77
+Rap	Lil Pump	Be Like Me (feat. Lil Wayne)	6flur5o18COKeafnjLHRiJ	81
+Rap	Wiz Khalifa	See You Again (feat. Charlie Puth)	2JzZzZUQj3Qff7wapcbKjc	81
+Rap	21 Savage	Ghostface Killers	5u6vkDnOyaf8LsteDAj2ub	76
+Rap	Drake	Portland	2bjwRfXMk4uRgOD9IBYl9h	76
+Rap	Machine Gun Kelly	Bad Things (with Camila Cabello)	1PSBzsahR2AKwLJgx8ehBj	76
+Rap	Post Malone	Blame It On Me	1ZemPoaj7LBj1RAQrb89EC	76
+Rap	The Weeknd	Pray For Me (with Kendrick Lamar)	77UjLW8j5UAGAGVGhR5oUK	81
+Rap	Wiz Khalifa	Fr Fr (feat. Lil Skies)	1RagpNpkD3KcjXMLGMe99V	76
+Rap	Lil Pump	Racks on Racks	0SfG57HqtBNqKN9O27fo1s	80
+Rap	GASHI	My Year	6MDjeiUWPPgEwLtiBrr9he	78
+Rap	Eminem	Venom - Music From The Motion Picture	2SL6oP2YAEQbqsrkOzRGO4	82
+Rap	Amin�	Invincible	6VS7wKwtvL2FvTupYSWZ9e	76
+Rap	Jacquees	You	01jIO8SJFnpSiNLH1JaBZ5	77
+Rap	Lund	Broken	1SuznrYulmD8HMZrenI0VU	77
+Rap	Eminem	The Ringer	2jt2WxXMCD4zjACthkJQVE	81
+Rap	Kina	Get You The Moon (feat. Sn�w)	4ZLzoOkj0MPWrTLvooIuaa	80
+Rap	OutKast	Ms. Jackson	0I3q5fE6wg7LIfHGngUTnV	78
+Rap	Rae Sremmurd	Come Get Her	1Ser4X0TKttOvo8bgdytTP	76
+Rap	Frank Ocean	Pink + White	3xKsf9qdS1CyvXSMEid6g8	77
+Rap	Macklemore	Good Old Days (feat. Kesha)	2Za1AlJNvksouPPWbXpR2X	76
+Rap	Fetty Wap	679 (feat. Remy Boyz)	5NQbUaeTEOGdD6hHcre0dZ	76
+Rap	Drake	Fake Love	343YBumqHu19cGoGARUTsd	76
+Rap	Kendrick Lamar	LOYALTY. FEAT. RIHANNA.	6SwRhMLwNqEi6alNPVG00n	76
+Rap	The Weeknd	Call Out My Name	4MPTj8lMMvxLwT3EwuXFop	83
+Rap	SZA	The Weekend - Funk Wav Remix	0P6AWOA4LG1XOctzaVu5tt	76
+Rap	Rich The Kid	New Freezer (feat. Kendrick Lamar)	2EgB4n6XyBsuNUbuarr4eG	76
+Rap	Soulja Boy	Kiss Me Thru The Phone	2q4rjDy9WhaN3o9MvDbO21	76
+Rap	Childish Gambino	Feels Like Summer	7p4vHnYXkxlzvfePJVpcTr	76
+Rap	Jaden Smith	Icon	22nyEAEM29tcBRhukR089b	78
+Rap	Future	Low Life	7EiZI6JVHllARrX9PUvAdX	76
+Rap	Smokepurpp	Nephew (feat. Lil Pump)	0ibOcbkp2XG46Do8jcy0bL	76
+Rap	6LACK	PRBLMS	4AtZRwSR8BOTTQg5ihSggt	76
+Rap	Coolio	Gangsta's Paradise	7lQWRAjyhTpCWFC0jmclT4	80
+Rap	Macklemore & Ryan Lewis	Can't Hold Us - feat. Ray Dalton	3bidbhpOYeV4knp8AIu8Xn	82
+Rap	The Notorious B.I.G.	Hypnotize - 2014 Remastered Version	7KwZNVEaqikRSBSpyhXK2j	77
+Rap	Gucci Mane	BiPolar (feat. Quavo)	4fGT0JiaqoHShrg6uSsKfB	76
+Rap	Jeremih	Impatient	3WjyiSbfR74pjWXQ3IaFKJ	76
+Rap	6ix9ine	GOTTI	27oFpFktCq9JIXjJQRuv7a	77
+Rap	Frank Ocean	Chanel	6Nle9hKrkL1wQpwNfEkxjh	76
+Rap	Metro Boomin	Overdue (with Travis Scott)	6LyAwkJsHlW7RQ8S1cYAtM	76
+Rap	Rae Sremmurd	Swang	6mapJIPnQ23RTAevUoE0DL	77
+Rap	Ciara	One, Two Step	7uKcScNXuO3MWw6LowBjW1	1
+Rap	Soulja Boy	Crank That (Soulja Boy)	66TRwr5uJwPt15mfFkzhbi	77
+Rap	Rae Sremmurd	Black Beatles	6fujklziTHa8uoM5OQSfIo	78
+Rap	OutKast	Hey Ya! - Radio Mix / Club Mix	2PpruBYCo4H7WOBJ7Q2EwM	78
+Rap	The Weeknd	Die For You	2Ch7LmS7r2Gy2kc64wv3Bz	78
+Rap	2Pac	All Eyez On Me	2xTft6GEZeTyWNpdX94rkf	77
+Rap	Lil Xan	Betrayed	6NWl2m8asvH83xjuXVNsuG	76
+Rap	6ix9ine	GUMMO	4HbiCvH1R7mVOJ7KY7JQBD	76
+Rap	A$AP Rocky	Sundress	2aPTvyE09vUCRwVvj0I8WK	77
+Rap	Big Sean	I Don't Fuck With You	7FYH5AW3bVfZHJIQpq3UOA	76
+Rap	Rae Sremmurd	Guatemala - From Swaecation	0TCnOEVeLQMXOUrpPlM7uY	79
+Rap	A$AP Rocky	L$D	4S7YHmlWwfwArgd8LfSPud	76
+Rap	Linkin Park	In The End	60a0Rd6pjrkxjPbaKzXjfq	84
+Rap	Kodak Black	If I'm Lyin, I'm Flyin	7HdNB8nvJOBwHa8hIkzvxp	1
+Rap	Amenazzy	Baby	2IA8cFA46DkjgbsRG7kKbp	86
+Rap	Lil Peep	Beamer Boy	7hf89cT5FEmLV5E9fjrjG7	76
+Rap	Kendrick Lamar	King Kunta	0N3W5peJUQtI4eyR6GJT5O	76
+Rap	Eminem	Love The Way You Lie	15JINEqzVMv3SvJTAXAKED	82
+Rap	Drake	Hotline Bling	0wwPcA6wtMf6HUMpIRdeP7	78
+Rap	Nelly	Dilemma	0ARK753YaiJbpLUk7z5yIM	78
+Rap	$uicideBoy$	Kill Yourself (Part III)	5XAPpyIoYF3QXP34Hv8Pvx	78
+Rap	Lil Peep	Life is Beautiful	5rYpwP1dHWGVMrSZbTmt3e	77
+Rap	Eminem	Without Me	7lQ8MOhq6IN2w8EYcFNSUk	82
+Rap	TLC	No Scrubs	1KGi9sZVMeszgZOWivFpxs	81
+Rap	Tory Lanez	TAlk tO Me (with Rich The Kid)	2cRgo1TiPm7SnPvYzvbOLf	76
+Rap	Boogie	Rainy Days (feat. Eminem)	015jLlgBeSkl3CApWJhlv7	76
+Rap	Lil Pump	Gucci Gang	43ZyHQITOjhciSUUNPVRHc	78
+Rap	Jaden Smith	Way Up	7cFFhb9Wz2ZXLSpEk2VDKd	76
+Rap	Lil Peep	Awful Things	7Hr2XoaGpIMKbNXCZDZ3le	76
+Rap	Eminem	River (feat. Ed Sheeran)	1cS0TgbR263ey9jn0MwD2s	82
+Rap	Papa Roach	Last Resort	5W8YXBz9MTIDyrpYaCg2Ky	78
+Rap	System Of A Down	Chop Suey!	2DlHlPMa4M17kufBvI2lEN	81
+Rap	50 Cent	Candy Shop	5D2mYZuzcgjpchVY1pmTPh	78
+Rap	Lil Pump	Esskeetit	44KKhCyI0BGS6LvVyDqJtH	78
+Rap	Eminem	Not Alike (feat. Royce Da 5'9)	28FGV3ORH14MYORd7s5dlU	78
+Rap	Gym Class Heroes	Stereo Hearts (feat. Adam Levine)	0qOnSQQF0yzuPWsXrQ9paz	77
+Rap	Kehlani	Feels	4BOikd4oZjOYMde9AXfrTo	76
+Rap	Eminem	The Real Slim Shady	3yfqSUWxFvZELEM4PmlwIR	80
+Rap	Eminem	Rap God	6or1bKJiZ06IlK0vFvY75k	79
+Rap	Ne-Yo	So Sick	6brl7bwOHmGFkNw3MBqssT	79
+Rap	Eminem	Fall	58QhkbaAkLFnn7JwAnAato	79
+Rap	Nicki Minaj	Chun-Li	1e4rwBPVI32vZtTJu7mJ4J	76
+Rap	Usher	Yeah! (feat. Lil Jon & Ludacris)	5rb9QrpfcKFHM1EUbSIurX	81
+Rap	Linkin Park	Numb	2nLtzopw4rPReszdYBJU6h	82
+Rap	The Weeknd	Can't Feel My Face	22VdIZQfgXJea34mQxlt81	80
+Rap	Justin Timberlake	Cry Me a River	7Lf7oSEVdzZqTA0kEDSlS5	77
+Rap	Destiny's Child	Say My Name	7H6ev70Weq6DdpZyyTmUXk	78
+Rap	Rae Sremmurd	No Type	4scpF6J5uMBvoh6sFB7EL1	76
+Rap	Kesha	Praying	0jdny0dhgjUwoIp5GkqEaA	76
+Rap	Eminem	Greatest	2XTquzYQAdT1Hk78bOUwsv	77
+Rap	Mike Posner	Move On	3SOp10shYtVHuZWxVGenUb	76
+Rap	Ari Lennox	Shea Butter Baby (with J. Cole)	1CVAENDG5VY05pEHh0ViXL	77
+Rap	Lil Peep	Benz Truck (?????)	3kBD2xHIqKWXjLAGidDTSz	76
+Rap	Justin Timberlake	Mirrors	4rHZZAmHpZrA3iH5zx8frV	77
+Rap	Eminem	Not Afraid	7Ie9W94M7OjPoZVV216Xus	79
+Rap	Drake	Too Good	3BtuIIrQlkujKPuWF2B85z	76
+Hip-Hop	NSG	Options	2cytBOLpwFRX7J9URCrFIe	81
+Hip-Hop	Jason Derulo	Colors - Coca-Cola� Anthem, 2018 FIFA World CupTM	7wD6iRghe6SnKHkvHqpnC5	1
+Hip-Hop	Tyler, The Creator	Goblin	7C8PNX6VQPDtUkVpRyXV8B	1
+Hip-Hop	Cadet	Advice	1fp2uoWXPca3mIdxRHIgQm	77
+Hip-Hop	Beret	Lo siento	4S6gJt4RYR34t4sjW8wEah	77
+Hip-Hop	Blac Youngsta	Booty (feat. Chris Brown, Jeezy & Trey Songz) - Remix	7Go8KtX3ixdb51MqB2gPpH	1
+Hip-Hop	Kontra K	Warnung	3OgD9c7c6GhEWUK660Ezbr	76
+Hip-Hop	Young Thug	Slime Shit (feat. Yak Gotti, Duke & Peewee Roscoe)	7iynYKl5NWdjM1FXTzs6hw	1
+Hip-Hop	Freddie Gibbs	Robes (feat. Domo Genesis, Earl Sweatshirt)	7gDuP7JHRP6A9zwbTIA5gF	1
+Hip-Hop	The Roots	My Shot (feat. Busta Rhymes, Joell Ortiz & Nate Ruess) - Rise Up Remix	7ElYuU4c2EVqtLpCBst0au	1
+Hip-Hop	Heuss L'enfoir�	Khapta	6stxV2bl7xSiPUornxwyNR	81
+Hip-Hop	DJ Khaled	On Everything (feat. Travis Scott, Rick Ross & Big Sean)	7lxZbmtC6SkUc2yXBgDOdO	1
+Hip-Hop	nothing,nowhere.	Houdini	7cc6o0TiaDVvMAwZt5STd5	1
+Hip-Hop	Ninho	Goutte d�eau	5ojNTROUJJgCFFbdD3xTZn	82
+Hip-Hop	Tyler, The Creator	Bastard	7gza9mETipz1YWiN7tOedL	1
+Hip-Hop	Jeezy	The Life (feat. WizKid, Trey Songz)	7beCqGrf7M3yVuB6YvEZdi	1
+Hip-Hop	Booba	PGP	38Eq6RgIxOdt4twqyVAPCn	76
+Hip-Hop	Tyler, The Creator	Analog (Featuring Hodgy Beats)	7Fe9DrgoqEiSv6et53YzwA	1
+Pop	Post Malone	Wow.	6MWtB6iiXyIwun0YzU6DFP	99
+Pop	Ariana Grande	7 rings	14msK75pk3pA33pzPVNtBF	100
+Pop	J. Cole	MIDDLE CHILD	2JvzF1RMd7lE3KmFlsyZD8	96
+Pop	Post Malone	Sunflower - Spider-Man: Into the Spider-Verse	3KkXRkHbMCARz0aVfEt68P	97
+Pop	Travis Scott	SICKO MODE	2xLMifQCjDGFmkHkpNLD9h	94
+Pop	Halsey	Without Me	5p7ujcrUXASCNwRaWNHR1C	97
+Pop	Khalid	Talk	0rTV5WefWd1J3OwIheTzxM	94
+Pop	Sam Smith	Dancing With A Stranger (with Normani)	6Qs4SXO9dwPj5GKvVOv8Ki	97
+Pop	Ariana Grande	needy	1TEL6MlSSVLSdhOSddidlJ	92
+Pop	Marshmello	Happier	2dpaYNEQHiRxtZbfNsse99	97
+Pop	Ariana Grande	NASA	4uTvPEr01pjTbZgl7jcKBD	91
+Pop	Khalid	Better	6zeeWid2sgw4lap2jV61PZ	88
+Pop	Jonas Brothers	Sucker	4y3OI86AEP6PQoDE6olYhO	94
+Pop	Ariana Grande	bloodline	2hloaUoRonYssMuqLCBLTX	91
+Pop	Ariana Grande	bad idea	5Il6Oe7lr5XM7A0cWbVQtr	91
+Pop	Lauv	i'm so tired...	7COXchtUOMd6uIT6HvmRaI	94
+Pop	Ariana Grande	fake smile	3wFLWP0FcIqHK1wb1CPthQ	90
+Pop	Post Malone	Better Now	7dt6x5M1jzdTEt8oCbisTK	93
+Pop	Ariana Grande	imagine	39LmTF9RgyakzSYX8txrow	90
+Pop	21 Savage	a lot	2t8yVaLvJ0RenpXUIAC52d	93
+Pop	Meek Mill	Going Bad (feat. Drake)	2IRZnDFmlqMuOrYOLnZZyc	95
+Pop	benny blanco	Eastside (with Halsey & Khalid)	0d2iYfpKoM0QCKvcLCkBao	91
+Pop	Cardi B	Please Me	0PG9fbaaHFHfre2gUVo7AN	91
+Pop	Lil Baby	Drip Too Hard (Lil Baby & Gunna)	78QR3Wp35dqAhFEc2qAGjE	92
+Pop	Ariana Grande	in my head	4T652DlATVHe0jdLKaN3Bw	88
+Pop	Ava Max	Sweet but Psycho	25sgk305KZfyuqVBQIahim	97
+Pop	Lady Gaga	Shallow	2VxeLyX666F8uXCJ0dZF8B	96
+Pop	Alec Benjamin	Let Me Down Slowly	2qxmye6gAegTMjLKEBoR3d	92
+Pop	Mustard	Pure Water (with Migos)	63cd4JkwGgYJrbOizbfmsp	91
+Pop	Travis Scott	YOSEMITE	7lAK3oHbfEnvUQWosrMMpR	87
+Pop	Kodak Black	ZEZE (feat. Travis Scott & Offset)	0FZ4Dmg8jJJAPJnvBIzD9z	93
+Pop	Post Malone	rockstar (feat. 21 Savage)	0e7ipj03S05BNilyu5bRzt	91
+Pop	Dean Lewis	Be Alright	3EPXxR3ImUwfayaurPi3cm	92
+Pop	Ariana Grande	make up	27356GVuMPFWiJSZCragoM	87
+Pop	Panic! At The Disco	High Hopes	1rqqCSm0Qe4I9rUvWncaom	95
+Pop	Bazzi	Beautiful (feat. Camila Cabello)	4VUwkH455At9kENOfzTqmF	89
+Pop	Billie Eilish	idontwannabeyouanymore	41zXlQxzTi6cGAjpOXyLYH	89
+Pop	Post Malone	I Fall Apart	75ZvA4QfFiZvzhj2xkaWAh	88
+Pop	Cardi B	I Like It	58q2HKrzhC3ozto2nDdN4z	90
+Pop	Ariana Grande	no tears left to cry	2qT1uLXPVPzGgFOx4jtEuo	90
+Pop	Post Malone	Psycho (feat. Ty Dolla $ign)	3swc6WTsr7rl9DqQKQA55C	89
+Pop	The Chainsmokers	Who Do You Love (with 5 Seconds of Summer)	11cDEev79fPKi6uJCjUhu8	92
+Pop	Lady Gaga	Shallow - Radio Edit	6QfS2wq5sSC1xAJCQsTSlj	90
+Pop	Metro Boomin	Space Cadet (feat. Gunna)	1fewSx2d5KIZ04wsooEBOz	87
+Pop	Sheck Wes	Mo Bamba	1xzBco0xcoJEDXktl7Jxrr	92
+Pop	Khalid	Saturday Nights	7vGGAJBkHKxKtOnGjQduDV	87
+Pop	Travis Scott	goosebumps	6gBFPUFcJLzWGx4lenP6h2	86
+Pop	Billie Eilish	wish you were gay	4txc3txsIt81diMzGhrVPS	87
+Pop	Khalid	Young Dumb & Broke	5Z3GHaZ6ec9bsiI5BenrbY	86
+Pop	Ariana Grande	breathin	4OafepJy2teCjYJbvFE60J	87
+Pop	Khalid	Love Lies (with Normani)	45Egmo7icyopuzJN0oMEdk	86
+Pop	Bazzi	Mine	7uzmGiiJyRfuViKKK3lVmR	86
+Pop	Offset	Ric Flair Drip (& Metro Boomin)	7sO5G9EABYOXQKNPNiE9NR	86
+Pop	Gucci Mane	Wake Up in the Sky	0QIjsbm2fh1cJ45XO9eGqq	89
+Pop	Lauv	I Like Me Better	1wjzFQodRWrPcQ0AnYnvQ9	88
+Pop	Ellie Goulding	Close To Me (with Diplo) (feat. Swae Lee)	5JEx7HbmvHQQswJCsoo9rA	92
+Pop	Tyga	Taste (feat. Offset)	5IaHrVsrferBYDm0bDyABy	90
+Pop	Post Malone	Congratulations	3a1lNhkSLSkpJE4MSHpDu9	87
+Pop	Offset	Legacy (feat. Travis Scott & 21 Savage)	7pMRoGLEJuFM2wl5pt0R99	85
+Pop	The Chainsmokers	This Feeling	4NBTZtAt1F13VvlSKe6KTl	88
+Pop	Drake	God's Plan	6DCZcSspjsKoFjzjrWoCdn	89
+Pop	Bebe Rexha	Meant to Be (feat. Florida Georgia Line)	7iDa6hUg2VgEL1o1HjmfBn	86
+Pop	Offset	Red Room	2MJdgSby3DtSS7bUJx2cly	85
+Pop	Ariana Grande	God is a woman	5OCJzvD7sykQEKHH7qAC3C	87
+Pop	benny blanco	Roses (with Juice WRLD feat. Brendon Urie)	5YAP8zpqj1eIX88makBjDe	84
+Pop	Travis Scott	STARGAZING	7wBJfHzpfI3032CSD7CE2m	84
+Pop	Khalid	My Bad	1DUSuNhF8P5vUGNPpQiZa5	78
+Pop	Khalid	Location	152lZdxL1OR0ZMW6KquMif	84
+Pop	Kehlani	Nights Like This (feat. Ty Dolla $ign)	6ZRuF2n1CQxyxxAAWsKJOy	85
+Pop	Billie Eilish	bellyache	51NFxnQvaosfDDutk0tams	87
+Pop	Pedro Cap�	Calma - Remix	5iwz1NiezX7WWjnCgY5TH4	97
+Pop	Mark Ronson	Nothing Breaks Like a Heart (feat. Miley Cyrus)	27rdGxbavYJeBphck5MZAF	92
+Pop	Marshmello	Project Dreams	6GSkLS2y4ZnnZsuRAj975K	83
+Pop	Future	Fine China	5274I4mUMnYczyeXkGDWZN	85
+Pop	Khalid	OTW	6Hgh47WXVKtXN5zGOu0hjI	83
+Pop	Bebe Rexha	I'm a Mess	04ZTP5KsCypmtCmQg5tH9R	86
+Pop	Bebe Rexha	Last Hurrah	0i0wnv9UoFdZ5MfuFGQzMy	86
+Pop	Lil Baby	Pure Cocaine	577YBGuskWkVDCxZrLRB4v	86
+Pop	Travis Scott	BUTTERFLY EFFECT	2cYqizR4lgvp4Qu6IQ3qGN	84
+Pop	J. Cole	No Role Modelz	62vpWI1CHwFy7tMIcSStl8	84
+Pop	Metro Boomin	10 Freaky Girls (with 21 Savage)	0AluA5RNsa4Cx6XRhf2hWZ	85
+Pop	Ed Sheeran	Perfect	0tgVpDi06FyKpA1z0VMD4v	89
+Pop	French Montana	No Stylist	04MLEeAMuV9IlHEsD8vF6A	88
+Pop	Sam Smith	Too Good At Goodbyes	3VlbOrM6nYPprVvzBZllE5	80
+Pop	Post Malone	Candy Paint	32lItqlMi4LBhb4k0BaSaC	84
+Pop	Logic	Keanu Reeves	25F6MWrnFBCXVnpN4n76EK	87
+Pop	Drake	Nice For What	3CA9pLiwRIGtUBiMjbZmRw	86
+Pop	Kodak Black	Calling My Spirit	2MShy1GSSgbmGUxADNIao5	85
+Pop	Lil Baby	Yes Indeed	6vN77lE9LK6HP2DewaN6HZ	85
+Pop	Billie Eilish	ocean eyes	7hDVYcQq6MxkdJGweuCtl9	86
+Pop	Marshmello	Silence	7vGuf3Y35N4wmASOKLUVVU	86
+Pop	King Princess	1950	0CZ8lquoTX2Dkg7Ak2inwA	84
+Pop	5 Seconds of Summer	Youngblood	2iUXsYOEPhVqEBwsqP70rE	87
+Pop	Future	First Off (feat. Travis Scott)	3WRIaWsws011vHMd9uzPjG	85
+Pop	Joji	SLOW DANCING IN THE DARK	0rKtyWc8bvkriBthvHKY8d	84
+Pop	Billie Eilish	my boy	1RGasjWLZ4qMN7wbtkLa3u	85
+Pop	Shawn Mendes	In My Blood	2QZ7WLBE8h2y1Y5Fb8RYbH	87
+Pop	Travis Scott	CAN'T SAY	27a1mYSG5tYg7dmEjWBcmL	82
+Pop	Why Don't We	Big Plans	6Yx181fZzA0YE2EkUsYruq	86
+Pop	Billie Eilish	you should see me in a crown	6vsV4D8BM6PioRr1UOx0n2	85
+Pop	Zedd	The Middle	09IStsImFySgyp0pIQdqAc	88
+Pop	The Chainsmokers	Hope	4BiiOzZCrXEzHRLYcYFiD5	88
+Pop	Daddy Yankee	Con Calma	5w9c2J52mkdntKOmRLeM2m	98
+Pop	Mabel	Don't Call Me Up	5WHTFyqSii0lmT9R21abT8	91
+Pop	Lewis Capaldi	Someone You Loved	2TIlqbIneP0ZY1O0EzYLlc	91
+Pop	Lil Uzi Vert	XO TOUR Llif3	7GX5flRQZVHRAGd6B4TmDO	86
+Pop	Cardi B	Bodak Yellow	6KBYefIoo7KydImq1uUQlL	81
+Pop	Camila Cabello	Havana	1rfofaqEpACxVEHIZBJe6W	88
+Pop	City Girls	Twerk (feat. Cardi B)	4DyBx5MYoq8RsU33cEAIxT	82
+Pop	Halsey	Bad At Love	7y9iMe8SOB6z3NoHE2OfXl	81
+Pop	Calvin Harris	Giant (with Rag'n'Bone Man)	5itOtNx0WxtJmi1TQ3RuRd	94
+Pop	Billie Eilish	bitches broken hearts	5t3Vk8bRKylx4fjj7qlbib	84
+Pop	Maroon 5	Girls Like You (feat. Cardi B)	6FRLCMO5TUHTexlWo8ym1W	89
+Pop	Bruno Mars	That's What I Like	0KKkJNfGyhkQ5aFogxQAPU	85
+Pop	Lauv	There's No Way (feat. Julia Michaels)	2hnxrRNzF74mdDzpQZQukQ	85
+Pop	Future	Crushed Up	7wcyO1rrH3Ru4t659IjG41	84
+Pop	Shawn Mendes	Lost In Japan	79esEXlqqmq0GPz0xQSZTV	84
+Pop	Zara Larsson	Ruin My Life	5tAa8Uaqr4VvA3693mbIhU	88
+Pop	Amin�	REEL IT IN	5qHirGR7M9tdm6C17DlzSY	83
+Pop	Miley Cyrus	Party In The U.S.A.	5Q0Nhxo0l2bP3pNjpGJwV1	76
+Pop	Billie Eilish	come out and play	7wC5eZcFS1Q1BsQ35DU6H4	84
+Pop	5 Seconds of Summer	Lie To Me (feat. Julia Michaels)	6GzApXoBQiiAjak3tOQfV3	85
+Pop	Selena Gomez	Wolves	0tBbt8CrmxbjRP0pueQkyU	86
+Pop	Billie Eilish	COPYCAT	5w7wuzMzsDer96KqxafeRK	84
+Pop	The Chainsmokers	Closer	7BKLCZ1jbUBVqRi2FVlTVw	86
+Pop	Bruno Mars	Finesse (Remix) [feat. Cardi B]	3Vo4wInECJQuz9BIBMOu8i	83
+Pop	Post Malone	White Iverson	6eT7xZZlB2mwyzJ2sUKG6w	83
+Pop	Tory Lanez	TAlk tO Me (with Rich The Kid feat. Lil Wayne) - Remix	51w9Jbat1pLeWINGCpnQUR	84
+Pop	Marshmello	FRIENDS	08bNPGLD8AhKpnnERrAc6G	88
+Pop	Post Malone	Stay	4H7WNRErSbONkM06blBoGc	82
+Pop	James Arthur	Say You Won't Let Go	5uCax9HTNlzGybIStD3vDh	85
+Pop	Kanye West	I Love It (& Lil Pump)	4S8d14HvHb70ImctNgVzQQ	87
+Pop	Bryce Vine	Drew Barrymore	0OgGn1ofaj55l2PcihQQGV	78
+Pop	Becky G	Bubalu	7dNwJbsT0sg1le5kVugGJb	89
+Pop	Julia Michaels	What A Time (feat. Niall Horan)	5WtfUKzXircvW8l5aaVZWT	84
+Pop	Post Malone	Go Flex	5yuShbu70mtHXY0yLzCQLQ	83
+Pop	Rich The Kid	Plug Walk	1ZAyjvIk9YiD76yYy0TEG6	84
+Pop	21 Savage	monster	2FUNBaa5DwItJtYEBgAblU	85
+Pop	blackbear	do re mi	3Q3myFA7q4Op95DOpHplaY	80
+Pop	Dua Lipa	Swan Song (From the Motion Picture Alita: Battle Angel)	5600nq7TiBraBX2jobyJ3l	87
+Pop	Chris Brown	Undecided	7uiBocndm12aKbsdnQ3Scx	86
+Pop	Dua Lipa	IDGAF	76cy1WJvNGJTj78UqeA5zr	87
+Pop	NOTD	So Close	7FjZU7XFs7P9jHI9Z0yRhK	86
+Pop	Zedd	365	2XWjPtKdi5sucFYtVav07d	88
+Pop	Ed Sheeran	Happier	2RttW7RAu5nOAfq6YFvApB	86
+Pop	Madison Beer	Hurts Like Hell (feat. Offset)	3WefHNGtjexZvi66ZEx9u4	82
+Pop	Lady Gaga	Always Remember Us This Way	2rbDhOo9Fh61Bbu23T2qCk	88
+Pop	P!nk	Walk Me Home	7DHApOHsIFo7EyfieArYGE	85
+Pop	Demi Lovato	Sorry Not Sorry	3Du2K5dLzmduCNp6uwuaL0	83
+Pop	Selena Gomez	Back To You - From 13 Reasons Why � Season 2 Soundtrack	4hQ6UGyWQIGJmHSo0J88JW	85
+Pop	Sam Hunt	Body Like A Back Road	7mldq42yDuxiUNn08nvzHO	80
+Pop	Ariana Grande	Into You	2meEiZKWkiN28gITzFwQo5	84
+Pop	Post Malone	Ball For Me (feat. Nicki Minaj)	6IaieqiCVvsNvEt6Y7yOFa	81
+Pop	Martin Garrix	Ocean (feat. Khalid)	3nc420PXjTdBV5TN0gCFkS	85
+Pop	Jeremy Zucker	comethru	18uwL0vNUanqZH0ro2QcOP	82
+Pop	Lennon Stella	La Di Da	2YyvWje3cEYyqgYhNUIaBJ	81
+Pop	Bryson Tiller	Exchange	43PuMrRfbyyuz4QpZ3oAwN	81
+Pop	Shawn Mendes	Treat You Better	3QGsuHI8jO1Rx4JWLUh9jd	85
+Pop	Drake	In My Feelings	2G7V7zsVDxg1yRsu7Ew9RJ	88
+Pop	Lil Uzi Vert	New Patek	0Fpen1PTuEnCmOJtUU9Iud	81
+Pop	Halsey	Without Me (with Juice WRLD)	6Zc5f20q7sOe1IC1c1jQvZ	81
+Pop	Sam Smith	Stay With Me	5Nm9ERjJZ5oyfXZTECKmRt	85
+Pop	Russ	Missin You Crazy	4ve2uzqdwnHr20G5YgMMqr	82
+Pop	Khalid	Saved	248OFOZef6ShXv6DGgbnxU	80
+Pop	Khalid	8TEEN	5bgwqaRSS3M8WHWruHgSL5	79
+Pop	Jason Mraz	I'm Yours	1EzrEOXmMH3G43AXT1y7pA	85
+Pop	Hailee Steinfeld	Starving	4Ce37cRWvM1vIGGynKcs22	82
+Pop	J. Cole	KOD	7yotKA30dwTKNEGomV9ZsI	81
+Pop	Loud Luxury	Body	21RzyxY3EFaxVy6K4RqaU9	83
+Pop	Ariana Grande	One Last Time	7xoUc6faLbCqZO6fQEYprd	84
+Pop	Marshmello	Alone	12mGwph2YzDIlChtq3EdXP	85
+Pop	Kygo	Think About You (feat. Valerie Broussard)	3Kuu5vASpXK8oRsxOvau6P	86
+Pop	A$AP Rocky	Praise The Lord (Da Shine) (feat. Skepta)	7ycWLEP1GsNjVvcjawXz3z	86
+Pop	John Mayer	New Light	3bH4HzoZZFq8UpZmI2AMgV	84
+Pop	blackbear	Idfc	6y6jbcPG4Yn3Du4moXaenr	80
+Pop	Migos	Stir Fry	2UVbBKQOdFAekPTRsnkzcf	81
+Pop	Hozier	Almost (Sweet Music)	2e9N4vHYVUwSwRorBzsZXE	78
+Pop	2 Chainz	Whip (feat. Travis Scott)	6Z4rmc0uujCpl8yXe3yjgI	80
+Pop	Ariana Grande	Side To Side	1pKeFVVUOPjFsOABub0OaV	84
+Pop	BlocBoy JB	Look Alive (feat. Drake)	4qKcDkK6siZ7Jp1Jb4m0aL	87
+Pop	Mau y Ricky	Desconocidos	0s5DNDV6LAKn2u2Ufa3VjQ	93
+Pop	J. Cole	Wet Dreamz	6Ius4TC0L3cN74HT7ENE6e	81
+Pop	gnash	i hate u, i love u (feat. olivia o'brien)	7vRriwrloYVaoAe3a9wJHe	1
+Pop	Shawn Mendes	There's Nothing Holdin' Me Back	7JJmb5XwzOO8jgpou264Ml	85
+Pop	Ella Mai	Trip	6CTWathupIiDs7U4InHnDA	84
+Pop	Mario	Let Me Love You	3ibKnFDaa3GhpPGlOUj7ff	80
+Pop	Post Malone	Rich & Sad	2VdT56BGpdqNHUgOe1j5vc	80
+Pop	Migos	MotorSport	4wFjTWCunQFKtukqrNijEt	82
+Pop	6LACK	Pretty Little Fears (feat. J. Cole)	4at3d5QWnlibMVN75ECDrp	82
+Pop	Dua Lipa	New Rules	2ekn2ttSfGqwhhate0LSR0	86
+Pop	Sam Smith	Fire On Fire - From Watership Down	5rFj8OzffT0iggSjcBaeND	86
+Pop	Ed Sheeran	Shape of You	7qiZfU4dY1lWllzX7mPBI3	87
+Pop	Why Don't We	8 Letters	4zRZAmBQP8vhNPf9i9opXt	82
+Pop	Bruno Mars	Just the Way You Are	7BqBn9nzAq8spo5e7cZ0dJ	80
+Pop	Miguel	Sky Walker (feat. Travis Scott)	5WoaF1B5XIEnWfmb5NZikf	78
+Pop	Sabrina Carpenter	Sue Me	3WVhkjB7Y4xFruqoCAajBb	80
+Pop	Bazzi	3:15	6pmZMP2ET1OJi5rKfLO8jD	78
+Pop	Billie Eilish	watch	7eB1V5LvAdxCc7brfGhRRo	82
+Pop	The Weeknd	Starboy	7MXVkk9YMctZqd1Srtv4MB	85
+Pop	Khalid	Suncity (feat. Empress Of)	6SkHm6poyKfzV6kc9any8k	82
+Pop	G-Eazy	Him & I (with Halsey)	5k38wzpLb15YgncyWdTZE4	82
+Pop	Anne-Marie	2002	2BgEsaKNfHUdlh97KmvFyo	86
+Pop	Maroon 5	What Lovers Do (feat. SZA)	2j5hsQvApottzvTn4pFJWF	77
+Pop	Lil Dicky	Freaky Friday (feat. Chris Brown)	10Igtw8bSDyyFs7KIsKngZ	82
+Pop	Julia Michaels	Issues	7vu0JkJh0ldukEYbTVcqd0	77
+Pop	Travis Scott	NO BYSTANDERS	6OaVWaGfhXn70ZJfdVcabn	78
+Pop	Russ	Losin Control	4cxMGhkinTocPSVVKWIw0d	79
+Pop	YK Osiris	Worth It	4XiGKQqbmnMVxDzUj6j3f2	79
+Pop	KYLE	Playinwitme (feat. Kehlani)	4F1yvJfQ7gJkrcgFJQDjOr	80
+Pop	Lil Baby	Close Friends (Lil Baby & Gunna)	5nzhL67GpF9szXWg5y509A	82
+Pop	Offset	How Did I Get Here (feat. J. Cole)	32iPykTXUNZ9oGyACGUybq	80
+Pop	Post Malone	Paranoid	3fpVWegR6YOS1Yk5HSMYIq	80
+Pop	J. Cole	Kevin�s Heart	6tZ3b7ik1QDXFAZlXib0YZ	79
+Pop	Lukas Graham	Love Someone	2JqnpexlO9dmvjUMCaLCLJ	86
+Pop	H.E.R.	Best Part (feat. Daniel Caesar)	4OBZT9EnhYIV17t4pGw7ig	85
+Pop	Shawn Mendes	Lost In Japan - Remix	575NJxNUVDqwJGdzBrlLbv	83
+Pop	SZA	Love Galore (feat. Travis Scott)	0q75NwOoFiARAVp4EXU4Bs	80
+Pop	Taylor Swift	Delicate	6NFyWDv5CjfwuzoCkw47Xf	80
+Pop	Cardi B	Bartier Cardi (feat. 21 Savage)	0dIoGTQXDh1wVnhIiSyYEa	78
+Pop	Shakira	Hips Don't Lie	3ZFTkvIE7kyPt6Nu3PEa7V	83
+Pop	Lil Uzi Vert	The Way Life Goes (feat. Oh Wonder)	2eAZfqOm4EnOF9VvN50Tyc	80
+Pop	Billie Eilish	Six Feet Under	2VlLbhGLVJgdOW7kKdWWFc	81
+Pop	Cardi B	Ring (feat. Kehlani)	5DfWF0jqMgZDCiu9zJENTA	78
+Pop	Dean Lewis	7 Minutes	2BkyYZmU4JuWW2sYi9EzpC	84
+Pop	Travis Scott	SICKO MODE - Skrillex Remix	0u695M7KyzXaPIjpEbxOkB	80
+Pop	TLC	No Scrubs	1KGi9sZVMeszgZOWivFpxs	81
+Pop	Panic! At The Disco	I Write Sins Not Tragedies	4bPQs0PHn4xbipzdPfn6du	77
+Pop	Ariana Grande	sweetener	70khXICDeTTxgYtw3EysKH	79
+Pop	2 Chainz	Rule The World (feat. Ariana Grande)	1R6VwZ8TuHRzxZUxe88n4I	80
+Pop	Daniel Caesar	Best Part (feat. H.E.R.)	1RMJOxR6GRPsBHL8qeC2ux	81
+Pop	David Guetta	Better When You're Gone	4Tvw0lweq9l2JPQKFbpbBQ	85
+Pop	Quavo	WORKIN ME	33tNYw9oMtSkGe27NpgS64	78
+Pop	Michael Jackson	Billie Jean	5ChkMS8OtdzJeqyybCc9R5	83
+Pop	Bryson Tiller	Don't	3pXF1nA74528Edde4of9CC	79
+Pop	G-Eazy	West Coast	2O8gSQ9z52tZSLJnuzjkcG	76
+Pop	Calum Scott	Dancing On My Own	2BOqDYLOJBiMOXShCV1neZ	83
+Pop	Cardi B	Be Careful	2Yl4OmDby9iitgNWZPwxkd	78
+Pop	DJ Khaled	No Brainer	5WvAo7DNuPRmk4APhdPzi8	84
+Pop	Charlie Puth	Attention	5cF0dROlMOK5uNZtivgu50	83
+Pop	Alex & Sierra	Little Do You Know	1almCHdsfikRPfVB9VrEdT	81
+Pop	Khalid	Saturday Nights REMIX	0W5oXFrxZNBTIS1eMW9Ofz	78
+Pop	Shawn Mendes	Mercy	0AS63m1wHv9n4VVRizK6Hc	83
+Pop	Ariana Grande	Dangerous Woman	7l94dyN2hX9c6wWcZQuOGJ	81
+Pop	French Montana	Unforgettable	3B54sVLJ402zGa6Xm4YGNe	85
+Pop	Zedd	Happy Now	4keoy2fqgwGnbWlm3ZVZFa	85
+Pop	Galantis	Bones (feat. OneRepublic)	1pfgsjmxVZhoZpeDx6POKv	85
+Pop	Tory Lanez	FeRRis WhEEL (feat. Trippie Redd)	6j97zG4DDrh3oUa6rZbFOs	79
+Pop	Luis Fonsi	Despacito - Remix	6rPO02ozF3bM7NnOV4h6s2	82
+Pop	Joji	YEAH RIGHT	1VGzxJnVQND7Cg5H5wGj14	81
+Pop	Dennis Lloyd	Never Go Back	2QrXzOqLCVDRZHkToA0tSR	82
+Pop	Rita Ora	Let You Love Me	6xtcFXSo8H9BZN637BMVKS	87
+Pop	Christina Perri	A Thousand Years	6lanRgr6wXibZr8KgzXxBl	81
+Pop	Dua Lipa	Kiss and Make Up	7jr3iPu4O4bTCVwLMbdU2i	87
+Pop	Lord Huron	The Night We Met	0QZ5yyl6B6utIWkxeBDxQN	78
+Pop	Mac Miller	Self Care	5bJ1DrEM4hNCafcDd1oxHx	81
+Pop	Adele	Someone Like You	4kflIGfjdZJW4ot2ioixTB	79
+Pop	Drake	Passionfruit	5mCPDVBb16L4XQwDdbRUpz	82
+Pop	Billie Eilish	WHEN I WAS OLDER - Music Inspired By The Film ROMA	7tGEAA1f8MydT7eVbbO9Zy	81
+Pop	Bazzi	Beautiful	5TVirkSwFEXF1nLJEebe2I	78
+Pop	Bruno Mars	24K Magic	6b8Be6ljOzmkOmFslEb23P	81
+Pop	Tyga	Girls Have Fun (feat. G-Eazy & Rich The Kid)	1NHlyKgtR4roNylOhidKSv	83
+Pop	Lil Wayne	Uproar	3wScL5W8H40zzCKN0atfBk	81
+Pop	Migos	Narcos	0wbnC9AUenxp613TYaJsGK	80
+Pop	Social House	Magic In The Hamptons (feat. Lil Yachty)	2Yer0p7uB2lVBUAtANuuQp	77
+Pop	Sam Smith	I'm Not The Only One	7795WJLVKJoAyVoOtCWqXN	83
+Pop	Post Malone	92 Explorer	1D2L6MefbXon28PzIk9I3r	79
+Pop	Whitney Houston	I Wanna Dance with Somebody (Who Loves Me)	2tUBqZG2AbRi7Q0BIrVrEj	83
+Pop	Hailee Steinfeld	Most Girls	10GJQkjRJcZhGTLagFOC62	79
+Pop	Post Malone	Spoil My Night (feat. Swae Lee)	5VuxWXbt7XENQCtE9TzpTv	79
+Pop	Rae Sremmurd	Powerglide (feat. Juicy J) - From SR3MM	1BuZAIO8WZpavWVbbq3Lci	81
+Pop	Liam Payne	Strip That Down	4Ro98RCK90oHqqSZUnTFq5	81
+Pop	Julia Michaels	Anxiety (with Selena Gomez)	1XJ93XskwJf7PCyIVLbNBt	83
+Pop	Migos	Walk It Talk It	6n4U3TlzUGhdSFbUUhTvLP	84
+Pop	Logic	1-800-273-8255	5tz69p7tJuGPeMGwNTxYuV	84
+Pop	Ti�sto	Jackie Chan	4kWO6O1BUXcZmaxitpVUwp	86
+Pop	Ed Sheeran	Thinking Out Loud	34gCuhDGsG4bRPIf9bb02f	85
+Pop	Bazzi	Honest	11Tfh16o0SW8KdiQdeESEX	77
+Pop	Rex Orange County	Loving Is Easy	5EYi2rH4LYs6M21ZLOyQTx	80
+Pop	Kodak Black	Roll In Peace (feat. XXXTENTACION)	40oKW22ZNNkEdZLJTScaQI	82
+Pop	Silk City	Electricity (with Dua Lipa)	5N4erncE7kuUccm7zEmwzk	87
+Pop	Daniel Caesar	Get You (feat. Kali Uchis)	7zFXmv6vqI4qOt4yGf3jYZ	80
+Pop	John Mayer	I Guess I Just Feel Like	1HNywa8Bk0TmzRwQrzhtPo	80
+Pop	Metro Boomin	Don't Come Out The House (with 21 Savage)	2Grb4G6t9VIqo6moKUloom	81
+Pop	Train	Drops of Jupiter	2hKdd3qO7cWr2Jo0Bcs0MA	79
+Pop	Calvin Harris	One Kiss (with Dua Lipa)	7ef4DlsgrMEH11cDZd32M6	89
+Pop	Kendrick Lamar	HUMBLE.	7KXjTSCq5nL1LoYtL7XAwS	86
+Pop	The Weeknd	The Hills	7fBv7CLKzipRk6EC6TWHOB	82
+Pop	Plain White T's	Hey There Delilah	4RCWB3V8V0dignt99LZ8vH	80
+Pop	MKTO	Classic	6FE2iI43OZnszFLuLtvvmg	78
+Pop	A$AP Ferg	Plain Jane	4dVpf9jZjcORqGTLUaeYj9	81
+Pop	Post Malone	Over Now	09IOPhEh1OMe0HD9b36FJk	79
+Pop	Gunna	Speed It Up	3BXXkwyhsHM0EPApHMhQC5	80
+Pop	Hozier	Take Me to Church	1CS7Sd1u5tWkstBhpssyjP	76
+Pop	Khalid	Another Sad Love Song	52Qu0no0NBho3zyRmjlsHn	77
+Pop	2 Chainz	Momma I Hit A Lick (feat. Kendrick Lamar)	7jKUnzzOGhAlPjr7LkIUlE	76
+Pop	Travis Scott	Antidote	1wHZx0LgzFHyeIZkUydNXq	77
+Pop	Maggie Lindemann	Pretty Girl - Cheat Codes X CADE Remix	1NDxZ7cFAo481dtYWdrUnR	78
+Pop	Rex Orange County	Sunflower	4EpZ4eYuZOwPSSwyqpdHnJ	80
+Pop	G-Eazy	No Limit	2Xqd0wUttjueBfdcltADOv	78
+Pop	Jimmie Allen	Best Shot	3VamXAvVMczcS2PTYtPfBQ	76
+Pop	Drake	Don�t Matter To Me (with Michael Jackson)	6G8kHiVZ1jW7vHMPVRNZU0	82
+Pop	Twenty One Pilots	Chlorine	23OXdR7YuUBVWh5hSnYJau	82
+Pop	Travis Scott	WAKE UP	20MuVazoNMv6xjKPnRFOxG	77
+Pop	The Weeknd	Pray For Me (with Kendrick Lamar)	77UjLW8j5UAGAGVGhR5oUK	81
+Pop	NAV	Champion (feat. Travis Scott)	6nO3tr47nr2P7f3hXb8JIo	80
+Pop	Beyonc�	Halo	4JehYebiI9JE8sR8MisGVb	80
+Pop	Gunna	Sold Out Dates (feat. Lil Baby)	72LlwJM24dWKpFLVB3PWWQ	79
+Pop	Wiz Khalifa	Hopeless Romantic (feat. Swae Lee)	7IBSffWIu7P2MC7kMwy2FM	79
+Pop	ZAYN	Dusk Till Dawn - Radio Edit	1j4kHkkpqZRBwE0A4CN4Yv	84
+Pop	J. Cole	G.O.M.D.	16qYlQ6koFxYVbiJbGHblz	78
+Pop	Billie Eilish	Bored	04sN26COy28wTXYj3dMoiZ	80
+Pop	Migos	Bad and Boujee (feat. Lil Uzi Vert)	4Km5HrUvYTaSUfiSGPJeQR	79
+Pop	blackbear	1 SIDED LOVE	13TMuxC8tdSfthXpHG9D26	76
+Pop	Camila Cabello	Never Be the Same	4eWQlBRaTjPPUlzacqEeoQ	81
+Pop	Camila Cabello	Consequences - orchestra	1ArLnG0bHaHPXqf08sEKM0	81
+Pop	X Ambassadors	Unsteady	7lGKEWMXVWWTt3X71Bv44I	78
+Pop	Panic! At The Disco	Death Of A Bachelor	1BECwm5qkaBwlbfo4kpYx8	79
+Pop	Lil Uzi Vert	Money Longer	0B8QzDH7YWih85V5SEMnyJ	78
+Pop	H.E.R.	Could've Been (feat. Bryson Tiller)	6lzLjIOyWTyTJvk0jraYee	79
+Pop	Mark Ronson	Uptown Funk	32OlwWuMpZ6b0aN2RZOeMS	82
+Pop	Alessia Cara	Scars To Your Beautiful	0prNGof3XqfTvNDxHonvdK	76
+Pop	Drax Project	Woke Up Late (feat. Hailee Steinfeld)	3qLBz3j26AHO2jBYUQWLA6	79
+Pop	Owl City	Fireflies	3DamFFqW32WihKkTVlwTYQ	79
+Pop	21 Savage	all my friends	4paAidoE8VAemwU4jgCc6l	80
+Pop	Yo Gotti	Put a Date On It (feat. Lil Baby)	6PRh0ilIMEP1xlUHqalnkD	79
+Pop	Kodak Black	MoshPit (feat. Juice WRLD)	4KX8vXbouybtUptEyYxtIk	79
+Pop	T-Pain	Buy U a Drank (Shawty Snappin')	2aIdVb8v9KTpEZnftkz2mD	78
+Pop	Ruel	Younger	2qXicQG06oT0ijKBznpgQv	78
+Pop	Khalid	This Way	6fbYL76UWbHdYq4B91TPQi	76
+Pop	Rex Orange County	Best Friend	47Bg6IrMed1GPbxRgwH2aC	79
+Pop	Zac Efron	Rewrite The Stars	65fpYBrI8o2cfrwf2US4gq	83
+Pop	Daniel Caesar	Who Hurt You?	23c9gmiiv7RCu7twft0Mym	78
+Pop	Migos	Slippery (feat. Gucci Mane)	6p8NuHm8uCGnn2Dtbtf7zE	78
+Pop	Lil Baby	Freestyle	5BbdKBZO0TH0GhfxUfyhL9	79
+Pop	The Weeknd	Call Out My Name	4MPTj8lMMvxLwT3EwuXFop	83
+Pop	21 Savage	can't leave without it	0hPLZrnDgtKxrym1BHjDhd	80
+Pop	Lukas Graham	7 Years	5kqIPrATaCc2LqxVWzQGbk	80
+Pop	Quavo	FLIP THE SWITCH (feat. Drake)	1rlIrbWboTRGeKfHhgbJRZ	78
+Pop	Destiny's Child	Say My Name	7H6ev70Weq6DdpZyyTmUXk	78
+Pop	Lady Gaga	Million Reasons	7dZ1Odmx9jWIweQSatnRqo	83
+Pop	Amin�	REEL IT IN (feat. Gucci Mane) - Remix	4yVEpUXxYgBwfSOKGTFxv5	77
+Pop	Ariana Grande	R.E.M	1xWH8zYtDeS9mW1JJG23VZ	77
+Pop	Piso 21	Te Vi	059bcIhyc2SBwm6sw2AZzd	91
+Pop	Zedd	Stay (with Alessia Cara)	6uBhi9gBXWjanegOb2Phh0	82
+Pop	Calvin Harris	Promises (with Sam Smith)	5N5k9nd479b1xpDZ4usjrg	91
+Pop	KYLE	iSpy (feat. Lil Yachty)	2EEeOnHehOozLq4aS0n6SL	78
+Pop	Macklemore & Ryan Lewis	Can't Hold Us - feat. Ray Dalton	3bidbhpOYeV4knp8AIu8Xn	82
+Pop	Logic	Everyday	4EAV2cKiqKP5UPZmY6dejk	84
+Pop	G-Eazy	1942	794QVQtFNy7hvtjQP1keQd	76
+Pop	Kygo	Happy Now	14sOS5L36385FJ3OL8hew4	88
+Pop	Tyler, The Creator	See You Again	7KA4W4McWYRpgf0fWsJZWB	1
+Pop	Travis Scott	HOUSTONFORNICATION	58TaFP5j5i9swOf584yon2	76
+Pop	Becky G	Sin Pijama	2ijef6ni2amuunRoKTlgww	86
+Pop	Twenty One Pilots	Ride	2Z8WuEywRWYTKe1NybPQEW	83
+Pop	DNCE	Cake By The Ocean	76hfruVvmfQbw0eYn1nmeC	81
+Pop	Ed Sheeran	Photograph	1HNkqx9Ahdgi1Ixy2xkKkL	86
+Pop	Ariana Grande	everytime	0WdR2AyLW1Drd3OUdwezM0	77
+Pop	Madison Beer	Home with You	0iwsQWgtjSq2kUXuZwTDAL	79
+Pop	WALK THE MOON	Shut Up and Dance	4kbj5MwxO1bq9wjT5g9HaA	80
+Pop	Shawn Mendes	Youth (feat. Khalid)	1h0yImRPIVAjhhHeNVlTuC	80
+Pop	Maroon 5	She Will Be Loved - Radio Mix	4llK75pXNWZz6KAho2Gp16	83
+Pop	Offset	Clout (feat. Cardi B)	59ywHNwwchG4nZJMLyxSzd	77
+Pop	Ty Dolla $ign	Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix	7t2bFihaDvhIrd2gn2CWJO	1
+Pop	Kanye West	Gold Digger	1PS1QMdUqOal0ai3Gt7sDQ	80
+Pop	Ansel Elgort	Supernova	2ZIZXWnU52s0C75sPYiwvh	77
+Pop	Khalid	American Teen	312WNtMs3F28cUukaPY9bo	76
+Pop	Maroon 5	Sugar	2iuZJX9X9P0GKaE93xcPjk	80
+Pop	Tyga	Dip (feat. Nicki Minaj)	4hXDobvUaXyDFLnmecoY0z	81
+Pop	Post Malone	No Option	6M0IsaUX4GNyto4niSegfI	77
+Pop	J Balvin	Reggaeton	2D3z17LBMJ2HEHeBFFjTLi	89
+Pop	Daddy Yankee	Adictiva	6MJUCumnQsQEKbCy28tbCP	91
+Pop	Meghan Trainor	Like I'm Gonna Lose You	2YlZnw2ikdb837oKMKjBkW	80
+Pop	Offset	Wild Wild West (feat. Gunna)	0SQ8yalm13UIJuebuZkQlH	77
+Pop	Rachel Platten	Fight Song	37f4ITSlgPX81ad2EvmVQr	80
+Pop	Usher	Yeah! (feat. Lil Jon & Ludacris)	5rb9QrpfcKFHM1EUbSIurX	81
+Pop	Julia Michaels	Jump (with Trippie Redd)	2OvV4NjEBRE9v8Oo7QeUCq	77
+Pop	Ed Sheeran	Galway Girl	0afhq8XCExXpqazXczTSve	83
+Pop	The Script	Breakeven	38xWaVFKaxZlMFvzNff2aW	76
+Pop	Vance Joy	Riptide	3JvrhDOgAt6p7K8mDyZwRd	78
+Pop	Ariana Grande	goodnight n go	14kYOiFVPb7E7NfFbqhdln	77
+Pop	Justin Bieber	Love Yourself	50kpGaPAhYJ3sGmk6vplg0	83
+Pop	The Chainsmokers	Something Just Like This	6RUKPb4LETWmmr3iAEQktW	83
+Pop	Normani	Waves (feat. 6LACK)	2qHk6Nz5glNQrjW8Rhd5kv	76
+Pop	Post Malone	Same Bitches (feat. G-Eazy & YG)	688QpQAwqsLdBR6lr13wK1	77
+Pop	Ella Mai	Boo'd Up	0At2qAoaVjIwWNAqrscXli	80
+Pop	Ed Sheeran	Castle on the Hill	6PCUP3dWmTjcTtXY02oFdT	82
+Pop	Rihanna	Umbrella	49FYlytm3dAAraYgpoJZux	82
+Pop	Niall Horan	Slow Hands	2cOUlop2ZakjOKe4WinesN	79
+Pop	Jeremy Zucker	all the kids are depressed	75ls0gurX68lUmMjE7QcsE	77
+Pop	Ruel	Dazed & Confused	2pyjbGTpJCPjMYwCbdymiF	77
+Pop	J. Cole	ATM	2UciqgwVDwro0fev3MFbxJ	77
+Pop	Miley Cyrus	We Can't Stop	2y4lAQpi5VTNLu2ldeTdUH	79
+Pop	Kanye West	All Mine	3U21A07gAloCc4P7J8rxcn	78
+Pop	Ed Sheeran	Perfect Duet (Ed Sheeran & Beyonc�)	1bhUWB0zJMIKr9yVPrkEuI	83
+Pop	Future	Jumpin on a Jet	1I3ZAmPmbFV78oNKnibOiW	78
+Pop	Gunna	Outstanding	76PwajqH3ej4hnk9tgaJpp	79
+Pop	The Weeknd	Die For You	2Ch7LmS7r2Gy2kc64wv3Bz	78
+Pop	Hailee Steinfeld	Love Myself	36phXHOKx8rO7CMp2vNX4x	77
+Pop	Alicia Keys	If I Ain't Got You	3XVBdLihbNbxUwZosxcGuJ	80
+Pop	Big Sean	Bounce Back	0SGkqnVQo9KPytSri1H6cF	79
+Pop	Jacquees	You	01jIO8SJFnpSiNLH1JaBZ5	77
+Pop	George Ezra	Shotgun	4ofwffwvvnbSkrMSCKQDaC	87
+Pop	Future	Mask Off	0VgkVdmE4gld66l8iyGjgx	82
+Pop	Marshmello	Spotlight	6VrCmhRBFnuGKmtNfk4jDs	79
+Pop	gianni & kyle	do u even miss me at all?	6pZrMNlxjDl216OcdBGpfJ	76
+Pop	Ariana Grande	Love Me Harder	5J4ZkQpzMUFojo1CtAZYpn	78
+Pop	Foster The People	Pumped Up Kicks	7w87IxuO7BDcJ3YUqCyMTT	83
+Pop	J. Cole	Neighbors	0utlOiJy2weVl9WTkcEWHy	76
+Pop	Joji	TEST DRIVE	1DMEzmAoQIikcL52psptQL	78
+Pop	Post Malone	Zack And Codeine	5lZZmityu9TAjNvSY6GLhR	77
+Pop	Demi Lovato	Stone Cold	56twMOlq9DJc3EgpVUVIrW	80
+Pop	Lil Baby	Life Goes On	2bSk87AVkCIIC3Bcligq1z	78
+Pop	Tyga	SWISH	55GiOwtxNajXVbpjjIzMnD	83
+Pop	Travis Scott	STOP TRYING TO BE GOD	1xYpVRspgaLxdJLOTQkTjg	76
+Pop	Smash Mouth	All Star	3cfOd4CMv2snFaKAnMdnvK	82
+Pop	Halsey	Gasoline	2IO7yf562c1zLzpanal1DT	76
+Pop	Kehlani	Feels	4BOikd4oZjOYMde9AXfrTo	76
+Pop	Halsey	Now Or Never	7i2DJ88J7jQ8K7zqFX2fW8	76
+Pop	Robin Schulz	Speechless (feat. Erika Sirola)	1rCcsYnmqbMYdkG7kS9GC5	88
+Pop	Julia Michaels	Heaven	1T575AhHueYinKSDflEsGK	79
+Pop	Kesha	Praying	0jdny0dhgjUwoIp5GkqEaA	76
+Pop	Ciara	One, Two Step	7uKcScNXuO3MWw6LowBjW1	1
+Pop	Childish Gambino	This Is America	0b9oOr2ZgvyQu88wzixux9	81
+Pop	Macklemore	Glorious (feat. Skylar Grey)	0CokSRCu5hZgPxcZBaEzVE	80
+Pop	Maluma	HP	31UjYv5vLsDkzchJOtUMtW	84
+Pop	Fifth Harmony	Work from Home (feat. Ty Dolla $ign)	4tCtwWceOPWzenK2HAIJSb	80
+Pop	Ne-Yo	So Sick	6brl7bwOHmGFkNw3MBqssT	79
+Pop	Gryffin	Tie Me Down (with Elley Duh�)	4QVS8YCpK71R4FsxSMCjhP	77
+Pop	Backstreet Boys	I Want It That Way	6e40mgJiCid5HRAGrbpGA6	80
+Pop	Post Malone	Takin' Shots	5ffntNJnJOeFv7b7DCd0Bw	77
+Pop	Jack & Jack	No One Compares To You	4cZ3UsiKd1kUQIaq4BFIj2	78
+Pop	Panic! At The Disco	Say Amen (Saturday Night)	76vMKwFtdDDCLcM6zXybjB	77
+Pop	Lil Wayne	Mona Lisa (feat. Kendrick Lamar)	0dbTQYW3Ad1FTzIA9t90E8	78
+Pop	Rihanna	Take A Bow	3goSVuTt3fDYDP6kRnFwuL	80
+Pop	Gucci Mane	I Get The Bag (feat. Migos)	1XRgIKC5TPwo7nWGyKqgG0	79
+Pop	Post Malone	Deja Vu	0H8XeaJunhvpBdBFIYi6Sh	77
+Pop	Fall Out Boy	Centuries	04aAxqtGp5pv12UXAg4pkq	81
+Pop	Alec Benjamin	If We Have Each Other	7pT6WSg4PCt4mr5ZFyUfsF	77
+Pop	James Arthur	Rewrite The Stars (with James Arthur & Anne-Marie)	78nplE9X2ZGvQh3TKgvldE	83
+Pop	SZA	The Weekend	6gU9OKjOE7ghfEd55oRO57	76
+Pop	Noah Cyrus	Again	2S2od3hT7ceytw7d1pTRuE	76
+Pop	Khalid	Vertigo	7stcuQtnHL7C6XdPvpwywv	76
+Pop	Drake	Mob Ties	7rC5Pl8rQSX4myONQHYPBK	80
+Pop	Frank Ocean	Nights	7eqoqGkKwgOaWNNHx90uEZ	78
+Pop	Luis Fonsi	Imposible	3ao3OVxHlb3C08vAaApUlm	88
+Pop	Drake	One Dance	1zi7xx7UVEFkmKfv06H8x0	83
+Pop	Calvin Harris	Slide (feat. Frank Ocean & Migos)	6gpcs5eMhJwax4mIfKDYQk	76
+Pop	Clean Bandit	Solo (feat. Demi Lovato)	6kPJZM97LwdG9QIsT7khp6	87
+Pop	Lauv	Superhero	1Fo4OvzP9PThFKMeMIAEYu	79
+Pop	The Chainsmokers	Don't Let Me Down	1i1fxkWeaMmKEB4T7zqbzK	82
+Pop	Avicii	Wake Me Up	4h8VwCb1MTGoLKueQ1WgbD	84
+Pop	JENNIE	SOLO	2wVDWtLKXunswWecARNILj	80
+Pop	Gunna	One Call	2IoZOYOZDrWCOLoZoYedxQ	78
+Pop	Hikaru Utada	Face My Fears - English Version	0CALOqrkXAE7WB2nyIATLk	76
+Pop	Mac Miller	Weekend (feat. Miguel)	6GnhWMhgJb7uyiiPEiEkDA	77
+Pop	Leona Lewis	Bleeding Love	7wZUrN8oemZfsEd1CGkbXE	80
+Pop	Gym Class Heroes	Stereo Hearts (feat. Adam Levine)	0qOnSQQF0yzuPWsXrQ9paz	77
+Pop	Bhad Bhabie	Bestie (feat. Kodak Black)	0jtTDKt1FRTnKbWtWSGLoy	78
+Pop	Spice Girls	Wannabe	1Je1IMUlBXcx1Fz0WE7oPT	82
+Pop	Kendrick Lamar	LOVE. FEAT. ZACARI.	6PGoSes0D9eUDeeAafB2As	81
+Pop	Playboi Carti	Shoota (feat. Lil Uzi Vert)	2BJSMvOGABRxokHKB0OI8i	80
+Pop	Peter Manos	In My Head	1tT55K6VEyO6XFDxK4lDQe	80
+Pop	3 Doors Down	Kryptonite	6ZOBP3NvffbU4SZcrnt1k6	79
+Pop	Future	Hard Work Pays Off	6gzIcEUuswJQGfJNPYMjjv	77
+Pop	Jonas Blue	Rise	3u1S1OmAUhx5DRlLrXqyp3	86
+Pop	Camila Cabello	Real Friends	5vnpANH92iEajvGwE2oQ6r	79
+Pop	ZAYN	PILLOWTALK	0PDUDa38GO8lMxLCRc4lL1	78
+Pop	Kanye West	Heartless	4EWCNWgDS8707fNSZ1oaA5	77
+Pop	Migos	Notice Me	3OnOomd79OjqSYHchCQ6ht	76
+Pop	Hailee Steinfeld	Capital Letters	6l0Ky2PycJV1Bz88kFeVGL	81
+Pop	Drake	Jumpman	27GmP9AWRs744SzKcpJsTZ	77
+Pop	Troye Sivan	Dance To This (feat. Ariana Grande)	2NjO87HyT80fsgejd3PLYW	78
+Pop	Lil Uzi Vert	Dark Queen	2ZdCrBA52bb4pIG3tOOZiQ	76
+Pop	Kanye West	POWER	2gZUPNdnz5Y45eiGxpHGSc	79
+Pop	Jessie J	Bang Bang	0puf9yIluy9W0vpMEUoAnN	80
+Pop	Flo Rida	Low (feat. T-Pain)	0CAfXk7DXMnon4gLudAp7J	80
+Pop	Kendrick Lamar	All The Stars (with SZA)	3GCdLUSnKSMJhs4Tj6CV3s	84
+Pop	Kendrick Lamar	DNA.	6HZILIRieu8S0iqY8kIKhj	82
+Pop	ZAYN	There You Are	155EsNGoXo7XSVF84oTPam	78
+Pop	Zara Larsson	Never Forget You	6hmhG1b4LEyNuashVvuIAo	79
+Pop	Bruno Mars	Versace On The Floor	0kN8xEmgMW9mh7UmDYHlJP	78
+Pop	Coldplay	The Scientist	75JFxkI2RXiU7L9VXzMkle	84
+Pop	Alicia Keys	No One	6IwKcFdiRQZOWeYNhUiWIv	80
+Pop	Demi Lovato	Tell Me You Love Me	3hYvGiw2Q8QE2YWdIJLBz0	76
+Pop	NOTD	I Wanna Know (feat. Bea Miller)	18W92Zm1KjLCbUIszOhpkD	79
+Pop	2 Chainz	It's A Vibe	6H0AwSQ20mo62jGlPGB8S6	77
+Pop	Alec Benjamin	Water Fountain	4IhKLu7Vk3j2TLmnFPl6To	76
+Pop	Jeremih	oui	0PJIbOdMs3bd5AT8liULMQ	76
+Pop	Ruth B.	Lost Boy	4h0zU3O9R5xzuTmNO7dNDU	78
+Pop	Justin Bieber	Sorry	09CtPGIpYB4BrO8qb1RGsF	81
+Pop	Drake	I'm Upset	3qN5qMTKyEEmiTZD38BNTT	79
+Pop	OneRepublic	Connection	3T4UodGkfZObJ43RtA5KFU	78
+Pop	FLETCHER	Undrunk	5SHhPFh68OhUmuRPymKX9d	76
+Pop	Steve Aoki	Waste It On Me (feat. BTS)	2r1T6xGTVaNAqBoPH4lZEE	81
+Pop	Shawn Mendes	Fallin' All In You	5EYBryPOgIEPB7r5QIy6eG	80
+Pop	Post Malone	Otherside	4qWCFTuNnmGNdY4egtb4ZY	76
+Pop	Post Malone	Too Young	4SYUUlkScpNR1QvPscXf8t	76
+Pop	Gunna	Same Yung Nigga (feat. Playboi Carti)	1q9jq5X5vwmewjOa2mHtQ1	77
+Pop	John Mayer	Your Body Is a Wonderland	7vFv0yFGMJW3qVXbAd9BK9	78
+Pop	Kygo	Remind Me to Forget	5sIx4BlfYGuZeSLF40N9GH	81
+Pop	2 Chainz	Bigger Than You (feat. Drake & Quavo)	5S1IUPueD0xE0vj4zU3nSf	77
+Pop	Jason Mraz	Lucky	0IktbUcnAGrvD03AWnz3Q8	79
+Pop	Post Malone	Sugar Wraith	0MrRAUcB8AZiB9ue2VOBYe	76
+Pop	Dennis Lloyd	Nevermind	63SevszngYpZOwf63o61K4	84
+Pop	Twenty One Pilots	My Blood	5HeKOKc4phmLn8e4I7EkzD	79
+Pop	Beyonc�	Crazy In Love	5IVuqXILoxVWvWEPm82Jxr	78
+Pop	BTS	FAKE LOVE	3aW0ds4A4tSQDIp75FqWTo	80
+Pop	Little Mix	Woman Like Me (feat. Nicki Minaj)	6rrTr2HEAzlpC4KWZxF3S1	84
+Pop	James TW	When You Love Someone	1o6YK7phnXgsljfWSQQfWc	81
+Pop	Avril Lavigne	Complicated	5xEM5hIgJ1jjgcEBfpkt2F	77
+Pop	Ed Sheeran	Dive	51ChrwmUPDJvedPQnIU8Ls	80
+Pop	John Mayer	Slow Dancing in a Burning Room	2jdAk8ATWIL3dwT47XpRfu	78
+Pop	Coldplay	Viva La Vida	1mea3bSkSGXuIRvnydlB5b	80
+Pop	James Bay	Peer Pressure (feat. Julia Michaels)	4JWQC6gyYoPRnxRxk0ta2M	80
+Pop	Lil Yachty	Yacht Club (feat. Juice WRLD)	5R2rsbwCDXORX2tLfprRmM	79
+Pop	Olivia O'Brien	hate u love u	6ATgDc6e4sPn84hvJsAmPt	80
+Pop	Offset	Lick	4W9XGjEUVG9junR70FOLii	79
+Pop	Becky G	Cuando Te Bes�	2XXMDz7SPZ4mSFN1PXfHUy	87
+Pop	Nicki Minaj	Chun-Li	1e4rwBPVI32vZtTJu7mJ4J	76
+Pop	P!nk	What About Us	0Qh38w01QRXK6KHIv0e3hb	79
+Pop	Clean Bandit	I Miss You (feat. Julia Michaels)	0Ult84lvFuqNvbyXwyRQ58	83
+Pop	Shawn Mendes	Where Were You In The Morning?	376Gg7Oxo5C5jUWDWpVXeI	78
+Pop	Lil Wayne	Scared of the Dark (feat. XXXTENTACION)	3vWzyGTu6Ovo1GdrcJqH6e	79
+Pop	Charli XCX	1999	05mAIVLkIWc2d1UBYZBCp8	83
+Pop	James Arthur	Can I Be Him	0VhgEqMTNZwYL1ARDLLNCX	79
+Pop	Amin�	Caroline	5hTpBe8h35rJ67eAWHQsJx	78
+Pop	Sean Kingston	Beautiful Girls	1hGy2eLcmC8eKx7qr1tOqx	77
+Pop	One Direction	Story of My Life	4nVBt6MZDDP6tRVdQTgxJg	79
+Pop	YBN Cordae	Kung Fu	3i01Zk9c0FQ5HA1WJjflXI	79
+Pop	Why Don't We	Hooked	2N2s2s2w0jmSIPNZcm8Jnr	77
+Pop	Post Malone	Blame It On Me	1ZemPoaj7LBj1RAQrb89EC	76
+Pop	Usher	My Boo	68vgtRHr7iZHpzGpon6Jlo	77
+Pop	Mac Miller	Ladders	39NDBdU5Xkm5pCFGa5kZtI	77
+Pop	The 1975	It's Not Living (If It's Not With You)	3TgMcrV32NUKjEG2ujn9eh	79
+Pop	Daniel Caesar	Japanese Denim	1boXOL0ua7N2iCOUVI1p9F	76
+Pop	Solange	Almeda	6IAgarq2wDeYzpsY2Kx0Hw	77
+Pop	Sebastian Yatra	Un A�o	5BDP2tky8oMQJPS33frKVp	90
+Pop	Grupo Arranke	A Trav�s Del Vaso	0oCSitNlzsQfuIapF9tXRQ	80
+Pop	Gorillaz	Feel Good Inc	0d28khcov6AiegSCpG5TuT	81
+Pop	Little Mix	Shout Out to My Ex	1pwo8l3Ko7idwaz4LVUEC4	80
+Pop	GASHI	My Year	6MDjeiUWPPgEwLtiBrr9he	78
+Pop	Flo Rida	My House	6Knv6wdA0luoMUuuoYi2i1	77
+Pop	Amin�	Invincible	6VS7wKwtvL2FvTupYSWZ9e	76
+Pop	Lauv	Enemies	3JJYIoJ5FyY9E0DGjr7SXF	77
+Pop	The Fray	How to Save a Life	5fVZC9GiM4e8vu99W0Xf6J	81
+Pop	Rihanna	FourFiveSeconds	78TTtXnFQPzwqlbtbwqN0y	80
+Pop	James TW	You & Me	5g45gvxgaYVuhkDACPnvfh	80
+Pop	Michael Jackson	Beat It - Single Version	1OOtq8tRnDM8kG2gqUPjAj	79
+Pop	Britney Spears	Oops!...I Did It Again	6naxalmIoLFWR0siv8dnQQ	77
+Pop	Sara Bareilles	Love Song	4E6cwWJWZw2zWf7VFbH7wf	77
+Pop	Ed Sheeran	Supermarket Flowers	4VuS959DSpr82t3qBqCrWG	80
+Pop	Reik	Me Niego	6jA8JUuPCGYjFcgw0AoM5T	82
+Pop	Famous Dex	JAPAN	5PTG6rrL6EPFD9E2QMI2pl	81
+Pop	Bruno Mars	Locked Out Of Heaven	3w3y8KPTfNeOKPiqUTakBh	79
+Pop	Reik	Amigos Con Derechos	2zDj4WjbNDmrRL6Z4YjjCA	86
+Pop	Rihanna	Bitch Better Have My Money	0NTMtAO2BV4tnGvw9EgBVq	77
+Pop	Maluma	Mala M�a	62o8KoI44JfN7aYxgTnPvh	84
+Pop	Young Thug	Sin (feat. Jaden Smith)	1Jl21sidRpEdlVBvYbssLx	77
+Pop	The Weeknd	Can't Feel My Face	22VdIZQfgXJea34mQxlt81	80
+Pop	Martin Garrix	High On Life (feat. Bonn)	4ut5G4rgB1ClpMTMfjoIuy	83
+Pop	Logic	44 More	3e7Y6sfFlIdBMJhX7wpqVO	78
+Pop	Rae Sremmurd	Come Get Her	1Ser4X0TKttOvo8bgdytTP	76
+Pop	Seeb	Grip	3gicyfiEVMGONgzygpWjNT	81
+Pop	Billie Eilish	Ocean Eyes - Blackbear Remix	4JuZQeSRYJfLCqBgBIxxrR	76
+Pop	ScHoolboy Q	X (with 2 Chainz & Saudi)	4LmAnpjlhWTahvRkYR8xJa	77
+Pop	Justin Timberlake	Cry Me a River	7Lf7oSEVdzZqTA0kEDSlS5	77
+Pop	My Chemical Romance	Welcome to the Black Parade	5wQnmLuC1W7ATsArWACrgW	77
+Pop	Frank Ocean	Pink + White	3xKsf9qdS1CyvXSMEid6g8	77
+Pop	Nelly	Dilemma	0ARK753YaiJbpLUk7z5yIM	78
+Pop	Lorde	Royals	2dLLR6qlu5UJ5gk0dKz0h3	78
+Pop	Macklemore	Good Old Days (feat. Kesha)	2Za1AlJNvksouPPWbXpR2X	76
+Pop	Meek Mill	On Me (feat. Cardi B)	3DnZfpfe8wLeJgzc00gKeW	76
+Pop	blink-182	All The Small Things	7yCPwWs66K8Ba5lFuU2bcx	80
+Pop	DaniLeigh	Lil Bebe (feat. Lil Baby) - Remix	2fwkl5Z8ujDtAh6qxEA5x0	76
+Pop	benny blanco	I Found You (with Calvin Harris)	5sdb5pMhcK44SSLsj1moUh	82
+Pop	Ariana Grande	Break Free	12KUFSHFgT0XCoiSlvdQi4	78
+Pop	Foster The People	Sit Next to Me	4BdGO1CaObRD4La9l5Zanz	76
+Pop	Takeoff	Casper	1B4gJRq61xTs6r1O0Uq2iY	79
+Pop	Coldplay	Yellow	3AJwUDP919kvQ9QcozQPxg	82
+Pop	Jess Glynne	I'll Be There	083Qf6hn6sFL6xiOHlZUyn	82
+Pop	Kesha	TiK ToK	0HPD5WQqrq7wPWR7P7Dw1i	77
+Pop	Mike Posner	Move On	3SOp10shYtVHuZWxVGenUb	76
+Pop	The Neighbourhood	Sweater Weather	2QjOHCTQ1Jl3zawyYOpxh6	79
+Pop	SZA	The Weekend - Funk Wav Remix	0P6AWOA4LG1XOctzaVu5tt	76
+Pop	Rich The Kid	New Freezer (feat. Kendrick Lamar)	2EgB4n6XyBsuNUbuarr4eG	76
+Pop	Bhad Bhabie	Gucci Flip Flops (feat. Lil Yachty)	3hv6ndi7uFT9L9wrhQCsqY	77
+Pop	Kodak Black	Codeine Dreaming (feat. Lil Wayne)	4DTpngLjoHj5gFxEZFeD3J	77
+Pop	Soulja Boy	Kiss Me Thru The Phone	2q4rjDy9WhaN3o9MvDbO21	76
+Pop	Ella Mai	Shot Clock	2GlATHCDbLW7xq5BE0Bz5g	77
+Pop	Billie Eilish	&burn (with Vince Staples)	7uX3gufAoBVqKVoD3dBLLD	76
+Pop	Justin Timberlake	Mirrors	4rHZZAmHpZrA3iH5zx8frV	77
+Pop	Mac Miller	Hurt Feelings	5p7GiBZNL1afJJDUrOA6C8	76
+Pop	Jimmy Eat World	The Middle	3mcG2NI5G5vhrQtRda1YnA	78
+Pop	Joyner Lucas	I Love	30z4LVkScpeNhwHFIB8Ewa	78
+Pop	21 Savage	1.5	2wOXxtHZgRkkrkEbKLzzqs	77
+Pop	Gunna	3 Headed Snake (feat. Young Thug)	2OaKHGvIxoOzIYjyMsxcT8	76
+Pop	Charlie Puth	How Long	6wmAHw1szh5RCKSRjiXhPe	79
+Pop	Jaden Smith	Icon	22nyEAEM29tcBRhukR089b	78
+Pop	Lauv	Never Not	4fFfyouye6vrX9o9z4PVMu	76
+Pop	BLACKPINK	DDU-DU DDU-DU	2aI2k39nfa3KFsa4JclQzw	77
+Pop	Future	Low Life	7EiZI6JVHllARrX9PUvAdX	76
+Pop	Charlie Puth	The Way I Am	6qNALlmZa1ESnCxJmXE1K9	76
+Pop	Nicki Minaj	Bed (feat. Ariana Grande)	3L4GsGLgxpHieVQH86H8bv	77
+Pop	Marc Anthony	Est� Rico	2wRkBumdItthjYP9XknImg	82
+Pop	Natasha Bedingfield	Unwritten	1D1nixOVWOxvNfWi0UD7VX	77
+Pop	6LACK	PRBLMS	4AtZRwSR8BOTTQg5ihSggt	76
+Pop	DJ Snake	Let Me Love You	0lYBSQXN6rCTvUZvg9S0lU	83
+Pop	Ariana Grande	Everyday	6yL2kTsdVwYnGwPkKGtMd5	76
+Pop	Sean Paul	Temperature	0k2GOhqsrxDTAbFFSdNJjT	77
+Pop	Ariana Grande	Problem	7vS3Y0IKjde7Xg85LWIEdP	77
+Pop	Jason Derulo	Swalla (feat. Nicki Minaj & Ty Dolla $ign)	6kex4EBAj0WHXDKZMEJaaF	81
+Pop	Harry Styles	Sign of the Times	5Ohxk2dO5COHF1krpoPigN	79
+Pop	KIDS SEE GHOSTS	Reborn	4RVbK6cV0VqWdpCDcx3hiT	77
+Pop	Panic! At The Disco	This Is Gospel	3yZQk5PC52CCmT4ZaTIKvv	76
+Pop	The 1975	Love It If We Made It	6WmIyn2fx1PKQ0XDpYj4VR	77
+Pop	Joel Adams	Please Don't Go	3cNjgVBKTJ1SvKhunrCdVy	79
+Pop	Lady Gaga	Music To My Eyes	5IXk9TVBuxG87sFrwclBJw	78
+Pop	BTS	IDOL	2AIWoHr9DF6y4KALCBKWQS	79
+Pop	Joji	ATTENTION	5aqu5xhPqoOWqF71PkfgM8	76
+Pop	Jeremih	Impatient	3WjyiSbfR74pjWXQ3IaFKJ	76
+Pop	Chase Rice	Eyes On You	5AnSllIrgGsCZzZJkVnApx	77
+Pop	Avril Lavigne	Head Above Water	7gY3cyGcB2wnk2xDXiA0pe	77
+Pop	Selena Gomez	Bad Liar	2fZQIJew3nkNe99s2PKzul	77
+Pop	Britney Spears	Toxic	6I9VzXrHxO9rA9A5euc8Ak	79
+Pop	Blackstreet	No Diggity	6MdqqkQ8sSC0WB4i8PyRuQ	79
+Pop	Frank Ocean	Chanel	6Nle9hKrkL1wQpwNfEkxjh	76
+Pop	Metro Boomin	Overdue (with Travis Scott)	6LyAwkJsHlW7RQ8S1cYAtM	76
+Pop	James Arthur	Empty Space	1uru26I2JKd2mQZt0MDCUe	82
+Pop	Rae Sremmurd	Swang	6mapJIPnQ23RTAevUoE0DL	77
+Pop	My Chemical Romance	Teenagers	7j31rVgGX9Q2blT92VBEA0	77
+Pop	Lizzo	Juice	0onslUNmSLDkuYaideYWir	79
+Pop	Fort Minor	Remember The Name (feat. Styles Of Beyond)	6ndmKwWqMozN2tcZqzCX4K	77
+Pop	Maroon 5	Maps	4gbVRS8gloEluzf0GzDOFc	77
+Pop	Rae Sremmurd	Black Beatles	6fujklziTHa8uoM5OQSfIo	78
+Pop	Soulja Boy	Crank That (Soulja Boy)	66TRwr5uJwPt15mfFkzhbi	77
+Pop	The Chainsmokers	Paris	15vzANxN8G9wWfwAJLLMCg	78
+Pop	Sebastian Yatra	Ya No Tiene Novio	7uQmJ1jgNzBpATSoWKSPFu	87
+Pop	The Weeknd	Often	4PhsKqMdgMEUSstTDAmMpg	76
+Pop	Grouplove	Tongue Tied	0GO8y8jQk1PkHzS31d699N	80
+Pop	Demi Lovato	Confident	0Mn3amMRMoabaoTf1Publ4	76
+Pop	Calvin Harris	This Is What You Came For	0azC730Exh71aQlOt9Zj3y	81
+Pop	American Authors	Best Day Of My Life	5Hroj5K7vLpIG4FNCRIjbP	77
+Pop	Kodak Black	Tunnel Vision	4Q3N4Ct4zCuIHuZ65E3BD4	76
+Pop	Jonas Blue	Polaroid	1wsLHgXJ4SKIfd5ePSX1hD	84
+Pop	Twenty One Pilots	Jumpsuit	1E1uGhNdBe6Dddbgs2KqtZ	78
+Pop	ZAYN	Good Years	1V1NpX9DlBb9koXof9nIBF	78
+Pop	Wiz Khalifa	See You Again (feat. Charlie Puth)	2JzZzZUQj3Qff7wapcbKjc	81
+Pop	James Arthur	Naked	7krbSH3rd8lhIZvuzTV3Bl	82
+Pop	Maroon 5	This Love	6ECp64rv50XVz93WvxXMGF	79
+Pop	Young Thug	Relationship (feat. Future)	25oOaleife6E2MIKmFkPvg	76
+Pop	Charlie Puth	Done for Me (feat. Kehlani)	1lsBTdE6MGsKeZCD6llNu7	76
+Pop	Beyonc�	Love On Top	1z6WtY7X4HQJvzxC4UgkSf	77
+Pop	A$AP Rocky	Sundress	2aPTvyE09vUCRwVvj0I8WK	77
+Pop	Big Sean	I Don't Fuck With You	7FYH5AW3bVfZHJIQpq3UOA	76
+Pop	Young Thug	Chanel (Go Get It) [feat. Gunna & Lil Baby]	0kCBorRrKZkSztd9m0QI3r	79
+Pop	Rae Sremmurd	Guatemala - From Swaecation	0TCnOEVeLQMXOUrpPlM7uY	79
+Pop	Martin Garrix	In the Name of Love	23L5CiUhw2jV1OIMwthR3S	83
+Pop	A$AP Rocky	L$D	4S7YHmlWwfwArgd8LfSPud	76
+Pop	Pitbull	Time of Our Lives	2bJvI42r8EF3wxjOuDav4r	77
+Pop	Martin Garrix	No Sleep (feat. Bonn)	1ahVFh0ViDZr8LvkEVlq3B	84
+Pop	Lady Gaga	Look What I Found	6Id5RM56PFn2hB4I0ox0WA	77
+Pop	Katy Perry	Dark Horse	5jrdCoLpJSvHHorevXBATy	78
+Pop	Taylor Swift	Look What You Made Me Do	1JbR9RDP3ogVNEWFgNXAjh	77
+Pop	Ed Sheeran	The A Team	1VdZ0vKfR5jneCmWIUAMxK	77
+Pop	Rita Ora	Only Want You	2CTN6UuO2dNEVZXR0DJVk2	79
+Pop	Frank Ocean	Ivy	2ZWlPOoWh0626oTaHrnl2a	77
+Pop	Manuel Turizo	Sola	675w3ACw5xZR3ODhUJlEVN	82
+Pop	21 Savage	ball w/o you	50a8bKqlwDEqeiEknrzkTO	76
+Pop	Childish Gambino	Redbone	0wXuerDYiBnERgIpbb3JBR	78
+Pop	Clean Bandit	Symphony (feat. Zara Larsson)	1x5sYLZiu9r5E43kMlt9f8	82
+Pop	Wiz Khalifa	Fr Fr (feat. Lil Skies)	1RagpNpkD3KcjXMLGMe99V	76
+Pop	21 Savage	X (feat. Future)	6fwdbPMwP1zVStm8FybmkO	77
+Pop	Lil Wayne	Don't Cry (feat. XXXTENTACION)	5BQrp63SHCVf4bzCzJePne	76
+Pop	Michael Jackson	Don't Stop 'Til You Get Enough - Single Version	46eu3SBuFCXWsPT39Yg3tJ	77
+Pop	Twenty One Pilots	Car Radio	5cbpoIu3YjoOwbBDGUEp3P	76
+Pop	Ciara	Level Up	5ubwXXOsH9bUhZsQ0Cybha	76
+Pop	Maluma	Felices los 4	1RouRzlg8OKFeqc6LvdxmB	80
+Pop	The Vamps	All Night	0dXNQ8dckG4eYfEtq9zcva	77
+Pop	Justin Bieber	What Do You Mean?	4B0JvthVoAAuygILe3n4Bs	78
+Pop	Manuel Turizo	Esclavo de Tus Besos	3g4UyIcQwutiG0TfW32GnX	85
+Pop	Prince Royce	Adicto	4Xqpt53kWML7eTObGxQ43i	78
+Pop	Beyonc�	Run the World (Girls)	1uXbwHHfgsXcUKfSZw5ZJ0	77
+Pop	Wisin	Esc�pate Conmigo (feat. Ozuna)	1KSqYYJFyfTecXFk9M0prc	80
+Pop	JoJo	Too Little, Too Late - Radio Version	7oUMJhQp5Bqu6HqxSZs02v	1
+Pop	4 Non Blondes	What's Up?	0jWgAnTrNZmOGmqgvHhZEm	80
+Pop	John Mayer	Waiting On the World to Change	5imShWWzwqfAJ9gXFpGAQh	76
+Pop	Twenty One Pilots	Nico And The Niners	5SehvGGC53A7SZKCLXQcyt	77
+Pop	Vampire Weekend	Harmony Hall	5kXDF4OmM5COyeo6z97nEk	76
+Pop	OneRepublic	Secrets	1NhPKVLsHhFUHIOZ32QnS2	76
+Pop	Fetty Wap	679 (feat. Remy Boyz)	5NQbUaeTEOGdD6hHcre0dZ	76
+Pop	EXO	Love Shot	0yB4jrSwN0bFtFRDR5vyMj	79
+Pop	Trey Songz	Chi Chi (feat. Chris Brown)	0UvBmQOhu4DVXJtdzGc5eV	76
+Pop	The Cranberries	Zombie	2IZZqH4K02UIYg5EohpNHF	81
+Pop	Tory Lanez	TAlk tO Me (with Rich The Kid)	2cRgo1TiPm7SnPvYzvbOLf	76
+Pop	Rich The Kid	4 Phones	5qu3j7Ou6LyQFSU9N7Sb5x	76
+Pop	Becky G	Mayores	7JNh1cfm0eXjqFVOzKLyau	78
+Pop	BTS	Euphoria	3p6hnejEQYXkiTO1lAzVc0	77
+Pop	LANY	Thru These Tears	7GbAp0HKPQW7WnFJAzMoRk	78
+Pop	Green Day	Basket Case	6L89mwZXSOwYl76YXfX13s	80
+Pop	The Weeknd	I Feel It Coming	3dhjNA0jGA8vHBQ1VdD6vV	81
+Pop	Shawn Mendes	Nervous	5wxurz8J6YlyQRNnGN8zXS	77
+Pop	Katy Perry	Roar	6F5c58TMEs1byxUstkzVeM	77
+Pop	Chord Overstreet	Hold On	5vjLSffimiIP26QG5WcN2K	77
+Pop	Nick Jonas	Right Now	43wzy7JxMEfvCh8ZFeZKYk	79
+Pop	Britney Spears	...Baby One More Time	3MjUtNVVq3C8Fn0MP3zhXa	77
+Pop	Bas	Tribe (with J. Cole)	0YAQnYt2oB8OdoaeqnHyTI	78
+Pop	Axwell /\ Ingrosso	More Than You Know	6h5PAsRni4IRlxWr6uDPTP	83
+Pop	Jaden Smith	Way Up	7cFFhb9Wz2ZXLSpEk2VDKd	76
+Pop	Nicky Jam	X	39N9RPD9MRb5WmoLzNzPeA	84
+Pop	Machine Gun Kelly	Bad Things (with Camila Cabello)	1PSBzsahR2AKwLJgx8ehBj	76
+Pop	Shakira	Chantaje (feat. Maluma)	6mICuAdrwEjh6Y6lroV2Kg	78
+Pop	Shakira	Clandestino	7DrluKkTviBwCc8AV3VGmf	81
+Pop	Avicii	Without You (feat. Sandro Cavazza)	6Pgkp4qUoTmJIPn7ReaGxL	84
+Pop	FRENSHIP	Capsize	2XMTqoHHSH0lvuXrvIEdco	76
+Pop	a-ha	Take on Me	2WfaOiMkCvy7F5fcp2zZ8L	84
+Pop	BTS	Blood Sweat & Tears	5RGf8qn1TBWVplLyyKUsuV	77
+Pop	Fall Out Boy	Thnks fr th Mmrs	3Zwu2K0Qa5sT6teCCHPShP	76
+Pop	James TW	Say Love	6r3JPmyGO3Gbpyx1FD5txL	78
+Pop	CHUNG HA	Gotta Go	0xq4ZTcmwBfkPGo4RRKmMe	78
+Pop	Quavo	LOSE IT (feat. Lil Baby)	69PkhA9q3xCWU2CzoZnLAu	76
+Pop	Kanye West	Black Skinhead	722tgOgdIbNe3BEyLnejw4	76
+Pop	Sia	The Greatest	7xHWNBFm6ObGEQPaUxHuKO	77
+Pop	Pia Mia	Do It Again	72Bz4ciRZPBcVSw0nrZDHi	76
+Pop	Bruno Mars	Treasure	55h7vJchibLdUkxdlX3fK7	77
+Pop	Pitbull	Timber	3cHyrEgdyYRjgJKSOiOtcS	76
+Pop	Dua Lipa	Want To	5fK0Q3j2iUcQtiRDXlPW0K	77
+Pop	The Chainsmokers	Beach House	2bQhVQbV7VBzSOPo8mbkUR	77
+Pop	JID	Off Deez (with J. Cole)	3JAeYOjyJodI4PRs44lx2l	77
+Pop	Gucci Mane	BiPolar (feat. Quavo)	4fGT0JiaqoHShrg6uSsKfB	76
+Pop	Lil Yachty	Get Dripped (feat. Playboi Carti)	3m2aDCqn8eT5ElXDUiboGU	76
+Pop	Famous Dex	PICK IT UP (feat. A$AP Rocky)	3ncgNpxLoBQ65ABk4djDyd	79
+Pop	Zara Larsson	I Can't Fall in Love Without You	4VPXFi4vFTtS9wHe6oMQaT	78
+Pop	Usher	U Remind Me	2QsZVnbWVSjKMXK6K3uRBL	76
+Pop	Kina Grannis	Can�t Help Falling in Love	7uuEfUMuPeQ7RlSWa0cES2	77
+Pop	21 Savage	Ghostface Killers	5u6vkDnOyaf8LsteDAj2ub	76
+Pop	Becky G	Shower	3DmW6y7wTEYHJZlLo1r6XJ	76
+Pop	Playboi Carti	Magnolia	1e1JKLEDKP7hEQzJfNAgPl	77
+Pop	Drake	Portland	2bjwRfXMk4uRgOD9IBYl9h	76
+Pop	blink-182	What's My Age Again?	5JZcX7TTLx4l0xFIXJ3DBt	76
+Pop	Alina Baraz	Electric (feat. Khalid)	20TYNq9o5sdBAbkCWE9ih7	76
+Pop	Miley Cyrus	Malibu	1UZOjK1BwmwWU14Erba9CZ	79
+Pop	Marshmello	Fly	2HO0uCyq8jOveEzvmo4JEu	77
+Pop	A Great Big World	Say Something	6Vc5wAMmXdKIAM7WUoEb7N	80
+Pop	Playboi Carti	wokeuplikethis*	59J5nzL1KniFHnU120dQzt	76
+Pop	TOMORROW X TOGETHER	CROWN	32h6yQGn4oAhZ0HRsTMX26	78
+Pop	Danny Ocean	Me Reh�so	6De0lHrwBfPfrhorm9q1Xl	84
+Pop	One Direction	Night Changes	5O2P9iiztwhomNh8xkR9lJ	76
+Pop	Bishop Briggs	River	3mRLHiSHYtC8Hk7bzZdUs1	77
+Pop	LANY	Thick And Thin	3D110t9ctcoOoylXsc3iR8	76
+Pop	MadeinTYO	Ned Flanders (feat. A$AP Ferg)	2EUNZfjPToKZIahK0WMLKd	76
+Pop	DJ Snake	Middle	0g5EKLgdKvNlln7TNqBByK	79
+Pop	The Chainsmokers	Somebody	0fTiDOXRNEN0lUeYGoSHml	76
+Pop	Alec Benjamin	Let Me Down Slowly (feat. Alessia Cara)	1roCmBlcpV7LzsmB7pmCyt	77
+Pop	Niall Horan	Too Much To Ask	39jXnbACjiaiTwwhsr5sY5	78
+Pop	Rihanna	Pon de Replay	4TsmezEQVSZNNPv5RJ65Ov	76
+Pop	Selena Gomez	Back To You	514rhnksEwHUh6LxXsQ4Y9	76
+Pop	Maluma	Coraz�n (feat. Nego do Borel)	5cepAtqnEQ6yVG6088zMMu	79
+Pop	Katrina & The Waves	Walking On Sunshine	05wIrZSwuaVWhcv5FfqeH0	79
+Pop	Alesso	REMEDY	6jreFSOTUAViWjKyzOC4Kg	83
+Pop	Blue Swede	Hooked on a Feeling	6Ac4NVYYl2U73QiTt11ZKd	77
+Pop	Maluma	Mala M�a - Remix	6sAwJPgaSQ9Q4XGnbx1gZb	82
+Pop	Zara Larsson	Lush Life	1rIKgCH4H52lrvDcz50hS8	80
+Pop	James Blunt	You're Beautiful	0vg4WnUWvze6pBOJDTq99k	78
+Pop	Tracy Chapman	Fast Car	2M9ro2krNb7nr7HSprkEgo	78
+Pop	Clean Bandit	Rockabye (feat. Sean Paul & Anne-Marie)	5knuzwU65gJK7IF5yJsuaW	81
+Pop	BTS	DNA	5SE57ljOIUJ1ybL9U6CuBH	77
+Pop	Disclosure	Latch	1BltsyC5W3SAABdxyrDXwi	76
+Pop	Jack �	Where Are � Now (with Justin Bieber)	66hayvUbTotekKU3H4ta1f	77
+Pop	Vanessa Carlton	A Thousand Miles	4w1lzcaoZ1IC2K5TwjalRP	78
+Pop	CNCO	Llegaste T�	6tT4Ks1N04Ut0lSQ3xjSaZ	81
+Pop	Drake	Fake Love	343YBumqHu19cGoGARUTsd	76
+Pop	P!nk	A Million Dreams	0oagwWkGlBoACUuKvTmqZV	77
+Pop	Little Mix	Black Magic	5y6pj7OeBFF0CVgZKhRbOG	78
+Pop	ZAYN	Entertainer	6kjKRa91zikS6ZOL2Rt1QF	77
+Pop	David Guetta	Like I Do	6RnkFd8Fqqgk1Uni8RgqCQ	80
+Pop	The Chainsmokers	Sick Boy	58kZ9spgxmlEznXGu6FPdQ	79
+Pop	The 1975	TOOTIMETOOTIMETOOTIME	33DzKnwuBE6lfOiADwzd5E	76
+Pop	Snow Patrol	Chasing Cars	11bD1JtSjlIgKgZG2134DZ	78
+Pop	Rihanna	Don't Stop The Music	0ByMNEPAPpOR5H69DVrTNy	79
+Pop	Rae Sremmurd	No Type	4scpF6J5uMBvoh6sFB7EL1	76
+Pop	Capital Cities	Safe And Sound	6Z8R6UsFuGXGtiIxiD8ISb	77
+Pop	Jason Derulo	Goodbye (feat. Nicki Minaj & Willy William)	5Xn4IyTtW6FUGIUyWjbUHG	82
+Pop	Luis Fonsi	�chame La Culpa	2hl6q70unbviGo3g1R7uFx	78
+Pop	Childish Gambino	Feels Like Summer	7p4vHnYXkxlzvfePJVpcTr	76
+Pop	Van Morrison	Brown Eyed Girl	3yrSvpt2l1xhsV9Em88Pul	80
+Pop	Louis Tomlinson	Back to You (feat. Bebe Rexha & Digital Farm Animals)	7F9vK8hNFMml4GtHsaXui6	77
+Pop	The Weeknd	Earned It (Fifty Shades Of Grey) - From The Fifty Shades Of Grey Soundtrack	2PIvq1pGrUjY007X5y1UpM	78
+Pop	The Temptations	My Girl	6jWkZvd1URGktyTTwcpPpB	79
+Pop	LANY	I Don't Wanna Love You Anymore	7ArrTJ1LwcGAlEO65LUQ7i	76
+Pop	Counting Crows	Mr. Jones	5DiXcVovI0FcY2s0icWWUu	78
+Pop	Electric Light Orchestra	Mr. Blue Sky	2RlgNHKcydI9sayD2Df2xp	81
+Pop	ChocQuibTown	Pa Olvidarte (feat. Manuel Turizo) - Remix	2ktoFujjJtantyMoVdBJlX	86
+Pop	LANY	Malibu Nights	0Eqg0CQ7bK3RQIMPw1A7pl	80
+Pop	Camila Cabello	Crying in the Club	1SJtlNRJDeYHioymcvsqev	76
+Pop	Drake	Too Good	3BtuIIrQlkujKPuWF2B85z	76
+Pop	Ed Sheeran	Give Me Love	0SuG9kyzGRpDqrCWtgD6Lq	76
+Pop	Sigala	Just Got Paid	0v3BMLcwUmAwyqJaf5997o	82
+Pop	Green Day	American Idiot	6nTiIhLmQ3FWhvrGafw2zj	78
+Pop	Justin Bieber	Friends (with BloodPop�)	7iNIg7XDEaYECfWD5dJ9Va	78
+Pop	Anne-Marie	Perfect To Me	0DC7Zs2qvAbNK1owWQ4mlL	80
+Pop	Avicii	Hey Brother	4RXpgGM7A4Hg7cFBoH5KyF	79
+Pop	Coldplay	Paradise	6nek1Nin9q48AVZcWs9e9D	78
+Pop	Flo Rida	Wild Ones (feat. Sia)	1NpW5kyvO4XrNJ3rnfcNy3	77
+Pop	Shawn Mendes	Use Somebody - Recorded at Spotify Studios NYC	5My4LtZW8JQJoKFDWodqIt	76
+Pop	Smokepurpp	Nephew (feat. Lil Pump)	0ibOcbkp2XG46Do8jcy0bL	76
+Pop	The Chainsmokers	Side Effects	0bGLvHd0ApdT4t0shCfpzG	77
+Pop	Sixpence None The Richer	Kiss Me	754kgU5rWscRTfvlsuEwFp	79
+Pop	The Notorious B.I.G.	Juicy	5ByAIlEEnxYdvpnezg7HTX	78
+Pop	Usher	DJ Got Us Fallin' In Love (feat. Pitbull)	4356Typ82hUiFAynbLYbPn	76
+Pop	Lou Bega	Mambo No. 5 (a Little Bit of...)	6x4tKaOzfNJpEJHySoiJcs	77
+Pop	Daniel Powter	Bad Day	0mUyMawtxj1CJ76kn9gIZK	78
+Pop	BLACKPINK	As If It's Your Last	1Zyd6zQnC6XIIzmg3hP7Ot	78
+Pop	Avicii	The Nights	0ct6r3EGTcMLPtrXHDvVjc	80
+Pop	2Pac	Ambitionz Az A Ridah	3ssX20QT5c3nA9wk78V1LQ	79
+Pop	Fifth Harmony	Worth It	41Fflg7qHiVOD6dEPvsCzO	76
+Pop	Nicky Jam	X - Remix	6JjPBQfI2Y8nIjnm65X6Pw	79
+Pop	Avicii	Waiting For Love	2P4OICZRVAQcYAV2JReRfj	80
+Pop	Cher	Believe	2goLsvvODILDzeeiT4dAoR	77
+Pop	iKON	LOVE SCENARIO	6qAzAmPBUpGrk7XADZHR5k	77
+Pop	Kodak Black	If I'm Lyin, I'm Flyin	7HdNB8nvJOBwHa8hIkzvxp	1
+Pop	Nacho	D�jalo	4VTTpwcAxVSQNzEZLi75d0	82
+Pop	Green Day	Good Riddance (Time of Your Life)	6ORqU0bHbVCRjXm9AjyHyZ	77
+Pop	Alicia Keys	Girl On Fire	4esOae7i4rqTbAu9o5Pxco	76
+Pop	Pitbull	Give Me Everything	4QNpBfC0zvjKqPJcyqBy9W	76
+Pop	Tears For Fears	Everybody Wants To Rule The World	4RvWPyQ5RL0ao9LPZeSouE	81
+Pop	Hoobastank	The Reason	1lHtE5JDCas1EwXhQIMOIj	79
+Pop	J Balvin	No Es Justo	5qFeMRz4TvetPmzjre9Dq7	81
+Pop	XO Cupid	True Colors (feat. Maya Avedis)	4AMY0oGSt7vZwgxDnHCJBr	80
+Pop	Mariah Carey	All I Want for Christmas Is You	0bYg9bo50gSsH3LtXe2SQn	76
+Pop	Nickelback	How You Remind Me - LP Mix	0gmbgwZ8iqyMPmXefof8Yf	79
+Pop	Zion & Lennox	La Player (Bandolera)	0VKkyBKCXyR99navhVRqcP	83
+Pop	Jason Derulo	Want to Want Me	7oGZAicScQt96OAW4AruYy	76
+Pop	Drake	Hotline Bling	0wwPcA6wtMf6HUMpIRdeP7	78
+Pop	Rita Ora	Your Song	4c2W3VKsOFoIg2SFaO6DY5	79
+Pop	Piso 21	Puntos Suspensivos	04cd1MHVq1D8v1nuTZoCdv	85
+Pop	Ella Mai	Whatchamacallit (feat. Chris Brown)	1YLfaRr3QIW1fF3nvDO0gX	76
+Pop	The Proclaimers	I'm Gonna Be (500 Miles)	66S14BkJDxgkYxLl5DCqOz	76
+Pop	Green Day	When I Come Around	1Dr1fXbc2IxaK1Mu8P8Khz	76
+Pop	Avicii	Lonely Together (feat. Rita Ora)	75NhhYjHO43mvZgYtnXgti	79
+Pop	BLACKPINK	BOOMBAYAH	3yHQKddM8SVCRnuPSo3HPN	77
+Pop	Calvin Harris	Summer	6YUTL4dYpB9xZO5qExPf05	78
+Pop	Mario Bautista	Baby Girl (feat. Lalo Ebratt)	6o8ogTrSX8H0F66Pdz3Tsc	85
+Pop	Maluma	El Pr�stamo	2XVilv6s9GETnw9PG4T9Mz	78
+Pop	SHAUN	Way Back Home (feat. Conor Maynard) - Sam Feldt Edit	1ZLrDPgR7mvuTco3rQK8Pk	82
+Pop	Coldplay	Hymn For The Weekend - Seeb Remix	6s3GEN8wK0OMzzzZbXj0fu	77
+Pop	Thal�a	No Me Acuerdo	1G586ld1gbaECg4Bc6w40O	82
+Pop	MGMT	Electric Feel	3FtYbEfBqAlGO46NUDQSAt	77
+Pop	Lele Pons	Celoso	33zcmmElV1YbRZe57biUjg	80
+Pop	Years & Years	If You're Over Me	01k24g94i1JvkFLQmVEdCd	77
+Pop	R.E.M.	Losing My Religion	31AOj9sFz2gM0O3hMARRBx	82
+Pop	OutKast	Ms. Jackson	0I3q5fE6wg7LIfHGngUTnV	78
+Pop	Cyndi Lauper	Girls Just Want to Have Fun	4y1LsJpmMti1PfRQV9AWWe	76
+Pop	Jess Glynne	All I Am	6X6SdJzxyw7GzxwP2fr9WV	77
+Pop	One Direction	Little Things	7kSLdGdXLey7pzLsWpdg1h	76
+Pop	Coldplay	A Sky Full of Stars	0FDzzruyVECATHXKHFs9eJ	78
+Pop	David Guetta	Flames	33IOhptvC2Qoy2UhjiHXLV	83
+Pop	The Cranberries	Linger	0gEyKnHvgkrkBM6fbeHdwK	76
+Pop	Shania Twain	Man! I Feel Like A Woman!	0IF0vGwaJQ8ZCh0QxhW6OV	76
+Pop	Liam Payne	Familiar	0Y4hwUppbGc8aIBmiTz30A	78
+Pop	Kendrick Lamar	LOYALTY. FEAT. RIHANNA.	6SwRhMLwNqEi6alNPVG00n	76
+Pop	Boogie	Rainy Days (feat. Eminem)	015jLlgBeSkl3CApWJhlv7	76
+Pop	Luis Fonsi	Sola	0BOm90PDLRJpTSqqd6z52E	79
+Pop	David Guetta	Don't Leave Me Alone (feat. Anne-Marie)	2lYTJK94hb0fd1LQtb6Dhk	79
+Pop	Bryan Adams	Summer Of '69	0GONea6G2XdnHWjNZd6zt3	80
+Pop	George Ezra	Hold My Girl	42bbDWZ8WmXTH7PkYAlGLu	81
+Pop	Dr. Dre	Still D.R.E.	503OTo2dSqe7qk76rgsbep	77
+Pop	Prince Royce	El Clavo - Remix	6bI00brFpeprqCDqKouEJS	77
+Pop	The Goo Goo Dolls	Iris	6vrUTGn5p8IrfTZ0J6sIVM	78
+Pop	Papa Roach	Last Resort	5W8YXBz9MTIDyrpYaCg2Ky	78
+Pop	Daddy Yankee	Dura	6KuqAtoeVzxAYOaMveLNpH	81
+Pop	TWICE	YES or YES	1S6zXoXhfalX2ETKo337Md	76
+Pop	Martin Garrix	Scared to Be Lonely	3ebXMykcMXOcLeJ9xZ17XH	82
+Pop	The Notorious B.I.G.	Hypnotize - 2014 Remastered Version	7KwZNVEaqikRSBSpyhXK2j	77
+Pop	Green Day	Wake Me up When September Ends	3ZffCQKLFLUvYM59XKLbVm	77
+Pop	Little Mix	Secret Love Song	4JIo8RztBbELr2gWJ5OGK6	77
+Pop	Kygo	Stargazing	0Zbbxnx4SGGHoIow4PpISP	79
+Pop	Tropkillaz	Bola Rebola	1OUPXna2MCgAt3VNmXJBtg	85
+Pop	Kris Kross Amsterdam	Whenever (feat. Conor Maynard)	3DGar7krWlmrXRFHBcQF6z	82
+Pop	OutKast	Hey Ya! - Radio Mix / Club Mix	2PpruBYCo4H7WOBJ7Q2EwM	78
+Pop	Calvin Harris	How Deep Is Your Love	22mek4IiqubGD9ctzxc69s	78
+Pop	Coldplay	Hymn for the Weekend	3RiPr603aXAoi4GHyXx0uy	78
+Pop	C�line Dion	My Heart Will Go On - Love Theme from Titanic	3oEHQmhvFLiE7ZYES0ulzv	76
+Pop	Nightcall	Let You Go	6JflMse23AqmddXJnGiEVJ	77
+Pop	IZ*ONE	La Vie en Rose	1fRaznZsAB2i63TtmYv2Hc	76
+Pop	Daddy Yankee	Gasolina	6jEZLz3YpnEBRpVkv35AmP	78
+Pop	JP Cooper	September Song	0zbzrhfVS9S2TszW3wLQZ7	78
+Pop	Carlos Vives	Robarte un Beso	0JcNysfWVWaMS7R6vzGB2k	79
+Pop	Martin Garrix	There for You	6jA8HL9i4QGzsj6fjoxp8Y	78
+Pop	Clean Bandit	Mama (feat. Ellie Goulding)	3WDIhWoRWVcaHdRwMEHkkS	78
+Pop	Kygo	Firestone (feat. Conrad Sewell)	1I8tHoNBFTuoJAlh4hfVVE	78
+Pop	Lifehouse	You And Me	0815caqt2Lytro5EIzMufT	77
+Pop	Danny Ocean	Epa Wei	2QmsKag0YaqhAbpR9Nwmpn	80
+Pop	Calvin Harris	My Way	1vvNmPOiUuyCbgWmtc6yfm	79
+Pop	Coolio	Gangsta's Paradise	7lQWRAjyhTpCWFC0jmclT4	80
+Pop	Daddy Yankee	Dura - Remix	6U2NuJILEOEpW2tVCuqKHb	78
+Pop	Jason Derulo	Tip Toe (feat. French Montana)	2z4pcBLQXF2BXKFvd0BuB6	76
+Pop	Kendrick Lamar	King Kunta	0N3W5peJUQtI4eyR6GJT5O	76
+Pop	Eurythmics	Sweet Dreams (Are Made of This) - Remastered	1TfqLAPs4K3s2rJMoCokcS	82
+Pop	Kygo	Stole the Show	5masKPHeAOVNgxdLebIcK7	76
+Pop	Ben E. King	Stand by Me	3SdTKo2uVsxFblQjpScoHy	79
+Pop	Jax Jones	Play	29R1IMTTbDDA3VNlk6UEW5	82
+Pop	GASHI	Creep On Me	1MUL6DO2gVimj2YrVedubd	77
+Pop	CNCO	Reggaet�n Lento (Bailemos)	3AEZUABDXNtecAOSC1qTfo	77
+Pop	Jub�l	Dancing in the Moonlight	5ow0sNF1zSqp71Ix5jEXWU	77
+Pop	Kenny Man	Ni Gucci Ni Prada	32lexhcz93AinKK0qLTZaZ	85
+Pop	MAGIC!	Rude	6RtPijgfPKROxEzTHNRiDp	77
+Pop	Juanes	La Plata (feat. Lalo Ebratt)	7Eso5mURNFprb5PmhOXDlf	78
+Pop	Wham!	Wake Me up Before You Go-Go	0ikz6tENMONtK6qGkOrU3c	80
+Pop	2Pac	All Eyez On Me	2xTft6GEZeTyWNpdX94rkf	77
+Pop	Reik	R�ptame	0I6syWcqSUsZ3sXJEOIGsj	78
+Pop	James Arthur	Impossible	5yVIlYEHZxQVLyInCdldoS	76
+Pop	Swedish House Mafia	Don't You Worry Child - Radio Edit	2V65y3PX4DkRhy1djlxd9p	78
+Pop	Coldplay	Adventure of a Lifetime	69uxyAqqPIsUyTO8txoP2M	76
+Pop	Pearl Jam	Alive	1L94M3KIu7QluZe63g64rv	77
+Pop	Corinne Bailey Rae	Put Your Records On	2nGFzvICaeEWjIrBrL2RAx	77
+Pop	Robin Schulz	Sugar (feat. Francesco Yates)	5tf1VVWniHgryyumXyJM7w	78
+Pop	50 Cent	Candy Shop	5D2mYZuzcgjpchVY1pmTPh	78
+Pop	Nicky Jam	El Perd�n	7qCAVkHWZkF44OzOUKf8Cr	77
+Pop	Enrique Iglesias	SUBEME LA RADIO	7nKBxz47S9SD79N086fuhn	77
+Pop	Piso 21	D�jala que vuelva (feat. Manuel Turizo)	33bnxcjePIkcmNjEFTJX0l	79
+Pop	Manuel Turizo	Una Lady Como T�	7MHN1aCFtLXjownGhvEQlF	79
+Pop	Backstreet Boys	Shape of My Heart	35o9a4iAfLl5jRmqMX9c1D	76
+Pop	Lewis Capaldi	Grace	4eQBL0cuF3ismYCzBff2Ii	78
+Pop	Katy Perry	Swish Swish	3OtMnyUaiipcAT23A8liyi	76
+Pop	Bonnie Tyler	Total Eclipse of the Heart	5prTs2HAw2G4idHZyeFp8o	76
+Pop	Paloma Mami	No Te Enamores	0EJu1RBtxzldMG2peczuPv	84
+Pop	Clean Bandit	Baby (feat. MARINA & Luis Fonsi)	1fLhGF1JfGQYj6EZLndD86	80
+Pop	Zion & Lennox	Otra Vez (feat. J Balvin)	3QwBODjSEzelZyVjxPOHdq	76
+Pop	MGMT	Kids	1jJci4qxiYcOHhQR247rEU	77
+Pop	Mike Perry	The Ocean (feat. Shy Martin)	2CPqh63wRVscbceKcPxwvv	76
+Pop	George Michael	Careless Whisper	4jDmJ51x1o9NZB5Nxxc7gY	76
+Pop	Sam Smith	Baby, You Make Me Crazy	7HwcH5CiJzuUzspuOqOJQa	1
+Pop	Rita Ora	Anywhere	7EI6Iki24tBHAMxtb4xQN2	80
+Pop	Anitta	Downtown	3Ga6eKrUFf12ouh9Yw3v2D	79
+Pop	David Guetta	Your Love	0tgbSxoFjZ20MjfoKwWevV	77
+Pop	Piso 21	Te Amo	2RVrdr062uLFxXwIxwdXPH	80
+Pop	The Offspring	The Kids Aren't Alright	4EchqUKQ3qAQuRNKmeIpnf	78
+Pop	Manuel Turizo	Culpables	3RD0PGolM0mETGHaprwgMn	79
+Pop	Little Mix	Think About Us (feat. Ty Dolla $ign)	18n2GdCpsHYzkbMKPavE7Y	78
+Pop	Sigala	Lullaby	5xzCzOAOfRi4DOttSzvznR	77
+Pop	George Ezra	Paradise	38zwkK6TtTjIW9tpYBfZ3D	80
+Pop	The Verve	Bitter Sweet Symphony	57iDDD9N9tTWe75x6qhStw	80
+Pop	Noah Kahan	Hurt Somebody (With Julia Michaels)	7vA2Y79Q4bBqdzBCfHeGEe	77
+Pop	Luis Fonsi	Calypso	4178A5NkEjcsGc64jpBO6d	78
+Pop	Catfish and the Bottlemen	Longshot	1Yi8XPnCPoimWwqxwm3uz9	77
+Pop	Sean Paul	No Lie	48QmG1dfvMuYLxMPt7KSRA	78
+Pop	Manuel Turizo	Esper�ndote	1nfyE13arjOuO54HH0zmqj	77
+Pop	Silvestre Dangond	Vivir Bailando	7gL0eIncXB5ELO8BFMR3Uv	76
+Pop	KIAN	Waiting	0TBFJanfWaByPIi3f7RR82	77
+Pop	Natti Natasha	Pa' Mala Yo	1HxD3dW5WpCqd3VMUM29y3	76
+Pop	Reykon	Domingo (feat. Cosculluela)	6ayCEojiJIe5d8DwXVlGU4	79
+Pop	Fleet Foxes	If You Need To, Keep Time On Me	7d0XkI4iJ32nxeFAHFXbLQ	1
+Pop	Zion & Lennox	Hola	2dYJKHEqAUTCk2U9zntaS1	77
+Pop	Danny Ocean	Swing	5zUGr7GcNo7UNjvkNYkjiH	77
+Pop	Danny Ocean	Dembow	2EzRdhuoPyNJDlep7lnNf2	79
+Pop	Paul Simon	You Can Call Me Al	0qxYx4F3vm1AOnfux6dDxP	76
+Pop	Jesse & Joy	Te Esper�	6SFtimpTgM5wdYqTalvtFy	78
+Pop	Alejandro Fernandez	Me Dediqu� a Perderte	4NUt1fcnO9aQAELBgXq3Kr	77
+Pop	Jonas Blue	Perfect Strangers	3nhmni2lW0t0eVBXEQAAyF	76
+Pop	Jax Jones	Breathe	0KsB4TwgATg88aXCMBoO3Y	77
+Pop	Jax Jones	You Don't Know Me - Radio Edit	1rFMYAZxBoAKSzXI54brMu	76
+Pop	Sebastian Yatra	Vuelve	6WSAPEkvEfcEUgSTAo1D3S	79
+Pop	Pedro Cap�	Calma	6aLJnupvPpT9HLv3xaUhe1	77
+Pop	Martin Garrix	Burn Out (feat. Dewain Whitmore)	7IWTIkiWGWNQyYfOLdMrGD	78
+Pop	CNCO	Hey DJ - Remix	3cR5ZtQ4JqGj4VHBb1gvFf	76
+Pop	Sebastian Yatra	Por Perro	1XM5PgxjpYcF0JuE9nfUbS	76
+Pop	Dua Lipa	I'm Not the Only One (Sam Smith Cover) - Live from Spotify, London	7wIYDzWW82O6Rc4vGuzjND	1
+Pop	Ruben	Lay By Me	4l6boTiX3Erh3HYpKOa0D6	77
+Pop	Rombai	Me Voy	22sESxzbY1O1E19xjOTaYf	80
+Pop	Leslie Grace	Duro y Suave	31M5m42C3EGlbydf9XB5to	79
+Pop	Kenny Man	Ni Gucci Ni Prada - Remix	3EwnwCYCO2mnCoYj5NLhER	77
+Pop	Sebastian Yatra	No Hay Nadie M�s	3IPJg1sdqLj12kFIndaonN	78
+Pop	Luis Miguel	Ahora Te Puedes Marchar	1uKjQoh8JZj9ryuYRhpd7E	77
+Pop	Westlife	Hello My Love	4EtIza2cKMmR2XP7idebXG	78
+Pop	Jax Jones	Ring Ring (feat. Mabel & Rich The Kid)	3pSfoP1xZllxEuZ6Oh6ebn	76
+Pop	Lorde	Homemade Dynamite (Feat. Khalid, Post Malone & SZA) - REMIX	7rdUtXasA973gmrr2Xxh3E	1
+Pop	Anitta	Veneno	1KFN3kB4hc6r7ILpifFsqf	80
+Pop	Kansas	Dust in the Wind	6zeE5tKyr8Nu882DQhhSQI	77
+Rap	Nicki Minaj	Bed (feat. Ariana Grande)	3L4GsGLgxpHieVQH86H8bv	77
+Rap	The Weeknd	Often	4PhsKqMdgMEUSstTDAmMpg	76
+Rap	$uicideBoy$	Paris	4irYeuAi87yyGHcI4h9s0x	76
+Rap	Eminem	Kamikaze	2gsNpSn7VvvJuSrIDfRoYy	77
+Rap	Sean Paul	Temperature	0k2GOhqsrxDTAbFFSdNJjT	77
+Rap	Fifth Harmony	Work from Home (feat. Ty Dolla $ign)	4tCtwWceOPWzenK2HAIJSb	80
+Rap	The Script	Breakeven	38xWaVFKaxZlMFvzNff2aW	76
+Rap	Usher	My Boo	68vgtRHr7iZHpzGpon6Jlo	77
+Rap	The Weeknd	I Feel It Coming	3dhjNA0jGA8vHBQ1VdD6vV	81
+Rap	MKTO	Classic	6FE2iI43OZnszFLuLtvvmg	78
+Rap	Flo Rida	Low (feat. T-Pain)	0CAfXk7DXMnon4gLudAp7J	80
+Rap	Britney Spears	Oops!...I Did It Again	6naxalmIoLFWR0siv8dnQQ	77
+Rap	Ciara	Level Up	5ubwXXOsH9bUhZsQ0Cybha	76
+Rap	Kesha	TiK ToK	0HPD5WQqrq7wPWR7P7Dw1i	77
+Rap	Pitbull	Time of Our Lives	2bJvI42r8EF3wxjOuDav4r	77
+Rap	Sean Kingston	Beautiful Girls	1hGy2eLcmC8eKx7qr1tOqx	77
+Rap	System Of A Down	Toxicity	0snQkGI5qnAmohLE7jTsTn	78
+Rap	OneRepublic	Connection	3T4UodGkfZObJ43RtA5KFU	78
+Rap	Britney Spears	Toxic	6I9VzXrHxO9rA9A5euc8Ak	79
+Rap	Flo Rida	My House	6Knv6wdA0luoMUuuoYi2i1	77
+Rap	Jessie J	Bang Bang	0puf9yIluy9W0vpMEUoAnN	80
+Rap	American Authors	Best Day Of My Life	5Hroj5K7vLpIG4FNCRIjbP	77
+Rap	Blackstreet	No Diggity	6MdqqkQ8sSC0WB4i8PyRuQ	79
+Rap	The Weeknd	Earned It (Fifty Shades Of Grey) - From The Fifty Shades Of Grey Soundtrack	2PIvq1pGrUjY007X5y1UpM	78
+Rap	Jason Derulo	Swalla (feat. Nicki Minaj & Ty Dolla $ign)	6kex4EBAj0WHXDKZMEJaaF	81
+Rap	Pitbull	Timber	3cHyrEgdyYRjgJKSOiOtcS	76
+Rap	Eminem	Stan	3UmaczJpikHgJFyBTAJVoz	76
+Rap	Linkin Park	What I've Done	18lR4BzEs7e3qzc0KVkTpU	77
+Rap	Slipknot	Duality	61mWefnWQOLf90gepjOCb3	76
+Rap	Trey Songz	Chi Chi (feat. Chris Brown)	0UvBmQOhu4DVXJtdzGc5eV	76
+Rap	GASHI	Creep On Me	1MUL6DO2gVimj2YrVedubd	77
+Rap	Shoreline Mafia	Moving Work (feat. Fenix Flexin, Rob Vicious & OhGeesy)	7iocPVdWe7uLfwOELdf0BR	1
+Rap	Britney Spears	...Baby One More Time	3MjUtNVVq3C8Fn0MP3zhXa	77
+Rap	Usher	U Remind Me	2QsZVnbWVSjKMXK6K3uRBL	76
+Rap	Eminem	The Monster	48RrDBpOSSl1aLVCalGl5C	76
+Rap	Rage Against The Machine	Killing In The Name	59WN2psjkt1tyaxjspN8fp	78
+Rap	Hoobastank	The Reason	1lHtE5JDCas1EwXhQIMOIj	79
+Rap	OneRepublic	Secrets	1NhPKVLsHhFUHIOZ32QnS2	76
+Rap	Nick Jonas	Right Now	43wzy7JxMEfvCh8ZFeZKYk	79
+Rap	Pitbull	Give Me Everything	4QNpBfC0zvjKqPJcyqBy9W	76
+Rap	Pia Mia	Do It Again	72Bz4ciRZPBcVSw0nrZDHi	76
+Rap	Usher	DJ Got Us Fallin' In Love (feat. Pitbull)	4356Typ82hUiFAynbLYbPn	76
+Rap	Jason Derulo	Goodbye (feat. Nicki Minaj & Willy William)	5Xn4IyTtW6FUGIUyWjbUHG	82
+Rap	Flo Rida	Wild Ones (feat. Sia)	1NpW5kyvO4XrNJ3rnfcNy3	77
+Rap	Fifth Harmony	Worth It	41Fflg7qHiVOD6dEPvsCzO	76
+Rap	Kendrick Lamar	Bitch, Don�t Kill My Vibe - Remix	7ALEBJ8LOQqXVJ2tqnXtoH	1
+Rap	Jason Derulo	Want to Want Me	7oGZAicScQt96OAW4AruYy	76
+Rap	Jax Jones	Play	29R1IMTTbDDA3VNlk6UEW5	82
+Rap	Dem Franchize Boyz	Lean Wit It, Rock Wit It	7cVmKBwzPsh4Fmb6SplfEm	1
+Rap	Jason Derulo	Tip Toe (feat. French Montana)	2z4pcBLQXF2BXKFvd0BuB6	76
+Rap	Tyler, The Creator	Domo23	75kiQfmmuQwgquZ9RLSvuA	1
+Rap	Sean Paul	No Lie	48QmG1dfvMuYLxMPt7KSRA	78
+Rap	killedmyself	I walked her home, for the first time	7FcchJaSj4QiIS9aAjj7KN	1
+Rap	Jax Jones	Breathe	0KsB4TwgATg88aXCMBoO3Y	77
+Rap	Jax Jones	You Don't Know Me - Radio Edit	1rFMYAZxBoAKSzXI54brMu	76
+Rap	Jax Jones	Ring Ring (feat. Mabel & Rich The Kid)	3pSfoP1xZllxEuZ6Oh6ebn	76
+Rap	Blac Youngsta	Booty (feat. Chris Brown, Jeezy & Trey Songz) - Remix	7Go8KtX3ixdb51MqB2gPpH	1
+Rap	Tyler, The Creator	Goblin	7C8PNX6VQPDtUkVpRyXV8B	1
+Rap	Jason Derulo	Colors - Coca-Cola� Anthem, 2018 FIFA World CupTM	7wD6iRghe6SnKHkvHqpnC5	1
+Rap	Young Thug	Slime Shit (feat. Yak Gotti, Duke & Peewee Roscoe)	7iynYKl5NWdjM1FXTzs6hw	1
+Rap	Alle Farben	Fading	2RP8Svo0pMwZXnVcmOffDw	80
+Rap	Tyler, The Creator	Bastard	7gza9mETipz1YWiN7tOedL	1
+Pop	Bryan Adams	Heaven	7Ewz6bJ97vUqk5HdkvguFQ	76
+Pop	Simple Minds	Don't You (Forget About Me) - Remastered	0A4PZuepTcIQVvA5m7R0M1	76
+Pop	Alejandro Fernandez	Contigo Siempre	17LxkTp8UNbPcYrDrI6UOq	76
+Pop	Luis Miguel	La Incondicional	6F9yAYUaNbUhdlQyt5uZ3b	77
+Pop	Dem Franchize Boyz	Lean Wit It, Rock Wit It	7cVmKBwzPsh4Fmb6SplfEm	1
+Pop	David Bisbal	A Partir De Hoy	7ojH6H4wE6XJNgzU4uvNc8	77
+Pop	Blur	Song 2 - 2012 Remastered Version	1FTSo4v6BOZH9QxKc3MbVM	76
+Pop	Jason Derulo	Colors - Coca-Cola� Anthem, 2018 FIFA World CupTM	7wD6iRghe6SnKHkvHqpnC5	1
+Pop	Tyler, The Creator	Domo23	75kiQfmmuQwgquZ9RLSvuA	1
+Pop	The Smashing Pumpkins	Tonight, Tonight - Remastered 2012	7bu0znpSbTks0O6I98ij0W	1
+Pop	Aitana	Vas A Quedarte	2b3JxLi8KAiOsD8ehnOxDZ	79
+Pop	Kendrick Lamar	Bitch, Don�t Kill My Vibe - Remix	7ALEBJ8LOQqXVJ2tqnXtoH	1
+Pop	Anitta	Terremoto	7G2XZhDNHo7SSDWSVxC0UT	84
+Pop	Alvaro Soler	La Cintura	1BFmBgVOnLy3Ekrxz1lBOK	77
+Pop	Shakira	Ciega, Sordomuda	7jxHeJLVpnP7S08JFF4GBi	1
+Pop	Alok	Hear Me Now	39cmB3ZoTOLwOTq7tMNqKa	76
+Pop	James Vincent McMorrow	Wicked Game - Live at Killkenny Arts Festival, Ireland/2011	77mT8LF6gDOLZNOjUhmwfV	1
+Rock	David Bisbal	A Partir De Hoy	7ojH6H4wE6XJNgzU4uvNc8	77
+Rock	Albert Hammond, Jr.	Set to Attack	7sI80PK0P3tDCvULKszqzL	1
+Rock	Metallica	Atlas, Rise!	7uSx9pDbxfFsXPyZ4pOm7H	1
+Rock	Modern Baseball	Fine, Great	7hqboBA08HiOvLPd3Ahjod	1
+Rock	Radiohead	There, There	77SPrxY5gn6VPrKPGrfLnM	1
+Rock	Hank Williams, Jr.	O.D.'d In Denver	7uCvaKZCcIiGWK1Xx4MOCU	1
+Rock	Tom Petty and the Heartbreakers	Keep a Little Soul - Outtake, 1982	7aaHlvqJoea0S46e3YPVEX	1
+Rock	Fall Out Boy	Champagne For My Real Friends, Real Pain For My Sham Friends	78A2FZKzGtkaIIlov5te9S	1
+Ska	Jimmy Cliff	Wonderful World, Beautiful People - Single Version	7vCEPLGrLHqBHyRPPsweYY	1
+Ska	Sublime	April 29th, 1992 (Leary)	77KuggXmWIkfUzKVkXENc7	1
+Ska	Streetlight Manifesto	One Foot on the Gas, One Foot in the Grave	7pP30yF151JsFsxVA43YDl	1
+Ska	Streetlight Manifesto	Failing, Flailing	7g96GMqMFfkrzEvDwSIWzQ	1
+Ska	Streetlight Manifesto	Day in, Day Out	7aXtTsdqPmc2AKldnkDpj9	1
+Ska	Mischief Brew	Gimme Coffee, Or Death	7fSvgMps10aIHrAO2bQbYv	1
+Rock	Panic! At The Disco	High Hopes	1rqqCSm0Qe4I9rUvWncaom	95
+Rock	Queen	Bohemian Rhapsody - Remastered 2011	7tFiyTwD0nx5a1eklYtX2J	82
+Rock	Queen	Don't Stop Me Now - Remastered	7hQJA50XrCWABAu5v6QZ4i	81
+Rock	YUNGBLUD	11 Minutes (with Halsey feat. Travis Barker)	4mGdjNMo0RonTlOEb7cYg4	87
+Rock	Imagine Dragons	Natural	2FY7b99s15jUprqC0M5NCT	89
+Rock	Imagine Dragons	Thunder	1zB4vmk8tFRmM9UULNzbLB	88
+Rock	Imagine Dragons	Believer	0pqnGHJpmpxLKifKRmU6WP	89
+Rock	The Killers	Mr. Brightside	7oK9VyNzrYvRFo7nQEYkWN	80
+Rock	Toto	Africa	2374M0fQpWi3dLnB54qaLX	85
+Rock	Imagine Dragons	Bad Liar	2RSHsoi04658QL5xgQVov3	90
+Rock	Queen	Under Pressure - Remastered	11IzgLRXV7Cgek3tEgGgjw	77
+Rock	Imagine Dragons	Whatever It Takes	6Qn5zhYkTa37e91HC1D7lb	85
+Rock	Queen	Somebody To Love - Remastered 2011	6cFZ4PLC19taNlpl9pbGMf	77
+Rock	Queen	We Will Rock You - Remastered	54flyrjcdnQdco7300avMJ	76
+Rock	The White Stripes	Seven Nation Army	7i6r9KotUPQg3ozKKgEPIN	76
+Rock	Twenty One Pilots	Stressed Out	3CRDbSIZ4r5MsZ0YwxuEkn	84
+Rock	Electric Light Orchestra	Mr. Blue Sky	2RlgNHKcydI9sayD2Df2xp	81
+Rock	Lynyrd Skynyrd	Sweet Home Alabama	7e89621JPkKaeDSTQ3avtg	82
+Rock	Eagles	Hotel California - Eagles 2013 Remaster	40riOy7x9W7GXjyGp4pjAv	83
+Rock	Panic! At The Disco	I Write Sins Not Tragedies	4bPQs0PHn4xbipzdPfn6du	77
+Rock	Grouplove	Tongue Tied	0GO8y8jQk1PkHzS31d699N	80
+Rock	Fleetwood Mac	Dreams - 2004 Remaster	0ofHAoxe9vBkTCp2UQIavz	79
+Rock	Foster The People	Pumped Up Kicks	7w87IxuO7BDcJ3YUqCyMTT	83
+Rock	lovelytheband	broken	6XcfKZvJio9Z0fQy11GnNX	78
+Rock	AC/DC	Highway to Hell	2zYzyRzz6pRmhPzyfMEC8s	84
+Rock	Fleetwood Mac	Landslide	5ihS6UUlyQAfmp48eSkxuQ	78
+Rock	Twenty One Pilots	Heathens	6i0V12jOa3mr6uu4WYhUBr	82
+Rock	AC/DC	Back In Black	08mG3Y1vljYA6bvDt4Wqkj	83
+Rock	Creedence Clearwater Revival	Fortunate Son	4BP3uh0hFLFRb5cjsgLqDh	80
+Rock	Smash Mouth	All Star	3cfOd4CMv2snFaKAnMdnvK	82
+Rock	Elton John	Tiny Dancer	2TVxnKdb3tqe1nhQWwwZCO	80
+Rock	AC/DC	Thunderstruck	57bgtoPSgt236HzfBOd8kj	81
+Rock	John Mayer	New Light	3bH4HzoZZFq8UpZmI2AMgV	84
+Rock	The Beatles	Here Comes The Sun - Remastered 2009	6dGnYIeXmHdcikdzNNDMm2	82
+Rock	Twenty One Pilots	Chlorine	23OXdR7YuUBVWh5hSnYJau	82
+Rock	Van Morrison	Brown Eyed Girl	3yrSvpt2l1xhsV9Em88Pul	80
+Rock	Fleetwood Mac	The Chain - 2004 Remaster	5e9TFTbltYBg2xThimr0rU	78
+Rock	X Ambassadors	Unsteady	7lGKEWMXVWWTt3X71Bv44I	78
+Rock	Panic! At The Disco	Death Of A Bachelor	1BECwm5qkaBwlbfo4kpYx8	79
+Rock	Billy Joel	Uptown Girl	5zA8vzDGqPl2AzZkEYQGKh	79
+Rock	Snow Patrol	Chasing Cars	11bD1JtSjlIgKgZG2134DZ	78
+Rock	Arctic Monkeys	Do I Wanna Know?	5FVd6KXrgO9B3JPmC8OPst	84
+Rock	Twenty One Pilots	Ride	2Z8WuEywRWYTKe1NybPQEW	83
+Rock	WALK THE MOON	Shut Up and Dance	4kbj5MwxO1bq9wjT5g9HaA	80
+Rock	Journey	Don't Stop Believin'	4bHsxqR3GMrXTxEPLuK5ue	80
+Rock	Boston	More Than a Feeling	1QEEqeFIZktqIpPI4jSVSF	78
+Rock	Foster The People	Sit Next to Me	4BdGO1CaObRD4La9l5Zanz	76
+Rock	The Neighbourhood	Sweater Weather	2QjOHCTQ1Jl3zawyYOpxh6	79
+Rock	Red Hot Chili Peppers	Under The Bridge	3d9DChrdc6BOeFsbrZ3Is0	82
+Rock	Tame Impala	The Less I Know The Better	6K4t31amVTZDgR3sKmwUJJ	82
+Rock	Vance Joy	Riptide	3JvrhDOgAt6p7K8mDyZwRd	78
+Rock	Morgan Wallen	Whiskey Glasses	6foY66mWZN0pSRjZ408c00	78
+Rock	Tears For Fears	Everybody Wants To Rule The World	4RvWPyQ5RL0ao9LPZeSouE	81
+Rock	Aerosmith	Dream On	5MxNLUsfh7uzROypsoO5qe	79
+Rock	Led Zeppelin	Immigrant Song - Remastered	78lgmZwycJ3nzsdgmPPGNx	78
+Rock	The Fray	How to Save a Life	5fVZC9GiM4e8vu99W0Xf6J	81
+Rock	Thomas Rhett	Die A Happy Man	5kNe7PE09d6Kvw5pAsx23n	77
+Rock	Panic! At The Disco	Say Amen (Saturday Night)	76vMKwFtdDDCLcM6zXybjB	77
+Rock	Fall Out Boy	Centuries	04aAxqtGp5pv12UXAg4pkq	81
+Rock	Kings of Leon	Sex on Fire	0ntQJM78wzOLVeCUAW7Y45	81
+Rock	Bryan Adams	Summer Of '69	0GONea6G2XdnHWjNZd6zt3	80
+Rock	a-ha	Take on Me	2WfaOiMkCvy7F5fcp2zZ8L	84
+Rock	Eagles	Take It Easy - 2013 Remaster	4yugZvBYaoREkJKtbG08Qr	76
+Rock	Led Zeppelin	Stairway to Heaven - Remastered	5CQ30WqJwcep0pYcV4AMNc	79
+Rock	Jimmy Eat World	The Middle	3mcG2NI5G5vhrQtRda1YnA	78
+Rock	John Mayer	I Guess I Just Feel Like	1HNywa8Bk0TmzRwQrzhtPo	80
+Rock	Thomas Rhett	Marry Me	0OWZFobGSIW9GrSlQ9C5pc	77
+Rock	Jason Mraz	I'm Yours	1EzrEOXmMH3G43AXT1y7pA	85
+Rock	Plain White T's	Hey There Delilah	4RCWB3V8V0dignt99LZ8vH	80
+Rock	Pink Floyd	Wish You Were Here	6mFkJmJqdDVQ1REhVfGgd1	77
+Rock	MGMT	Electric Feel	3FtYbEfBqAlGO46NUDQSAt	77
+Rock	Lee Brice	Rumor	56eGOeSsqdg3FLxdo83TwV	76
+Rock	Owl City	Fireflies	3DamFFqW32WihKkTVlwTYQ	79
+Rock	Counting Crows	Mr. Jones	5DiXcVovI0FcY2s0icWWUu	78
+Rock	Twenty One Pilots	My Blood	5HeKOKc4phmLn8e4I7EkzD	79
+Rock	Van Halen	Jump - 2015 Remaster	7N3PAbqfTjSEU1edb2tY8j	78
+Rock	Jake Owen	Down To The Honkytonk	3nanWt1pkU2yNgdLdAJ9Qc	76
+Rock	Kings of Leon	Use Somebody	5VGlqQANWDKJFl0MBG3sg2	77
+Rock	The Cranberries	Zombie	2IZZqH4K02UIYg5EohpNHF	81
+Rock	Red Hot Chili Peppers	Can't Stop	3ZOEytgrvLwQaqXreDs2Jx	82
+Rock	Scotty McCreery	This Is It	34DFpyq5NJJ79GnGbbJH3p	76
+Rock	Franz Ferdinand	Take Me Out	6ooluO7DiEhI1zmK94nRCM	76
+Rock	Jimi Hendrix	All Along the Watchtower	2aoo2jlRnM3A0NyLQqMN2f	77
+Rock	Jon Pardi	Night Shift	0bPnT6i9H1p8Vd85GS6Z7I	76
+Rock	Rodney Atkins	Caught Up In The Country	2BgunkkepMPFpArQj1Dx5s	76
+Rock	Dustin Lynch	Small Town Boy	2YMhrXQYKkm4kXLcXKKd5z	76
+Rock	AC/DC	You Shook Me All Night Long	2SiXAy7TuUkycRVbbWDEpo	78
+Rock	Train	Drops of Jupiter	2hKdd3qO7cWr2Jo0Bcs0MA	79
+Rock	A Great Big World	Say Something	6Vc5wAMmXdKIAM7WUoEb7N	80
+Rock	Soundgarden	Black Hole Sun	2EoOZnxNgtmZaD8uUmz2nD	77
+Rock	Radiohead	Creep	6b2oQwSGFkzsMtQruIWm2p	82
+Rock	blink-182	All The Small Things	7yCPwWs66K8Ba5lFuU2bcx	80
+Rock	Fleetwood Mac	Everywhere - 2017 Remaster	254bXAqt3zP6P50BdQvEsq	79
+Rock	AC/DC	T.N.T.	7LRMbd3LEoV5wZJvXT1Lwb	78
+Rock	America	A Horse with No Name	54eZmuggBFJbV7k248bTTt	77
+Rock	The Beatles	Come Together - Remastered 2009	2EqlS6tkEnglzr7tkKAAYD	79
+Rock	Red Hot Chili Peppers	Californication	48UPSzbZjgc449aqz8bxox	82
+Rock	Twenty One Pilots	Morph	01vv2AjxgP4uUyb8waYO5Y	76
+Rock	Panic! At The Disco	This Is Gospel	3yZQk5PC52CCmT4ZaTIKvv	76
+Rock	Chase Rice	Eyes On You	5AnSllIrgGsCZzZJkVnApx	77
+Rock	The Beatles	Let It Be - Remastered 2009	7iN1s7xHE4ifF5povM6A48	79
+Rock	George Harrison	My Sweet Lord	0qdQUeKVyevrbKhAo0ibxS	77
+Rock	Fort Minor	Remember The Name (feat. Styles Of Beyond)	6ndmKwWqMozN2tcZqzCX4K	77
+Rock	Survivor	Eye of the Tiger	2KH16WveTQWT6KOG9Rg6e2	77
+Rock	Ozzy Osbourne	Crazy Train - Remastered	2b9lp5A6CqSzwOrBfAFhof	76
+Rock	The Script	Breakeven	38xWaVFKaxZlMFvzNff2aW	76
+Rock	Zac Brown Band	Chicken Fried	4dGJf1SER1T6ooX46vwzRB	76
+Rock	American Authors	Best Day Of My Life	5Hroj5K7vLpIG4FNCRIjbP	77
+Rock	The Beatles	Hey Jude - Remastered 2015	0aym2LBJBk9DAYuHHutrIl	78
+Rock	Twenty One Pilots	Jumpsuit	1E1uGhNdBe6Dddbgs2KqtZ	78
+Rock	Imagine Dragons	Zero - From the Original Motion Picture Ralph Breaks The Internet	2bzitsPcImYC6DZWvvLCQi	78
+Rock	Eurythmics	Sweet Dreams (Are Made of This) - Remastered	1TfqLAPs4K3s2rJMoCokcS	82
+Rock	The Clash	Should I Stay or Should I Go - Remastered	39shmbIHICJ2Wxnk1fPSdz	79
+Rock	Led Zeppelin	Whole Lotta Love - 1990 Remaster	0hCB0YR03f6AmQaHbwWDe8	77
+Rock	Red Hot Chili Peppers	Snow (Hey Oh)	2aibwv5hGXSgw7Yru8IYTO	80
+Rock	R.E.M.	Losing My Religion	31AOj9sFz2gM0O3hMARRBx	82
+Rock	Jet	Are You Gonna Be My Girl	305WCRhhS10XUcH6AEwZk6	77
+Rock	Twenty One Pilots	Car Radio	5cbpoIu3YjoOwbBDGUEp3P	76
+Rock	KALEO	Way Down We Go	0y1QJc3SJVPKJ1OvFmFqe6	76
+Rock	Foo Fighters	Everlong	5UWwZ5lm5PKu6eKsHAGxOk	77
+Rock	Twenty One Pilots	Nico And The Niners	5SehvGGC53A7SZKCLXQcyt	77
+Rock	Vampire Weekend	Harmony Hall	5kXDF4OmM5COyeo6z97nEk	76
+Rock	Imagine Dragons	Believer (feat. Lil Wayne)	2sU9EjevkrU9OkPZudvFNN	76
+Rock	3 Doors Down	Kryptonite	6ZOBP3NvffbU4SZcrnt1k6	79
+Rock	James Bay	Peer Pressure (feat. Julia Michaels)	4JWQC6gyYoPRnxRxk0ta2M	80
+Rock	John Lennon	Imagine - Remastered	7pKfPomDEeI4TPT6EOYjn9	78
+Rock	Green Day	Basket Case	6L89mwZXSOwYl76YXfX13s	80
+Rock	John Mayer	Your Body Is a Wonderland	7vFv0yFGMJW3qVXbAd9BK9	78
+Rock	Imagine Dragons	Machine	4uGY9CqDtGtaTTLg1cgsWD	76
+Rock	John Mayer	Slow Dancing in a Burning Room	2jdAk8ATWIL3dwT47XpRfu	78
+Rock	MGMT	Kids	1jJci4qxiYcOHhQR247rEU	77
+Rock	System Of A Down	Chop Suey!	2DlHlPMa4M17kufBvI2lEN	81
+Rock	Fall Out Boy	Thnks fr th Mmrs	3Zwu2K0Qa5sT6teCCHPShP	76
+Rock	KISS	Rock And Roll All Nite	6KTv0Z8BmVqM7DPxbGzpVC	76
+Rock	OneRepublic	Connection	3T4UodGkfZObJ43RtA5KFU	78
+Rock	Elton John	Your Song	38zsOOcu31XbbYj9BIPUF1	76
+Rock	Rage Against The Machine	Killing In The Name	59WN2psjkt1tyaxjspN8fp	78
+Rock	The Goo Goo Dolls	Iris	6vrUTGn5p8IrfTZ0J6sIVM	78
+Rock	blink-182	What's My Age Again?	5JZcX7TTLx4l0xFIXJ3DBt	76
+Rock	Bishop Briggs	River	3mRLHiSHYtC8Hk7bzZdUs1	77
+Rock	The 1975	It's Not Living (If It's Not With You)	3TgMcrV32NUKjEG2ujn9eh	79
+Rock	Catfish and the Bottlemen	Longshot	1Yi8XPnCPoimWwqxwm3uz9	77
+Rock	Paul Simon	You Can Call Me Al	0qxYx4F3vm1AOnfux6dDxP	76
+Rock	Pearl Jam	Alive	1L94M3KIu7QluZe63g64rv	77
+Rock	Red Hot Chili Peppers	Otherside	64BbK9SFKH2jk86U3dGj2P	79
+Rock	Guns N' Roses	November Rain	3YRCqOhFifThpSRFJ1VWFM	81
+Rock	The Verve	Bitter Sweet Symphony	57iDDD9N9tTWe75x6qhStw	80
+Rock	Arctic Monkeys	R U Mine?	2AT8iROs4FQueDv2c8q2KE	79
+Rock	The Beatles	I Want To Hold Your Hand - Remastered 2015	4pbG9SUmWIvsROVLF0zF9s	76
+Rock	Phil Collins	In The Air Tonight - 2015 Remastered	18AXbzPzBS8Y3AkgSxzJPb	77
+Rock	Vanessa Carlton	A Thousand Miles	4w1lzcaoZ1IC2K5TwjalRP	78
+Rock	The Cranberries	Linger	0gEyKnHvgkrkBM6fbeHdwK	76
+Rock	Arctic Monkeys	Why'd You Only Call Me When You're High?	086myS9r57YsLbJpU0TgK9	78
+Rock	Yusuf / Cat Stevens	Wild World	6Xz7FeyE8HTP90HecgHV57	77
+Rock	Red Hot Chili Peppers	Scar Tissue	1G391cbiT3v3Cywg8T7DM1	77
+Rock	Audioslave	Like a Stone	3YuaBvuZqcwN3CEAyyoaei	76
+Rock	Muse	Uprising	4VqPOruhp5EdPBeR92t6lQ	77
+Rock	Red Hot Chili Peppers	Dani California	10Nmj3JCNoMeBQ87uw5j8k	77
+Rock	Aerosmith	I Don't Want to Miss a Thing	225xvV8r1yKMHErSWivnow	78
+Rock	Wham!	Wake Me up Before You Go-Go	0ikz6tENMONtK6qGkOrU3c	80
+Rock	The Beatles	Twist And Shout - Remastered 2009	5ZBeML7Lf3FMEVviTyvi8l	76
+Rock	The 1975	Love It If We Made It	6WmIyn2fx1PKQ0XDpYj4VR	77
+Rock	Green Day	American Idiot	6nTiIhLmQ3FWhvrGafw2zj	78
+Rock	Kansas	Dust in the Wind	6zeE5tKyr8Nu882DQhhSQI	77
+Rock	KISS	I Was Made For Lovin' You	07q0QVgO56EorrSGHC48y3	78
+Rock	4 Non Blondes	What's Up?	0jWgAnTrNZmOGmqgvHhZEm	80
+Rock	Foreigner	I Want to Know What Love Is	1JLn8RhQzHz3qDqsChcmBl	77
+Rock	Sixpence None The Richer	Kiss Me	754kgU5rWscRTfvlsuEwFp	79
+Rock	The Who	Baba O'Riley	3qiyyUfYe7CRYLucrPmulD	76
+Rock	The Rolling Stones	Start Me Up - Remastered 2009	7HKez549fwJQDzx3zLjHKC	76
+Rock	The Rolling Stones	(I Can't Get No) Satisfaction - Mono Version	2PzU4IB8Dr6mxV3lHuaG34	77
+Rock	Foo Fighters	The Pretender	7x8dCjCr0x6x2lXKujYD34	77
+Rock	John Mayer	Waiting On the World to Change	5imShWWzwqfAJ9gXFpGAQh	76
+Rock	Toto	Hold the Line	4aVuWgvD0X63hcOCnZtNFA	76
+Rock	Elvis Presley	Can't Help Falling in Love	44AyOl4qVkzS48vBsbNXaC	78
+Rock	Green Day	Good Riddance (Time of Your Life)	6ORqU0bHbVCRjXm9AjyHyZ	77
+Rock	Tom Walker	Just You and I	2n48BjaFSczfeIG3HaIaPv	80
+Rock	Jason Mraz	Lucky	0IktbUcnAGrvD03AWnz3Q8	79
+Rock	Guns N' Roses	Knockin' On Heaven's Door	4JiEyzf0Md7KEFFGWDDdCr	77
+Rock	Hoobastank	The Reason	1lHtE5JDCas1EwXhQIMOIj	79
+Rock	Nickelback	How You Remind Me - LP Mix	0gmbgwZ8iqyMPmXefof8Yf	79
+Rock	Green Day	When I Come Around	1Dr1fXbc2IxaK1Mu8P8Khz	76
+Rock	Elton John	I'm Still Standing	1jDJFeK9x3OZboIAHsY9k2	76
+Rock	OneRepublic	Secrets	1NhPKVLsHhFUHIOZ32QnS2	76
+Rock	MKTO	Classic	6FE2iI43OZnszFLuLtvvmg	78
+Rock	Cyndi Lauper	Girls Just Want to Have Fun	4y1LsJpmMti1PfRQV9AWWe	76
+Rock	FRENSHIP	Capsize	2XMTqoHHSH0lvuXrvIEdco	76
+Rock	Phil Collins	You Can't Hurry Love - 2016 Remastered	4YwbSZaYeYja8Umyt222Qf	77
+Rock	U2	I Still Haven't Found What I'm Looking For	6wpGqhRvJGNNXwWlPmkMyO	76
+Rock	George Michael	Careless Whisper	4jDmJ51x1o9NZB5Nxxc7gY	76
+Rock	James Blunt	You're Beautiful	0vg4WnUWvze6pBOJDTq99k	78
+Rock	Papa Roach	Last Resort	5W8YXBz9MTIDyrpYaCg2Ky	78
+Rock	Carly Simon	You're so Vain	2DnJjbjNTV9Nd5NOa1KGba	76
+Rock	Imagine Dragons	Next To Me	31VOknKjFrEX47bZXzqcoF	77
+Rock	System Of A Down	Toxicity	0snQkGI5qnAmohLE7jTsTn	78
+Rock	Green Day	Wake Me up When September Ends	3ZffCQKLFLUvYM59XKLbVm	77
+Rock	Tracy Chapman	Fast Car	2M9ro2krNb7nr7HSprkEgo	78
+Rock	Blur	Song 2 - 2012 Remastered Version	1FTSo4v6BOZH9QxKc3MbVM	76
+Rock	The 1975	TOOTIMETOOTIMETOOTIME	33DzKnwuBE6lfOiADwzd5E	76
+Rock	Bee Gees	Stayin' Alive - From Saturday Night Fever Soundtrack	79hJaqmVdohltPBNN6BULM	77
+Rock	Lifehouse	You And Me	0815caqt2Lytro5EIzMufT	77
+Rock	Red Hot Chili Peppers	By The Way	1f2V8U1BiWaC9aJWmpOARe	76
+Rock	Daniel Powter	Bad Day	0mUyMawtxj1CJ76kn9gIZK	78
+Rock	Ben E. King	Stand by Me	3SdTKo2uVsxFblQjpScoHy	79
+Rock	ChocQuibTown	Pa Olvidarte (feat. Manuel Turizo) - Remix	2ktoFujjJtantyMoVdBJlX	86
+Rock	U2	With Or Without You - Remastered	6ADSaE87h8Y3lccZlBJdXH	79
+Rock	Natasha Bedingfield	Unwritten	1D1nixOVWOxvNfWi0UD7VX	77
+Rock	Bryan Adams	Heaven	7Ewz6bJ97vUqk5HdkvguFQ	76
+Rock	Simple Minds	Don't You (Forget About Me) - Remastered	0A4PZuepTcIQVvA5m7R0M1	76
+Rock	Bon Jovi	It's My Life	0v1XpBHnsbkCn7iJ9Ucr1l	77
+Rock	Capital Cities	Safe And Sound	6Z8R6UsFuGXGtiIxiD8ISb	77
+Rock	LP	Lost on You	2LIh4uzqq9cXMPzzmcToHl	77
+Rock	Bonnie Tyler	Total Eclipse of the Heart	5prTs2HAw2G4idHZyeFp8o	76
+Rock	Sara Bareilles	Love Song	4E6cwWJWZw2zWf7VFbH7wf	77
+Ska	Less Than Jake	Richard Allen George...No, It's Just Cheez	7hARjV23Sldg6Cut6oMZsY	1
+Ska	[spunge]	No Woman, No Cry	7yPQluVzkSz0grzFSasqvX	1
+Ska	The Specials	Friday Night, Saturday Morning - Live At Le Bataclan	7rdbY6SVgo8xTbnHldJ7zb	1
+Ska	Night Gaunts	Lo Fi, One Mic	7huLG0d0CjcoC9ouvPW6mr	1
+Ska	Ska-P	Cruz, Oro y Sangre	7zHxLKOjsw8XAOtzMAu3XE	1
+Ska	The Specials	Stereotype / Stereotype, Pt. 2 - 2015 Remaster	7Ds1c6kbt72pc2mtLcJFqp	1
+Ska	The Specials	Hey, Little Rich Girl - 2015 Remaster	7r2DVHyFR53UmyR3tBv1Qs	1
+Ska	Face To Face	First Step, Misstep	7otGKbGyAnCyK2ckHFsHcT	1
+Ska	Tokyo Ska Paradise Orchestra	Love You, Cha Cha Cha	7oZqUoelvqseCZFbgAUAeS	1
+Ska	Fun Boy Three	Faith, Hope and Charity	7nUC3alMXaKRKjZHhINFqS	1
+Rock	Commodores	Easy	1JQ6Xm1JrvHfvAqhl5pwaA	76
+Rock	The Offspring	The Kids Aren't Alright	4EchqUKQ3qAQuRNKmeIpnf	78
+Rock	Scorpions	Wind Of Change	3ovjw5HZZv43SxTwApooCM	77
+Rock	Tom Walker	Leave a Light On	6lOWoTqVnAWXchddtTH31W	81
+Rock	The Smashing Pumpkins	Tonight, Tonight - Remastered 2012	7bu0znpSbTks0O6I98ij0W	1
+Rock	U2	One	3G69vJMWsX6ZohTykad2AU	76
+Rock	Hank Williams, Jr.	A Country Boy Can Survive	77dcKrzRUI02XjHd2okARp	1
+Rock	Fleet Foxes	If You Need To, Keep Time On Me	7d0XkI4iJ32nxeFAHFXbLQ	1
+Rock	Pink Floyd	Another Brick in the Wall, Pt. 1	7K6xMPtAjTuLPNlJMLf5bS	1
+Rock	Noah Kahan	Hurt Somebody (With Julia Michaels)	7vA2Y79Q4bBqdzBCfHeGEe	77
+Rock	Juanes	La Plata (feat. Lalo Ebratt)	7Eso5mURNFprb5PmhOXDlf	78
+Rock	Jim Croce	Bad, Bad Leroy Brown	7qFg0joTjCiYOvzrt9nNtg	1
+Rock	Bomba Est�reo	To My Love - Tainy Remix	5LciLoxa1gK70yIUeoHgRx	77
+Rock	Men I Trust	Say, Can You Hear	7JvjjlZ5R1I1xRDsEkPuJ7	1
+Rock	Hiss Golden Messenger	Caledonia, My Love	7cgka1GOkbcvNqQYrs2FwE	1
+Rock	for KING & COUNTRY	Fight On, Fighter	7lPM8uXuIO5MDWv6L0TPaZ	1
+Rock	Hank Williams, Jr.	All My Rowdy Friends (Have Settled Down)	7hBrO5jpSGEbd9X6zxGxQI	1
